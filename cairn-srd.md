@@ -19,8 +19,8 @@ Les joueurs jouent le rôle d'aventuriers endurcis explorant une forêt sombre e
 - [Principes pour les Gardiens](#principes-pour-les-gardiens)
 - [Principes pour les joueurs](#principes-pour-les-joueurs)
 - [Création de personnage](#création-de-personnage)
-- [Equipment](#equipment-list-prices-in-gold-pieces)
-- [Rules](#rules)
+- [Équipement](#liste-des-équipements--prix-en-pièces-d'or)
+- [Règles](#règles)
 - [Bestiary](#bestiary)
 - [100 Spells](#100-spells)
 - [Rules Summary](#rules-summary)
@@ -177,7 +177,7 @@ Enfin, déterminez son **âge** (2d20+10).
 Les Personnages Joueurs (PJs) ont seulement trois caractéristiques :  
 **La force (FOR)**, **la dextérité (DEX)**, et **la volonté (VOL)**. Lorsqu'il crée un PJ, le joueur doit lancer 3d6 pour chacun des scores de capacité de son personnage, dans l'ordre. Il peut ensuite échanger deux des résultats, au choix.
 
-<détails markdown="block">
+<details markdown="block">
   <summary>
 Développez pour l'exemple
  </summary>
@@ -207,7 +207,7 @@ Lancez un dé sur chacune des tables **Equipement de départ** pour déterminer 
 
 Consultez la **Liste d'équipement** pour connaître les valeurs d'armure, de dégâts et d'emplacement correspondantes. Les objets plus petits peuvent parfois être regroupés dans un seul emplacement.
 
-Si vous souhaitez quelque chose de plus proche des classes traditionnelles, consultez la liste des [**Ensembles d'équipement optionnels**](#ensembles-dequipement-optionnels).
+Si vous souhaitez quelque chose de plus proche des classes traditionnelles, consultez la liste des [**Ensembles d'équipement optionnels**](#ensembles-d-equipement-optionnels).
 
 <p></p>
 
@@ -256,7 +256,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 <p></p>
 
-## Character Traits (d10)
+## Traits (d10)
 
 #### Physique
 
@@ -282,7 +282,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Chauve | 6    | Long      |
+| 1    | Chauve | 6    | Longs     |
 | 2    | Tressés | 7    | Luxuriants |
 | 3    | Bouclés | 8    | Gras   |
 | 4    | Sales | 9    | Ondulé |
@@ -360,326 +360,336 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 <p></p>
 
-## Starting Gear (d20)
+## Équipement de départ (d20)
 
-#### Armor
+#### Armure
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| Aucune | Brigandine | Cotte de mailles | Harnois |
 
-#### Helmets & Shields
+#### Casques et boucliers
 
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       Aucun   | Casque | Bouclier | Casque & bouclier |
 
-#### Weapons
+#### Armes
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Dague, gourdin, bâton | Épée, masse, hache | Arc long, arbalète, fronde | Hallebarde, marteau de guerre, hache de guerre |
 
-#### Expeditionary Gear
+#### Matériel d'expédition
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+|      |                                       |      |                        |      |                   |      |                   |
+| ---- | ------------------------------------- | ---- | ---------------------- | ---- | ----------------- | ---- | ----------------- |
+| 1    | Poche d'air                           | 6    | Huile                  | 11   | Menottes          | 16   | Corde (10 mètres) |
+| 2    | Antidote                              | 7    | Grappin                | 12   | Pioche            | 17   | Talisman          |
+| 3    | Chariot (+4 emplacements, encombrant) | 8    | Grand sac              | 13   | Perche (3 mètres) | 18   | Longue-vue        |
+| 4    | Chaîne (3 mètres)                     | 9    | Grand piège            | 14   | Poulie            | 19   | Boîte à amadou    |
+| 5    | Bâton de sourcier                     | 10   | Matériel de crochetage | 15   | Répulsif          | 20   | Aconit tue-loup   |
 
-#### Tools
+#### Outils
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+|      |               |      |                     |      |               |      |        |
+| ---- | ------------- | ---- | ------------------- | ---- | ------------- | ---- | ------ |
+| 1    | Soufflet      | 6    | Marmite             | 11   | Graisse       | 16   | Filet  |
+| 2    | Seau          | 7    | Pied-de-biche       | 12   | Marteau       | 17   | Scie   |
+| 3    | Chaussetrapes | 8    | Perceuse (manuelle) | 13   | Sablier       | 18   | Mastic |
+| 4    | Craie         | 9    | Canne à pêche       | 14   | Lime à métaux | 19   | Pelle  |
+| 5    | Burin         | 10   | Colle               | 15   | Clous         | 20   | Pinces |
 
-#### Trinkets
+#### Babioles
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+|      |               |      |            |      |                |      |                |
+| ---- | ------------- | ---- | ---------- | ---- | -------------- | ---- | -------------- |
+| 1    | Bouteille     | 6    | Corne      | 11   | Miroir         | 16   | Savon          |
+| 2    | Jeu de cartes | 7    | Encens     | 12   | Parfum         | 17   | Éponge         |
+| 3    | Jeu de dés    | 8    | Instrument | 13   | Plume et encre | 18   | Pot de goudron |
+| 4    | Maquillage    | 9    | Lentille   | 14   | Paquet de sel  | 19   | Twine          |
+| 5    | Faux bijoux   | 10   | Billes     | 15   | Petite cloche  | 20   | Whistle        |
 
-#### 																		Bonus Item (roll on table indicated)
+#### 																		Objet bonus (lancer sur la table indiquée)
 
-|                  |                    |                 |           |
-| :--------------: | :----------------: | :-------------: | :-------: |
-|       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+|                   |                       |                |       |
+| :---------------: | :-------------------: | :------------: | :---: |
+|        1-5        |         6-13          |     14-17      | 18-20 |
+| Outil ou babioles | Matériel d'expédition | Armure ou Arme | Sorts |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						Sorts (d100)
 
 |||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|---|------------------------|---|-------------------------------|---|---------------------------|---|----------------------|
+|1  |Adhésion                |26 |Décharge primordiale           |51 |Illusion auditive          |76 |Pousser/Tirer         |
+|2  |Air liquide             |27 |Déguisement                    |52 |Illusion visuelle          |77 |Prison astrale        |
+|3  |Ancrage                 |28 |Déplacement                    |53 |Image miroir               |78 |Rayons X              |
+|4  |Animation d'objet       |29 |Désassemblage                  |54 |Injonction                 |79 |Réanimation           |
+|5  |Anthropomorphisme       |30 |Détection de la magie          |55 |Inversion corporelle       |80 |Remontée              |
+|6  |Appât fleurissant       |31 |Détection des pensées          |56 |Inversion gravitationnelle |81 |Répulsion             |
+|7  |Assourdissement         |32 |Élasticité                     |57 |Invocation cubique         |82 |Saut                  |
+|8  |Attache invisible       |33 |Embrouille                     |58 |Invocation d'idole         |83 |Scie fantastique      |
+|9  |Atténuation de la magie |34 |Entendre les murmures          |59 |Leurre                     |84 |Scrutation            |
+|10 |Attraction              |35 |Essaim                         |60 |Localisation               |85 |Sculpture élémentaire |
+|11 |Avarice                 |36 |Extinction                     |61 |Manse                      |86 |Soin des blessures    |
+|12 |Babillage               |37 |Fièvre des billes              |62 |Marque du sorcier          |87 |Sommeil               |
+|13 |Bouclier                |38 |Flaire                         |63 |Mascarade                  |88 |Spectacle             |
+|14 |Bras multiples          |39 |Forme bestiale                 |64 |Miniaturisation            |89 |Sphère Nocturne       |
+|15 |Buisson                 |40 |Forme fumante                  |65 |Mirage                     |90 |Suspension            |
+|16 |Célérité                |41 |Forme visqueuse                |66 |Mur élémentaire            |91 |Télékinésie           |
+|17 |Cercle de protection    |42 |Fosse                          |67 |Nuage de brouillard        |92 |Télépathie            |
+|18 |Charme                  |43 |Frénésie                       |68 |Objectification            |93 |Téléportation         |
+|19 |Compréhension           |44 |Fusée éclairante               |69 |Oeil magique               |94 |Toiles d'araignée     |
+|20 |Cône de mousse          |45 |Graisse                        |70 |Pacification               |95 |Toucher glacial       |
+|21 |Contact spirituel       |46 |Gribouillage                   |71 |Passe-miroir               |96 |Tremblement de terre  |
+|22 |Contrôle de la météo    |47 |Haine                          |72 |Pattes d'araignées         |97 |Triage                |
+|23 |Contrôle des plantes    |48 |Hypnose                        |73 |Permutation                |98 |Vision suprême        |
+|24 |Contrôle temporel       |49 |Identification de propriétaire |74 |Phobie                     |99 |Voile                 |
+|25 |Déblocage               |50 |Illumination                   |75 |Portail                    |100|Vol à la tire         |
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)  
+## Liste des équipements (Prix en pièces d'or) 
 
-#### Armor
+#### Armure
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Bouclier (+1 Armure)            |10   |
+|Casque (+1 Armure)            |10   |
+|Gambison (+1 Armure)          |15   |
+|Brigandine (1 Armure, encombrant)  |20   |
+|Cotte de mailles (2 Armure, encombrant)   |40   |
+|Harnois (3 Armure, encombrant)       |60   |
 
 #### Weapons
 
 | |     |
 |--------------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
-|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword, etc. (d10 damage, bulky)    |20   |
-|Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                      |20   |
-|Crossbow (d8  damage, bulky)                                  |30   |
+|Dague, massue, faucille, bâton, etc. (d6  dégâts)             |5    |
+|Lance, épée, masse, hache, fléau, etc. (d8 dégâts)             |10   |
+|Hallebarde, marteau de guerre, épée longue, etc. (d10 dégâts, encombrant)    |20   |
+|Fronde (d4 dégâts)                                            |5    |
+|Arc (d6 dégâts, encombrant)                                      |20   |
+|Arbalète (d8 dégâts, encombrante)                                  |30   |
 
-#### Gear & Tools
+#### Équipement et outils
 
 | |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|Vessie à air                                  |5               |Grand piège         |20        |
+|Soufflet                                      |10              |Grande éponge       |5         |
+|Rouleau de lit                                      |5               |Loupe               |10        |
+|Livre                                         |50              |Matériel de crochetage          |25        |
+|Seau                                       |5               |Menottes           |10        |
+|Chaussetrapes                                     |10              |Lime à métaux         |5         |
+|Charrette (+4 emplacements, encombrante)                       |30              |Miroir             |5         |
+|Chaîne (3 mètres)                                 |10              |Mule (+6 emplacements, lente)|30      |
+|Craie                                        |1               |Filet                |10        |
+|Burin                                       |5               |Sac fourre-tout        |5         |
+|Marmites                                    |10              |Pioche               |10        |
+|Pied-de-biche                                      |10              |Poulie             |10        |
+|Perceuse (manuelle)                               |10              |Pole (10ft)        |5         |
+|Maquillage                                   |10              |Plume et encre        |10        |
+|Huile                                     |10              |Rations (pour 3 jours)|10        |
+|Canne à pêche                                  |10              |Corde (10 mètres)        |5         |
+|Billes de verre                                |5               |Scie                |5         |
+|Colle                                         |5               |Sac               |5         |
+|Graisse                                       |10              |Pelle             |5         |
+|Grappin                               |25              |Savon               |1         |
+|Marteau                                       |5               |Crampon              |1         |
+|Eau bénite                                   |25              |Bottes à crampons       |5         |
+|Corne                                         |10              |Longue-Vue           |40        |
+|Cheval (+4 emplacements)                             |75              |Goudron                |10        |
+|Sablier                                    |50              |Tente (pour 2 personnes, encombrante)|20        |
+|Encens                                      |10              |Torche              |1         |
+|Échelle (encombrante, 3 mètres)                         |10              |Chariot (+8 emplacements, lent)|200    |
+|Lanterne et huile                                |10              |Aconit tue-loup          |10        |
 
 <p></p>
 
-## Optional Gear Packages  
+## Ensembles d'équipement optionnels
 
-#### Cleric
+#### Clerc
 
 |                                 |
 | ------------------------------- |
-| War Hammer (d10, bulky)         |
-| Chainmail (2 Armor, bulky)      |
-| Gauntlets (+1 Armor)            |
-| Cleansing Blade (d6)               |
-| Holy Symbol (Ward once per day) |
-| Cloak of the Order              |
+| Marteau de guerre (d10, encombrant)       |
+| Cotte de mailles (2 Armure, encombrant)   |
+| Gantelets (+1 Armure)                     |
+| Lame de purification (d6)                 |
+| Symbole sacré (Relique une fois par jour) |
+| La cape de l'Ordre                        |
 
-#### Dowser
+#### Sourcier
+
+|                                                           |
+| --------------------------------------------------------- |
+| Faucille (d6)                                             |
+| Doublet rapiécé (+1 Armure)                               |
+| Bâton de sourcier                                         |
+| Pierre oculaire (Sort : Sens, si placée dans l'eau douce) |
+| Carte usée                                                |
+| Longue-vue                                                |
+
+#### Nain
+
+|                                    |
+| ---------------------------------- |
+| Racine épineuse (d6)               |
+| Armure en pommes de pin (1 armure) |
+| Truelle                            |
+| Bocal de fourmis forestières       |
+| Champignon vénéneux                |
+| Perceuse à main                    |
+
+#### Elfe
+
+||
+|-----------------------------------------|
+|Épée élégante (d8)|
+| Arc recourbé (d8)                        |
+| Vêtements dorés (1 armure)               |
+| Livre de sorts (_Charmer_ ou _Détecter_) |
+| Flûte en or                              |
+| Vessie à air                             |
+
+#### Guerrier
+
+|                          |
+| ------------------------ |
+| Glaive (d10, encombrant) |
+| Cimeterre (d8)           |
+| Epée courte (d6)         |
+| Epée courte (d6)         |
+| Sac à tabac et pipe      |
+| Jeu de dés               |
+
+#### Frère
+
+|                                       |
+| ------------------------------------- |
+| Sceptre (d6)                          |
+| Robe trompeuse (+1 Armure)            |
+| Encensoir et eau bénite               |
+| Pichet de vin au miel                 |
+| Chanson folklorique                   |
+| Chariot (+4 emplacements, encombrant) |
+
+#### Chevalier
 
 |                                         |
-|-----------------------------------------|
-|Sickle (d6)                              |
-|Patchwork Doublet (+1  Armor)            |
-|Dowsing Rod                              |
-|Eyestone (Sense if placed in fresh water)|
-|Worn Map                                 |
-|Spyglass                                 |
+| --------------------------------------- |
+| Épée longue (d10, encombrante)          |
+| Cotte de mailles (2 Armure, encombrant) |
+| Casque (+1 Armure)                      |
+| Cape heraldique                         |
+| Menottes                                |
+| Corde fine                              |
 
-#### Dwarf
+#### Magicien
 
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
+|                                        |
+| -------------------------------------- |
+| Bâton scintillant (d8, encombrant)     |
+| Dague (d6)                             |
+| Livre de sorts (sort aléatoire)        |
+| Livre de sorts (sort aléatoire)        |
+| Vêtements en lambeaux (poches cachées) |
+| Capuchon de Ley (x2, voir Reliques)    |
 
-#### Elf
+#### Voleur
 
-||
-|-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect_)               |
-|Golden Flute                             |
-|Air Bladder                              |
+|                              |
+| ---------------------------- |
+| Deux poignards (d6+d6)       |
+| Tunique à capuche (1 armure) |
+| Matériel de crochetage       |
+| Chaussetrapes                |
+| Grappin                      |
+| Lime à métaux                |
 
-#### Fighter
+#### Rôdeur
 
-||
-|---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|                                           |
+| ----------------------------------------- |
+| Arc long (d8, encombrant)                 |
+| Hachette (d6)                             |
+| Cuirs rembourrés (1 Armure)               |
+| Grand piège                               |
+| Limier &#124 ; 2 PV, 12 DEX, Morsure (d6) |
+| Corne de tonnerre                         |
 
-#### Friar
+[retour à l'index](#index)
 
-||
-|--------------------------------|
-|Scepter (d6)                    |
-|Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water            |
-|Jug of Honey Wine               |
-|Folk Songbook                   |
-|Cart (+4  slots, bulky)         |
-
-#### Knight
-
-|                            |
-| -------------------------- |
-| Longsword (d10, bulky)      |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1  Armor)         |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
-
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)                  |
-
-#### Thief
-
-||
-|-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
-
-#### Ranger
-
-||
-|-----------------------------------------|
-|Longbow (d8, bulky)             |
-|Hatchet (d6)                    |
-|Padded Leathers (1  Armor)      |
-|Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
-|Thundering Horn                 |
-
-[back to index](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## Règles
+### Caractéristiques
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+Chacune des trois **caractéristiques** est utilisée dans des circonstances différentes (voir les **sauvegardes**, ci-dessous).
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Force (FOR)** : Utilisée pour les sauvegardes nécessitant une puissance physique, comme soulever des portes, plier des barres, résister au poison, etc.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Dexterité (DEX)** : Utilisée pour les sauvegardes nécessitant de l'équilibre, de la vitesse et des réflexes, comme esquiver, grimper, se faufiler, se balancer, etc.
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+**Volonté (VOL)** : Utilisée pour les sauvegardes visant à persuader, tromper, interroger, intimider, charmer, provoquer, manipuler des sorts, etc.
+
+### Sauvegardes
+
+Une sauvegarde est un jet de dé pour éviter les conséquences négatives des choix et des circonstances risquées. Les PJs lancent un d20 pour le résultat de la caractéristique appropriée. Si le résultat est inférieur ou égal au score de la caractéristique, ils réussissent. Sinon, ils échouent. Un 1 est toujours une réussite, et un 20 est toujours un échec.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Développez par exemple
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur trace soigneusement une route, sachant que sa DEX de 13 fait que se faufiler devant les gardes est la meilleure option. Elle lance un d20, et obtient un 10 - un succès !__.
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Guérison
 
-### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+Se reposer quelques instants et boire de l'eau restaure les PV perdus mais laisse le groupe exposé. La perte de caractéristique (voir **Dégâts critiques**) peut généralement être restaurée avec une semaine de repos facilitée par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services sont gratuits, tandis que les moyens magiques ou plus rapides de récupération peuvent avoir un coût.
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Carence & Fatigue
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+Un PJ **carencé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses scores de caractéristiques. Toute personne carencée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
+Les PJs peuvent aussi gagner de la Fatigue en **lancant des sorts** ou à travers des événements de la fiction.
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Armure
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+Avant de calculer les dommages aux PV, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dommages. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
+Personne ne peut avoir plus de 3 points d'Armure.  
+Les boucliers, gantelets et casques peuvent apporter des avantages supplémentaires en fonction de leur utilisation.
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Réactions
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante :
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+| 2       | 3-5     | 6-8     | 9-11   | 12        |
+| ------- | ------- | ------- | ------ | --------- |
+| Hostile | Méfiant | Curieux | Gentil | Serviable |
+
+### Moral
+
+Les ennemis doivent réussir une sauvegarde de VOL pour éviter de fuir lorsqu'ils subissent leur première perte et à nouveau lorsqu'ils perdent la moitié de leurs effectifs. Certains groupes peuvent utiliser la VOL de leur chef à la place du leur. Les ennemis solitaires doivent réussir une sauvegarde lorsqu'ils sont réduits à 0 PV. Le moral n'affecte pas les PJs.
+
+### Mercenaires
+
+Les PJs peuvent engager des **mercenaires** pour les aider dans leurs expéditions. Pour créer un mercenaire, lancez 3d6 pour chaque score de capacité, puis donnez-lui 1d6 PV et une arme simple (d6), puis faites un jet sur les tables de [**Création de personnage**](#création-de-personnage) pour l'étoffer davantage. Les mercenaires coûtent entre 1 et 3 po par jour, ou une part de tout trésor obtenu par le groupe.
+
+### Richesse et trésor
+
+La pièce la plus courante est la pièce d'or (po), qui est égale à 10 pièces d'argent (pa) et 100 pièces de cuivre (pc).
+
+Les trésors ont une grande valeur, sont généralement encombrants et rarement utiles au-delà de leur valeur. Ils peuvent être un leurre, entraînant les PJs dans des lieux exotiques, voire dangereux, qui sont souvent sous la protection d'ennemis redoutables.
+
+Les villages, les forteresses et les ports d'escale pratiquent le troc et le commerce en fonction de la rareté et de la valeur locales d'un objet ou d'une marchandise.
 
 ## Magic
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
