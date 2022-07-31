@@ -4,21 +4,21 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Document de référence du système Cairn (v.1.0)
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Cairn** est sous licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Parcourez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu dans d'autres [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (notamment Word, Affinity, Google Docs, etc.).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** est un jeu d'aventure pour un médiateur (le gardien) et au moins un autre joueur.
+Les joueurs jouent le rôle d'aventuriers endurcis explorant une forêt sombre et mystérieuse remplie de gens étranges, de trésors cachés et de monstruosités innommables.
 
 ## Index
-- [Overview](#overview)
-- [Principles for Wardens](#principles-for-wardens)
-- [Principles for Players](#principles-for-players)
-- [Character Creation](#character-creation)
+- [Présentation](#présentation)
+- [Principes pour les Gardiens](#principes-pour-les-gardiens)
+- [Principes pour les joueurs](#principes-pour-les-joueurs)
+- [Création de personnage](#création-de-personnage)
 - [Equipment](#equipment-list-prices-in-gold-pieces)
 - [Rules](#rules)
 - [Bestiary](#bestiary)
@@ -26,173 +26,194 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 - [Rules Summary](#rules-summary)
 
 
-## Overview
+## Présentation
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** a été écrit avec, à l'esprit, les principes de conception suivants :
 
-### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### Neutralité  
+Le rôle du gardien est de présenter clairement les règles, les situations, les PNJ et l'histoire clairement, tout en agissant comme un arbitre neutre.
 
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+### Pas de classe
+Le rôle ou les compétences d'un personnage ne sont pas limités à une seule classe. Au contraire, c'est l'équipement qu'il porte et ses expériences qui le définissent.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### La mort
 
-### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+Les personnages peuvent être puissants, mais ils sont également vulnérables à toutes sortes de menaces. La mort est toujours au coin de la rue, mais elle ne survient jamais au hasard ou sans prévenir.
 
-### Growth  
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Fiction avant tout  
 
-### Player Choice  
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+Les dés ne reflètent pas toujours la difficulté d'un obstacle ou son résultat. Les succès et les échecs sont arbitrés par le Gardien en dialogue avec les joueurs, sur la base d'éléments du monde réel.
 
-### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Évolution  
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+Les personnages progressent au travers de leur évolution dans le monde, en acquérant de nouvelles compétences et capacités en survivant à des événements dangereux et en surmontant des obstacles.
 
-[back to index](#index)
+### Choix des joueurs  
+
+Les joueurs doivent toujours comprendre les raisons des choix qu'ils font, et les informations sur les risques potentiels doivent être fournies ouvertement et fréquemment.
+
+### Principes  
+
+Le Gardien et les joueurs ont des principes qui contribuent à favoriser une expérience de jeu définie par la pensée critique, l'exploration et une narration émergente.
+
+### Objectifs partagés
+
+La confiance que se font les joueurs leur permet de s'engager dans le contexte commun, d'atteindre les objectifs des personnages et de relever les défis du groupe. Par conséquent, le groupe travaille généralement ensemble vers un objectif commun, en équipe.
+
+[retour à l'index](#index)
+
 <p></p>
 
-## Principles for Wardens
+## Principes pour les Gardiens
 ### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- Fournissez des informations utiles sur le monde au fur et à mesure que les personnages l'explorent.
+- Les joueurs n'ont pas besoin de lancer des dés pour en savoir plus sur leur situation.
+- Soyez utile et direct dans vos réponses à leurs questions.
+- Répondez honnêtement, décrivez de manière cohérente et faites-leur toujours savoir qu'ils peuvent continuer à poser des questions.
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+### Difficulté
 
-### Narrative Focus  
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- Privilégiez le contexte et le réalisme plutôt que les chiffres et les mécanismes.
+- Si les joueurs veulent faire quelque chose qui est réellement impossible, aucun jet ne leur permettra de le faire.
+- Ce que le joueur décrit et la façon dont il gère la situation sont-ils raisonnables ? Laissez faire.
+- Les sauvegardes couvrent de nombreuses situations incertaines et suffisent généralement pour les actions périlleuses.
+
+### Préparation
+
+- Le monde est organique, malléable et aléatoire. Il est imprévisible et peut prendre des tournures inattendues.
+- Utilisez des tables et des générateurs aléatoires pour développer des situations, et non des histoires ou des intrigues toutes prêtes.
+- Les PNJ se souviennent de ce que les PJs disent et font, et comment ils influencent le monde.
+- Les PNJ ne veulent pas mourir. Insufflez l'intérêt personnel et la volonté de vivre dans chaque personnalité.
+
+### Accent sur la narration  
+
+- L'expérience naissante d'un jeu est ce qui compte, pas les mathématiques ou les capacités des personnages. Offrez aux joueurs des maîtres d'armes et des quêtes personnelles afin de favoriser leur progression et leur spécialisation.
+- Prêtez attention aux besoins et aux désirs des joueurs, puis mettez des opportunités réalistes sur leur chemin.
+- Une dague dans la gorge vous tuera, quelle que soit votre armure et votre entraînement.
 
 ### Danger  
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
 
-### Treasure  
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- Le monde du jeu présente de vrais risques de blessure et de mort pour les personnages des joueurs.
+- Informez les joueurs de l'imminence d'un grave danger. Plus le danger est grave, plus il est évident.
+- Placez les pièges en évidence et laissez les joueurs prendre le temps de trouver une solution.
+- Donnez aux joueurs des opportunités de résoudre des problèmes et d'interagir avec le monde.
 
-### Choice  
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+### Trésor  
 
-### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+- Un trésor est lié à son environnement et à l'endroit où il est trouvé. Il raconte une histoire.
+- Les trésors ont une grande valeur, sont presque toujours encombrants et rarement utiles au-delà de leur valeur et du prestige.
+- Les reliques ne sont pas des trésors, bien qu'elles soient utiles et intéressantes.
+- Utilisez le Trésor comme un leurre pour accéder à des lieux exotiques protégés par des ennemis redoutables.
 
-[back to index](#index)
+### Choix  
+
+- Proposez aux joueurs un choix concret pour forcer le déroulement de l'action lorsque le jeu ralentit.
+- Utilisez des réponses binaires "alors, A ou B ?" lorsque leurs intentions sont vagues.
+- Travaillez ensemble à l'aide de ce moyen de conversation pour faire avancer le jeu.
+- Veillez à ce que les actions des personnages joueurs laissent leur empreinte dans l'univers du jeu.
+
+### Dés du destin  
+
+- De temps en temps, vous voudrez ajouter un élément de hasard (par exemple, la météo, les connaissances uniques du personnage, etc.)
+- Dans ce cas, lancez 1d6. Un résultat de 4 ou plus favorise généralement les joueurs.
+- Un résultat de 3 ou moins est généralement synonyme de malchance pour les PJ ou leurs alliés.
+
+[retour à l'index](#index)
+
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Principes pour les joueurs
+### Actions
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- Les caractéristiques et les sauvegardes associées ne définissent pas votre personnage. Ce sont des outils.
+- Ne vous demandez pas seulement ce que votre personnage ferait, demandez-vous aussi ce que vous feriez.
+- Soyez créatif et utilisez votre intuition, vos objets et vos relations.
+
+### Travail d'équipe
+
+- Cherchez à obtenir un consensus avec les autres joueurs avant d'aller de l'avant.
+- Restez en accord avec les objectifs et les contraintes, en vous respectant mutuellement et en accomplissant davantage en groupe que seul.
 
 ### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- Poser des questions et écouter les détails est plus utile que toutes les caractéristiques, objets ou compétences que vous possédez.
+- Acceptez la description du Gardien sans crainte, mais n'hésitez pas à chercher à en savoir plus.
+- Il n'y a pas qu'une seule méthode valable pour avancer.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Parler
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+- Traitez les PNJ comme s'ils étaient de vraies personnes, et fiez-vous à votre curiosité pour obtenir des informations et résoudre des problèmes sans encombres.
+- Vous constaterez que la plupart des gens sont intéressants et voudront discuter avant de se montrer menaçants.
+
+### Prudence
+
+- Combattre est un choix rarement judicieux ; demandez-vous si la violence est le meilleur moyen pour arriver à vos fins.
+- Essayez de mettre toutes les chances de votre côté et battez en retraite lorsque la situation vous semble défavorable.
+
+### Planifier
+
+- Réfléchissez à des moyens d'éviter les difficultés par un travail de reconnaissance, de subtilité et de recherche d'informations.
+- Faites des recherches et renseignez-vous sur les informations relatives à vos objectifs.
 
 ### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
 
-[back to index](#index)
-<p></p>
+- Fixez-vous des objectifs et utilisez vos modestes moyens pour franchir les étapes.
+- Ne vous attendez à rien. Gagnez votre réputation.
+- Faites avancer les choses et jouez pour voir ce qui se passe.
 
-## Character Creation
+[retour à l'index](#index)
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+## Création de personnage
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+#### Nom, antécédents et traits de caractère
+Premièrement, choisissez ou lancez le **nom** et le **historique** de votre personnage à partir de leurs [tables] respectives (#nom--historique-d20). L'historique d'un PJ renseigne sur ses connaissances et compétences potentielles.
 
-Finally, roll for their **age** (2d20+10).
+Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, discours, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-de-caractère-d10).
 
-#### Ability Scores  
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+Enfin, déterminez son **âge** (2d20+10).
 
-<details markdown="block">
+#### Points de caractéristiques
+Les Personnages Joueurs (PJs) ont seulement trois caractéristiques :  
+**La force (FOR)**, **la dextérité (DEX)**, et **la volonté (VOL)**. Lorsqu'il crée un PJ, le joueur doit lancer 3d6 pour chacun des scores de capacité de son personnage, dans l'ordre. Il peut ensuite échanger deux des résultats, au choix.
+
+<détails markdown="block">
   <summary>
-Expand For Example
+Développez pour l'exemple
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
-
+ Inès effectue un jet pour la **FOR** de son personnage, ce qui donne un **2**, un **4** et un **6**, soit un total de **12**. Les deux jets de capacité suivants donnent un **9** pour **DEX** et un **13** pour **VOL**. Elle décide d'échanger le **12** et le **9**, pour un personnage avec **9 FOR**, **12 DEX** et **13** **VOL**.
 </details>
 
-### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Points de vie
+Lancez 1d6 pour déterminer les **points de vie** (PV) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PV d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](/cairn-srd#cicatrices-1).
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Inventaire
+Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+La plupart des objets occupent un emplacement, et les petits objets peuvent être regroupés. Les emplacements sont abstraits et peuvent être réorganisés à la discrétion du Gardien.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+Les objets **volumineux** occupent deux emplacements et sont généralement portés à deux mains ou sont difficiles à transporter. Toute personne portant un inventaire complet (par exemple, remplissant les 10 emplacements) est réduite à 0 PV.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+Un PJ ne peut pas porter plus d'objets que son inventaire ne le permet. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  **Il est également possible de payer des écuyers pour porter des équipements.
 
-#### Starting Gear
-All PCs begin with:
+#### Équipement de départ
+Tous les PJs commencent avec :
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Trois jours de rations (un emplacement)
+- Une torche (un emplacement)
+- 3d6 pièces d'or
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Lancez un dé sur chacune des tables **Equipement de départ** pour déterminer l'armure, les armes, les outils et l'équipement de votre PJ. Si cela est indiqué, lancez un dé sur la table [**Livres de sorts**](#sorts-d100) avec un d100 (ou lancez 2d10, en utilisant un dé comme chiffre des unités et l'autre comme chiffre des dizaines). Ne prenez qu'un seul objet pour chaque résultat.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Consultez la **Liste d'équipement** pour connaître les valeurs d'armure, de dégâts et d'emplacement correspondantes. Les objets plus petits peuvent parfois être regroupés dans un seul emplacement.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Si vous souhaitez quelque chose de plus proche des classes traditionnelles, consultez la liste des [**Ensembles d'équipement optionnels**](#ensembles-dequipement-optionnels).
 
 <p></p>
 
-## Name & Background (d20)
+## Nom et historique (d20)
 
-#### Female Names
+#### Noms féminins
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -203,7 +224,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
 
-#### Male Names
+#### Noms masculins
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -213,7 +234,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### Surnoms
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -223,15 +244,15 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+#### Historique
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|1           |Alchimiste |6          |Clerc     |11        |Magicien |16    |Artiste |
+|2           |Forgeron|7          |Joueur    |12        |Mercenaire|17    |Pickpocket|
+|3           |Cambrioleur   |8          |Fossoyeur|13        |Marchand |18    |Contrebandier  |
+|4           |Boucher   |9          |Herboriste  |14        |Mineur    |19    |Serviteur   |
+|5           |Charpentier |10         |Chasseur     |15        |Hors-la-loi   |20    |Rôdeur    |
 
 <p></p>
 
@@ -241,101 +262,101 @@ If you would like something closer to traditional classes, refer to the list of 
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 1        | Athlétique | 6    | Maigrichon    |
+| 2        | Musclé   | 7    | Petit      |
+| 3        | Flasque   | 8    | Statuesque |
+| 4        | Efflanqué    | 9    | Corpulent      |
+| 5        | Robuste   | 10   | Gigantesque   |
 
-#### Skin
+#### Peau
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| 1    | Tache de naissance | 6    | Lisse |
+| 2    | Foncée | 7    | Douce  |
+| 3    | Sèche | 8    | Tannée |
+| 4    | Grêlée (boutons) | 9    | Tatouée |
+| 5    | Rose  | 10   | Vieillie |
 
-#### Hair
+#### Cheveux
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1    | Chauve | 6    | Long      |
+| 2    | Tressés | 7    | Luxuriants |
+| 3    | Bouclés | 8    | Gras   |
+| 4    | Sales | 9    | Ondulé |
+| 5    | Crépus | 10   | Épars |
 
-#### Face
+#### Visage
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1    | Osseux | 6    | Parfait |
+| 2    | Brisé | 7    | Tête de Rat |
+| 3    | Buriné | 8    | Pointu |
+| 4    | Allongé | 9    | Carré |
+| 5    | Pâle  | 10   | Creusé |
 
-#### Speech
+#### Élocution
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1      | Franc | 6    | Graveleux |
+| 2      | Verbe haut | 7    | Détaillé |
+| 3      | Énigmatique | 8    | Grinçante |
+| 4      | Monotone | 9    | Bégaiement |
+| 5      | Formel | 10   | Chuchotement |
 
-#### Clothing
+#### Vêtements
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | Anciens | 6    | Effilochés |
+| 2        | Ensanglantés | 7    | Bouffants |
+| 3        | Élégants | 8    | Cérémonieux |
+| 4        | Sales | 9    | Malodorants |
+| 5        | Exotiques | 10   | Souillés |
 
-#### Virtue
+#### Vertu
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1      | Ambitieux | 6    | Honorable |
+| 2      | Prudent | 7    | Humble    |
+| 3      | Courageux | 8    | Miséricordieux |
+| 4      | Discipliné | 9    | Serein |
+| 5      | Grégaire | 10   | Tolérant |
 
 #### Vice
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| 1    | Agressif | 6    | Paresseux |
+| 2    | Aigri | 7    | Nerveux |
+| 3    | Fourbe | 8    | Grossier |
+| 4    | Malhonnête | 9    | Vaniteux |
+| 5    | Cupide | 10   | Rancunier |
 
-#### Reputation
+#### Réputation
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| 1          | Ambitieux | 6    | Flâneur |
+| 2          | Rustre | 7    | Farfelu |
+| 3          | Dangereux | 8    | Repoussant |
+| 4          | Saltimbanque | 9    | Respecté |
+| 5          | Honnête | 10   | Respecté |
 
-#### Misfortunes
+#### Malheurs
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 1           | Abandonné | 6    | Escroqué |
+| 2           | Toxicomane | 7    | Déchu |
+| 3           | Victime de chantage | 8    | Discrédité |
+| 4           | Condamné | 9    | Déshérité |
+| 5           | Maudit | 10   | Exilé |
 
 <p></p>
 
@@ -625,7 +646,6 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 Expand For Example
  </summary>
  _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
-
 </details>
 
 ### Healing

@@ -5,11 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
+Cairn est un [jeu d'aventure (en)]((http://questingblog.com/adventure-game-vs-osr)) qui consiste à explorer des bois sombres et mystérieux, peuplés de personnages étranges, de trésors cachés et de monstruosités innommables. La génération de personnages est rapide et aléatoire, sans classe, et repose sur l'avancement fictif plutôt que sur des mécanismes d'XP ou de niveau. Il est basé sur [Knave](https://www.drivethrurpg.com/product/250888/Knave) de Ben Milton et [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) de Chris McDowall. Le jeu a été écrit par [Yochai Gal](https://newschoolrevolution.com).
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
+La version PDF est disponible gratuitement sur [Itch.io] (https://yochaigal.itch.io/cairn) et [DriveThruRPG] (https://www.drivethrurpg.com/product/330809/Cairn).  
+Le texte complet est sous licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Le fichier original d'Affinity Publisher est également disponible avec les téléchargements.
 
 <p></p>
 
