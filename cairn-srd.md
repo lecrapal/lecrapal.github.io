@@ -691,120 +691,141 @@ Les trésors ont une grande valeur, sont généralement encombrants et rarement 
 
 Les villages, les forteresses et les ports d'escale pratiquent le troc et le commerce en fonction de la rareté et de la valeur locales d'un objet ou d'une marchandise.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Magie
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+**Les livres de sorts** contiennent un seul sort et occupent un emplacement. Ils ne peuvent pas être retranscrits ou créés ; ils sont récupérés dans des endroits comme les tombes, les donjons et les manoirs.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Les livres de sorts présentent parfois des propriétés ou des limites inhabituelles, comme une odeur nauséabonde ou surnaturelle lorsqu'on les ouvre, une intelligence propre ou la possibilité d'être lu uniquement au clair de lune.
 
-**Scrolls** are similar to Spellbooks, however:
+Les livres de sorts attirent l'attention de ceux qui recherchent le pouvoir arcanique qu'ils contiennent, et il est considéré comme dangereux de les exposer ouvertement.
 
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**Les parchemins** sont similaires aux livres de sorts, cependant :
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+- Ils ne prennent pas de place dans l'inventaire.
+- Ils ne provoquent pas de fatigue.
+- Ils disparaissent après une utilisation.
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Lancer des sorts
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+N'importe qui peut lancer un sort en tenant un livre de sorts à deux mains et en lisant son contenu à haute voix. Ils doivent alors ajouter une Fatigue à l'inventaire, occupant un emplacement. S'il dispose du temps et de la tranquillité nécessaires, le PJ peut _améliorer_ les effets d'un sort (par exemple, en affectant plusieurs cibles, en augmentant sa puissance, etc). Si le PJ est carencé ou en danger, le Gardien peut exiger du PJ qu'il fasse une sauvegarde de VOL pour éviter tout effet néfaste au lancé du sort. Les conséquences d'un échec sont équivalentes à celles de l'effet recherché, et peuvent entraîner une fatigue supplémentaire, la destruction du livre de sorts, des blessures, voire la mort.
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+### Reliques
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Les reliques sont des objets imprégnés d'un sort ou d'un pouvoir magique. Ils ne provoquent pas de Fatigue. Les reliques ont généralement un usage limité, ainsi qu'une condition de recharge. Quelques exemples :
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Anneau de miel** , 3 charges. Un anneau rouillé qui réduit la taille de son porteur à 15 cm. Recharge : placer l'anneau dans une tasse de gelée royale de la taille d'un dé à coudre.
+
+**Falconer's Friend** , 1 charge. Une baguette en forme d'éclair portant le sort _Célérité_. Recharge : tirer à l'arbalète et récupérer.
+
+**Bâton du Silence** , 1 charge. Cette baguette noircie désactive temporairement toute magie dans un rayon de 15 mètres. Recharge : se baigner dans la lumière de la pleine lune.
+
+**Capuchon de Ley** , 1 utilisation. Toute personne qui ingère ce champignon moucheté de vert perd une Fatigue, et doit ensuite faire une sauvegarde de VOL pour éviter ses propriétés addictives. En cas d'échec, le PJ est carencé et incapable de se concentrer jusqu'à ce qu'il puisse manger un autre champignon, ce qui n'offre qu'un bref répit à la dépendance.
 
 ## Combat
 
 ### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+
+Le jeu se déroule généralement sans comptabilité stricte du temps. Dans un combat ou une situation où le timing est utile, utilisez les rounds pour garder la trace du moment où quelque chose se produit. Un **round** correspond à environ dix secondes de temps de jeu et se compose de tours.
 
 ### Actions  
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Pendant son tour, un personnage peut se déplacer jusqu'à 12 mètres et effectuer une action. Il peut s'agir de lancer un sort, d'attaquer, de faire un second mouvement ou toute autre action raisonnable.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+A chaque tour, les PJs déclarent ce qu'ils font avant de lancer les dés. Si un personnage tente quelque chose de risqué, le gardien demande une sauvegarde aux joueurs ou PNJ concernés.
 
-<details markdown="block">
+### Tours
+
+Le gardien annonce les actions les plus probables des PNJ ou des monstres. Au début du combat, chaque PC doit faire une sauvegarde DEX pour agir avant ses adversaires.
+
+<détails markdown="block">
   <summary>
-Expand For Example
+Développez pour l'exemple
  </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+ _Bea est accidentellement tombée sur le terrain de chasse d'un énorme troll des bois. Afin de pouvoir faire un mouvement avant le Troll, elle fait une sauvegarde DEX. Elle échoue et le troll attaque en premier.
 </details>
 
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
-<details markdown="block">
+### Attaque et dégâts
+
+L'attaquant lance son dé d'arme et soustrait l'armure de la cible, puis inflige le total restant aux PV de son adversaire. Les attaques à mains nues font toujours 1d4 points de dégâts.
+
+<détails markdown="block">
   <summary>
-Expand For Example
+Développez pour l'exemple
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PV. La massue fait 1d10 points de dégâts et le gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PV à Béa_.
 </details>
 
-### Multiple Attackers  
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+### Attaquants multiples  
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+Si plusieurs attaquants ciblent le même ennemi, lancez tous les dés de dégâts et gardez le seul résultat le plus élevé.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Modificateurs d'attaque
 
-### Blast  
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Si vous combattez depuis une position de faiblesse (comme derrière un abri ou avec des mains liées), l'attaque est **atténuée** et l'attaquant doit lancer 1d4 points de dégâts quel que soit le dé de dégâts de l'attaque.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Si vous combattez depuis une position avantageuse (par exemple contre un ennemi sans défense ou grâce à une manœuvre audacieuse), l'attaque est **renforcée**, ce qui permet à l'attaquant de lancer 1d12 points de dégâts au lieu de son dé normal.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+### Ambidextre
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+Si vous attaquez avec deux armes en même temps, lancez les deux dés de dégâts et gardez le résultat le plus élevé.
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+### Explosif
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+Les attaques avec la mention **explosif** affectent toutes les cibles dans la zone indiquée, en effectuant un jet séparé pour chaque personnage affecté. L'explosion peut aller de l'explosion à l'impact d'une météorite en passant par un énorme coup de hache. Si vous ne savez pas combien de cibles peuvent être affectées, lancez le dé de dégâts correspondant pour obtenir un résultat.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Dégâts critiques
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+Les dégâts qui réduisent les PV d'une cible en dessous de zéro diminuent la FOR de la cible du montant restant. Elle doit alors effectuer une sauvegarde de FOR pour éviter les **dégâts critiques**. De plus, certains ennemis ont des capacités ou des effets spéciaux qui se déclenchent lorsque leur cible échoue à une sauvegarde contre les dégâts critiques.
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+Tout PJ qui subit des dégâts critiques ne peut rien faire d'autre que ramper faiblement, s'accrochant à la vie. S'il reçoit de l'aide et se repose, il se stabilisera. S'il n'est pas soigné, il meurt dans l'heure qui suit.
 
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+### Perte de points de caractéristique
+
+Si la FOR d'un PJ est réduite à 0, il meurt. Si sa DEX est réduite à 0, il est paralysé. Si sa VOL est réduit à 0, il est atteint de délire.
+La perte totale de DEX et de VOL rend le personnage incapable d'agir jusqu'à ce qu'il soit rétabli par un repos prolongé ou par des méthodes particulières.  
+
+### Cicatrices
+
+Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](/cairn-srd#cicatrices-1) pour en savoir plus.
+
+### Inconscience et mort
+
+Lorsqu'un personnage meurt, le joueur est libre de créer un nouveau personnage ou de prendre le contrôle d'un mercenaire. Ils rejoignent immédiatement le groupe afin de réduire le temps perdu.
+
+### Détachements
+
+Les groupes de combattants similaires qui combattent ensemble sont traités comme un seul **détachement**. Lorsqu'un détachement subit des dégâts critiques, il est mis en déroute ou considérablement affaibli. Lorsqu'il atteint 0 FOR, il est détruit.
+
+Les attaques contre des détachements par des individus sont **atténuées** (à l'exception des dégâts explosifs).  
+Les attaques contre des individus par des détachements sont **renforcées** et infligent des dégâts de explosifs.
+
+### Retraite
+
+S'enfuir d'une situation désespérée nécessite toujours une sauvegarde de DEX réussie, ainsi qu'une destination sûre vers laquelle se réfugier.
+
+### Cicatrices
+
+Lorsqu'une attaque réduit les PV d'un PJ à exactement 0, celui-ci est affecté de manière unique. Consultez le résultat dans le tableau ci-dessous en fonction du total des dégâts subis :
 
 |      |                                                              |
-|------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| ---- | ------------------------------------------------------------ |
+| 1    | Cicatrice durable : Lancez 1d6 &#124 ; 1 : Cou, 2 : Mains, 3 : Oeil, 4 : Poitrine, 5 : Jambes, 6 : Oreille. Lancez 1d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
+| 2    | Coup sec : Vous êtes désorienté et secoué. Décrivez comment vous vous recentrez. Lancez 1d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
+| 3    | Malmené : Vous êtes envoyé en l'air et atterrissez à plat sur votre visage, essoufflé. Vous êtes privé d'énergie jusqu'à ce que vous vous reposiez pendant quelques heures. Ensuite, lancez 1d6. Ajoutez ce montant à vos PV maximum. |
+| 4    | Membre cassé : Lancez 1d6 &#124 ; 1-2 : Jambe, 3-4 : Bras, 5 : Côte, 6 : Crâne. Une fois guéri, lancez 2d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
+| 5    | Malade : Vous êtes affligé d'une infection dégoûtante et inconfortable. Lorsque vous vous en remettez, lancez 2d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
+| 6    | Réorienter une blessure à la tête : Lancez 1d6 &#124 ; 1-2 : FOR, 3-4 : DEX, 5-6 : VOL. Lancez 3d6. Si le total est supérieur à votre score de caractéristique actuel, prenez le nouveau résultat. |
+| 7    | Paralysé : Vous pouvez à peine bouger jusqu'à ce que vous obteniez une aide sérieuse et que vous vous reposiez. Après avoir récupéré, lancez 3d6. Si le total est supérieur à votre DEX maximum, prenez le nouveau résultat. |
+| 8    | Assourdi : Vous ne pouvez rien entendre jusqu'à ce que vous trouviez une aide particulière. Quoi qu'il en soit, effectuez une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximum de 1d4. |
+| 9    | Rafraîchir la mémoire : Une partie cachée de votre psyché est libérée. Lance 3d6. Si le total est plus élevé que votre VOL maximum, prenez le nouveau résultat. |
+| 10   | Estropié : Un membre est arraché, estropié ou inutile. Le gardien vous dira lequel. Ensuite, faites une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximal de 1d6. |
+| 11   | Blessure mortelle : Vous êtes carencé et hors d'action. Vous mourrez dans une heure à moins d'être guéri. Lors de votre guérison, lancez 2d6. Prenez le nouveau résultat comme votre PV maximum. |
+| 12   | Condamné : La mort vous a semblé si proche, mais vous avez survécu. Si votre prochaine sauvegarde contre les dégâts critiques est un échec, vous mourrez de façon horrible. Si vous réussissez, lancez 3d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
 
-[back to index](#index)
+[retour à l'index](#index)
+
 <p></p>
 
 ## Bestiary
