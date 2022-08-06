@@ -14,7 +14,7 @@ title: Barrow of the Elf King
 - As written.
 
 ## 2. The Tunnel of Retainers
-- As written.
+- DEX save or take 3d6 STR damage (minus Armor).
 
 ## 3. The Grave Slab
 ### Elf King
@@ -64,7 +64,7 @@ title: Barrow of the Elf King
 - Critical damage: Drinks target's blood and heals 1d6 STR.
 
 ## 8. The Tapestry
-- As written.
+- Each PC carrying the tapestry is reduced to 0 HP while carrying the tapestry.
 
 ## 9. Treasure Well 
 - As written.
