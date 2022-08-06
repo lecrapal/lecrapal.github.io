@@ -19,11 +19,11 @@ Les joueurs jouent le rôle d'aventuriers endurcis explorant une forêt sombre e
 - [Principes pour les Gardiens](#principes-pour-les-gardiens)
 - [Principes pour les joueurs](#principes-pour-les-joueurs)
 - [Création de personnage](#création-de-personnage)
-- [Équipement](#liste-des-équipements--prix-en-pièces-d'or)
+- [Équipement](#liste-des-équipements-prix-en-pièces-dor)
 - [Règles](#règles)
-- [Bestiary](#bestiary)
-- [100 Spells](#100-spells)
-- [Rules Summary](#rules-summary)
+- [Bestiaire](#bestiaire)
+- [100 Sorts](#100-sorts)
+- [Résumé des règles](#résumé-des-règles)
 
 
 ## Présentation
@@ -169,7 +169,7 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 #### Nom, antécédents et traits de caractère
 Premièrement, choisissez ou lancez le **nom** et le **historique** de votre personnage à partir de leurs [tables] respectives (#nom--historique-d20). L'historique d'un PJ renseigne sur ses connaissances et compétences potentielles.
 
-Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, discours, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-de-caractère-d10).
+Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, discours, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-d10).
 
 Enfin, déterminez son **âge** (2d20+10).
 
@@ -185,7 +185,7 @@ Développez pour l'exemple
 </details>
 
 ### Points de vie
-Lancez 1d6 pour déterminer les **points de vie** (PV) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PV d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](/cairn-srd#cicatrices-1).
+Lancez 1d6 pour déterminer les **points de vie** (PV) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PV d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](#cicatrices).
 
 #### Inventaire
 Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
@@ -424,39 +424,39 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### 																						Sorts (d100)
 
-|||||||||
-|---|------------------------|---|-------------------------------|---|---------------------------|---|----------------------|
-|1  |Adhésion                |26 |Décharge primordiale           |51 |Illusion auditive          |76 |Pousser/Tirer         |
-|2  |Air liquide             |27 |Déguisement                    |52 |Illusion visuelle          |77 |Prison astrale        |
-|3  |Ancrage                 |28 |Déplacement                    |53 |Image miroir               |78 |Rayons X              |
-|4  |Animation d'objet       |29 |Désassemblage                  |54 |Injonction                 |79 |Réanimation           |
-|5  |Anthropomorphisme       |30 |Détection de la magie          |55 |Inversion corporelle       |80 |Remontée              |
-|6  |Appât fleurissant       |31 |Détection des pensées          |56 |Inversion gravitationnelle |81 |Répulsion             |
-|7  |Assourdissement         |32 |Élasticité                     |57 |Invocation cubique         |82 |Saut                  |
-|8  |Attache invisible       |33 |Embrouille                     |58 |Invocation d'idole         |83 |Scie fantastique      |
-|9  |Atténuation de la magie |34 |Entendre les murmures          |59 |Leurre                     |84 |Scrutation            |
-|10 |Attraction              |35 |Essaim                         |60 |Localisation               |85 |Sculpture élémentaire |
-|11 |Avarice                 |36 |Extinction                     |61 |Manse                      |86 |Soin des blessures    |
-|12 |Babillage               |37 |Fièvre des billes              |62 |Marque du sorcier          |87 |Sommeil               |
-|13 |Bouclier                |38 |Flaire                         |63 |Mascarade                  |88 |Spectacle             |
-|14 |Bras multiples          |39 |Forme bestiale                 |64 |Miniaturisation            |89 |Sphère Nocturne       |
-|15 |Buisson                 |40 |Forme fumante                  |65 |Mirage                     |90 |Suspension            |
-|16 |Célérité                |41 |Forme visqueuse                |66 |Mur élémentaire            |91 |Télékinésie           |
-|17 |Cercle de protection    |42 |Fosse                          |67 |Nuage de brouillard        |92 |Télépathie            |
-|18 |Charme                  |43 |Frénésie                       |68 |Objectification            |93 |Téléportation         |
-|19 |Compréhension           |44 |Fusée éclairante               |69 |Oeil magique               |94 |Toiles d'araignée     |
-|20 |Cône de mousse          |45 |Graisse                        |70 |Pacification               |95 |Toucher glacial       |
-|21 |Contact spirituel       |46 |Gribouillage                   |71 |Passe-miroir               |96 |Tremblement de terre  |
-|22 |Contrôle de la météo    |47 |Haine                          |72 |Pattes d'araignées         |97 |Triage                |
-|23 |Contrôle des plantes    |48 |Hypnose                        |73 |Permutation                |98 |Vision suprême        |
-|24 |Contrôle temporel       |49 |Identification de propriétaire |74 |Phobie                     |99 |Voile                 |
-|25 |Déblocage               |50 |Illumination                   |75 |Portail                    |100|Vol à la tire         |
+|      |                        |      |                                |      |                       |      |                        |
+| ---- | ---------------------- | ---- | ------------------------------ | ---- | --------------------- | ---- | ---------------------- |
+| 1    | Adhérer                | 26   | Tremblement de terre           | 51   | Mascarade             | 76   | Forme de fumée         |
+| 2    | Ancrage                | 27   | Elasticité                     | 52   | Miniaturiser          | 77   | Renifler               |
+| 3    | Objet animé            | 28   | Mur élémentaire                | 53   | Image miroir          | 78   | Souffler               |
+| 4    | Anthropomorphiser      | 29   | Chiper                         | 54   | Passe-miroir          | 79   | Trier                  |
+| 5    | Œil arcanique          | 30   | Signal lumineux                | 55   | Multibras             | 80   | Spectacle              |
+| 6    | Prison astral          | 31   | Brouillard                     | 56   | Sphère nocturne       | 81   | Sorcisaille            |
+| 7    | Attirer                | 32   | Frénésie                       | 57   | Objectifier           | 82   | Escalade de l'araignée |
+| 8    | Illusion sonore        | 33   | Portail                        | 58   | Forme suintante       | 83   | Invocation de Cube     |
+| 9    | Babiller               | 34   | Changement de gravité          | 59   | Pacifier              | 84   | Essaim                 |
+| 10   | Fleur attirante        | 35   | Cupidité                       | 60   | Phobie                | 85   | Télékinésie            |
+| 11   | Forme bestiale         | 36   | Hâte                           | 61   | Fosse                 | 86   | Télépathie             |
+| 12   | Brouiller              | 37   | Haine                          | 62   | Poussée primitive     | 87   | Téléportation          |
+| 13   | Échange de corps       | 38   | Ouïe fine                      | 63   | Pousser/Tirer         | 88   | Cible leurre           |
+| 14   | Charme                 | 39   | Survol                         | 64   | Lever les morts       | 89   | Bosquet                |
+| 15   | Ordre                  | 40   | Hypnotiser                     | 65   | Lever l'esprit        | 90   | Invocation d'Idole     |
+| 16   | Comprendre             | 41   | Toucher glacial                | 66   | Lire l'esprit         | 91   | Contrôle du temps      |
+| 17   | Cône de mousse         | 42   | Identification du propriétaire | 67   | Repousser             | 92   | Vision réelle          |
+| 18   | Contrôle des végétaux  | 43   | Illuminer                      | 68   | Scruter               | 93   | Marée haute            |
+| 19   | Contrôle de la météo   | 44   | Attache invisible              | 69   | Sculpter les éléments | 94   | Vision                 |
+| 20   | Guérison des blessures | 45   | Toc-toc                        | 70   | Sentir                | 95   | Illusion visuelle      |
+| 21   | Assourdir              | 46   | Bond                           | 71   | Bouclier              | 96   | Garde                  |
+| 22   | Détecter la magie      | 47   | Air liquide                    | 72   | Linceul               | 97   | Toile                  |
+| 23   | Démonter               | 48   | Amortisseur magique            | 73   | Mélanger              | 98   | Gadget                 |
+| 24   | Déguisement            | 49   | Maison                         | 74   | Sommeil               | 99   | Marque du magicien     |
+| 25   | Déplacer               | 50   | Passion des billes             | 75   | Glissant              | 100  | Vision à rayons X      |
 
 <p></p>
 
 ## Liste des équipements (Prix en pièces d'or) 
 
-#### Armure
+#### Armures
 
 ||     |
 |--------------------------------------------------------------|-----|
@@ -467,7 +467,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |Cotte de mailles (2 Armure, encombrant)   |40   |
 |Harnois (3 Armure, encombrant)       |60   |
 
-#### Weapons
+#### Armes
 
 | |     |
 |--------------------------------------------------------------|-----|
@@ -659,7 +659,7 @@ Se reposer quelques instants et boire de l'eau restaure les PV perdus mais laiss
 ### Carence & Fatigue
 
 Un PJ **carencé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses scores de caractéristiques. Toute personne carencée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
-Les PJs peuvent aussi gagner de la Fatigue en **lancant des sorts** ou à travers des événements de la fiction.
+Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
 
 ### Armure
 
@@ -711,11 +711,11 @@ N'importe qui peut lancer un sort en tenant un livre de sorts à deux mains et e
 
 ### Reliques
 
-**Les reliques sont des objets imprégnés d'un sort ou d'un pouvoir magique. Ils ne provoquent pas de Fatigue. Les reliques ont généralement un usage limité, ainsi qu'une condition de recharge. Quelques exemples :
+**Les reliques** sont des objets imprégnés d'un sort ou d'un pouvoir magique. Ils ne provoquent pas de Fatigue. Les reliques ont généralement un usage limité, ainsi qu'une condition de recharge. Quelques exemples :
 
 **Anneau de miel** , 3 charges. Un anneau rouillé qui réduit la taille de son porteur à 15 cm. Recharge : placer l'anneau dans une tasse de gelée royale de la taille d'un dé à coudre.
 
-**Falconer's Friend** , 1 charge. Une baguette en forme d'éclair portant le sort _Célérité_. Recharge : tirer à l'arbalète et récupérer.
+**Ami du Faucon** , 1 charge. Une baguette en forme d'éclair portant le sort _Célérité_. Recharge : tirer à l'arbalète et récupérer.
 
 **Bâton du Silence** , 1 charge. Cette baguette noircie désactive temporairement toute magie dans un rayon de 15 mètres. Recharge : se baigner dans la lumière de la pleine lune.
 
@@ -737,7 +737,7 @@ A chaque tour, les PJs déclarent ce qu'ils font avant de lancer les dés. Si un
 
 Le gardien annonce les actions les plus probables des PNJ ou des monstres. Au début du combat, chaque PC doit faire une sauvegarde DEX pour agir avant ses adversaires.
 
-<détails markdown="block">
+<details markdown="block">
   <summary>
 Développez pour l'exemple
  </summary>
@@ -749,11 +749,11 @@ Développez pour l'exemple
 
 L'attaquant lance son dé d'arme et soustrait l'armure de la cible, puis inflige le total restant aux PV de son adversaire. Les attaques à mains nues font toujours 1d4 points de dégâts.
 
-<détails markdown="block">
+<details markdown="block">
   <summary>
 Développez pour l'exemple
  </summary>
-Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PV. La massue fait 1d10 points de dégâts et le gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PV à Béa_.
+_Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PV. La massue fait 1d10 points de dégâts et le gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PV à Béa_.
 </details>
 
 
@@ -788,7 +788,7 @@ La perte totale de DEX et de VOL rend le personnage incapable d'agir jusqu'à ce
 
 ### Cicatrices
 
-Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](/cairn-srd#cicatrices-1) pour en savoir plus.
+Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices-2) pour en savoir plus.
 
 ### Inconscience et mort
 
@@ -811,12 +811,12 @@ Lorsqu'une attaque réduit les PV d'un PJ à exactement 0, celui-ci est affecté
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-| 1    | Cicatrice durable : Lancez 1d6 &#124 ; 1 : Cou, 2 : Mains, 3 : Oeil, 4 : Poitrine, 5 : Jambes, 6 : Oreille. Lancez 1d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
+| 1    | Cicatrice durable : Lancez 1d6 \| 1 : Cou, 2 : Mains, 3 : Œil, 4 : Poitrine, 5 : Jambes, 6 : Oreille. Lancez 1d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
 | 2    | Coup sec : Vous êtes désorienté et secoué. Décrivez comment vous vous recentrez. Lancez 1d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
-| 3    | Malmené : Vous êtes envoyé en l'air et atterrissez à plat sur votre visage, essoufflé. Vous êtes privé d'énergie jusqu'à ce que vous vous reposiez pendant quelques heures. Ensuite, lancez 1d6. Ajoutez ce montant à vos PV maximum. |
-| 4    | Membre cassé : Lancez 1d6 &#124 ; 1-2 : Jambe, 3-4 : Bras, 5 : Côte, 6 : Crâne. Une fois guéri, lancez 2d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
+| 3    | Malmené : Vous êtes envoyé en l'air et atterrissez à plat sur votre visage, essoufflé. Vous êtes carencé jusqu'à ce que vous vous reposiez pendant quelques heures. Ensuite, lancez 1d6. Ajoutez ce montant à vos PV maximum. |
+| 4    | Membre cassé : Lancez 1d6 \| 1-2 : Jambe, 3-4 : Bras, 5 : Côte, 6 : Crâne. Une fois guéri, lancez 2d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
 | 5    | Malade : Vous êtes affligé d'une infection dégoûtante et inconfortable. Lorsque vous vous en remettez, lancez 2d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
-| 6    | Réorienter une blessure à la tête : Lancez 1d6 &#124 ; 1-2 : FOR, 3-4 : DEX, 5-6 : VOL. Lancez 3d6. Si le total est supérieur à votre score de caractéristique actuel, prenez le nouveau résultat. |
+| 6    | Réorienter une blessure à la tête : Lancez 1d6 \| 1-2 : FOR, 3-4 : DEX, 5-6 : VOL. Lancez 3d6. Si le total est supérieur à votre score de caractéristique actuel, prenez le nouveau résultat. |
 | 7    | Paralysé : Vous pouvez à peine bouger jusqu'à ce que vous obteniez une aide sérieuse et que vous vous reposiez. Après avoir récupéré, lancez 3d6. Si le total est supérieur à votre DEX maximum, prenez le nouveau résultat. |
 | 8    | Assourdi : Vous ne pouvez rien entendre jusqu'à ce que vous trouviez une aide particulière. Quoi qu'il en soit, effectuez une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximum de 1d4. |
 | 9    | Rafraîchir la mémoire : Une partie cachée de votre psyché est libérée. Lance 3d6. Si le total est plus élevé que votre VOL maximum, prenez le nouveau résultat. |
@@ -828,231 +828,244 @@ Lorsqu'une attaque réduit les PV d'un PJ à exactement 0, celui-ci est affecté
 
 <p></p>
 
-## Bestiary
+## Bestiaire
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+**Gobelin tuberculeux**  
+4 PV, 8 FOR, 14 DEX, 8 VOL, lance (d6)
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+- Évite le combat, sauf s'ils ont l'avantage (par exemple, s'ils sont plus nombreux).
+- Garde ses biens volés jusqu'à la mort.
+- Prise les livres de sorts ; prêt à échanger
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+**Hommes encapuchonnés**  
+12 HP, 9 FOR, 12 DEX, 14 VOL, bâton runique (d8), un livre de sorts (Choisir entre : _Charme, Hypnotiser, Pousser/Tirer, Bouclier_)
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+- Les Veilleurs du Bois ; un culte qui tire son pouvoir des lianes, des pierres runiques et autres.
+- Dégâts critiques : aspire une partie de l'âme de la victime (1d4 points de dégâts de VOL).
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**Limier de pierre**  
+12 PV, 2 Armure, 14 FOR, 1 DEX, 8 VOL, morsure (d10)
 
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+- Constructions inertes généralement utilisées comme gardiens de grandes tombes ou d'artefacts.
+- Ils ne sont pas affectés par les techniques de persuasion ordinaires, mais ils aiment les beaux os.
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+**Troll des bois**   
+12 PV, 15 FOR, 12 DEX, 7 VOL, griffes et morsure (d8+d8 explosif)
 
-**Name**
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+- En tant qu'action, peut récupérer les PV perdus.
+- Dégâts critiques : de la mousse et des brindilles commencent à pousser sur les blessures de la cible.
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+**Elfe des glaces**  
+14 PV, 1 Armure, 8 FOR, 13 DEX, 14 VOL, une dague de glace (d6), un livre de sorts (Choisir entre : _Sommeil, Téléportation, Détection de la magie)_.
 
-**Converting from OSR Games**  
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+- Belle, amorale et d'une grande longévité.
+- Résistant à la plupart des formes de magie.
 
-Some pointers:  
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+**Épouvantard**  
+3 PV, 4 FOR, 17 DEX, 13 VOL
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+- Un farceur sauvage et poilu qui prend plaisir à être une nuisance mineure.
+- Il apprécie les reliques et les bibelots brillants par-dessus tout, mais n'est pas prêt à les échanger contre de l'argent.
+- Les épouvantards ont des noms qui décrivent leur vraie nature. Connaître leur vrai nom permet de contrôler un épouvantard.
 
-[back to index](#index)
+### Création de monstres
+
+Utilisez le modèle suivant pour modéliser tout monstre ou PNJ plus sophistiqué :
+
+**Nom**
+X PV, X Armure, X FOR, X DEX, X VOL, Arme (dX, objets spéciaux, qualités)
+
+- Description engageante de l'apparence ou du comportement.
+- Bizarrerie, tactique ou particularité qui rend ce PNJ unique.
+- Effet spécial ou conséquence de dégâts critiques
+
+**Principes généraux**  
+Caractéristiques : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarquable, et 18 est légendaire. Ajustez si nécessaire.  
+
+- Donnez 3 PV aux créatures moyennes, 6 PV aux créatures robustes, et 10+ PV aux menaces sérieuses.
+- Utilisez un style et une touche personnelle pour les aider à se démarquer. Les joueurs se souviendront plus facilement d'un humanoïde à tête de cochon à la recherche de son mouton disparu que d'un archer gobelin générique.
+- Utilisez les dégâts critiques pour accentuer la menace ou l'étrangeté de tout PNJ agressif.
+- N'oubliez pas que les PV sont des **protections contre les coups**, et non des points de vie. C'est une mesure de la résistance, de la chance et de la jugeote - pas de la santé.
+
+**Conversion des jeux OSR**
+
+- Donnez 1 PV par dé de vie pour la plupart des créatures.
+- La plupart des humanoïdes ont au moins 4PV.
+- **Morale** peut également être utilisé comme base de référence.
+
+Quelques points de repère :  
+
+- Est-il bon pour éviter un coup ? Donnez-lui des PV.
+- Est-ce qu'il absorbe les dégâts ? Donnez-lui une armure.
+- Est-il fort ? Donne-lui une **FOR** élevée.
+- Est-il agile ? Donne-lui une **DEX** élevée.
+- Est-il charismatique ? Donnez-lui une **VOL** élevée.
+
+Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent au moins 1d6 dégâts.
+
+[retour à l'index](#index)
+
 <p></p>
 
-## 100 Spells
+## 100 Sorts
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 1    | Adhérer                                 | L'objet est couvert d'une substance visqueuse extrêmement collante. |
+| 2    | Ancrage                                 | Un fil solide jaillit de vos bras, se fixant à deux points dans un rayon de 15 mètres de chaque côté. |
+| 3    | Objet animé                             | Un objet obéit à vos ordres du mieux qu'il peut.             |
+| 4    | Anthropomorphiser                       | Un animal gagne soit une intelligence humaine, soit une apparence humaine pendant un jour. |
+| 5    | Œil arcanique                           | Vous pouvez voir à travers un globe oculaire magique flottant qui vole autour de vous à votre commande. |
+| 6    | Prison astrale         | Un objet est figé dans le temps et l'espace à l'intérieur d'une coquille de cristal invulnérable. |
+| 7    | Attirer                     | Deux objets sont fortement attirés magnétiquement l'un vers l'autre s'ils se trouvent à moins de 3 mètres. |
+| 8    | Illusion sonore | Vous créez des sons fictifs qui semblent provenir d'une direction de votre choix. |
+| 9    | Babiller                       | Une créature doit répéter haut et fort tout ce que vous pensez. Autrement, elle est muette. |
+| 10   | Fleur attirante             | Une plante jaillit du sol et dégage une odeur de chair en décomposition. |
+| 11   | Forme bestiale               | Vous et vos biens vous transformez en un animal banal.    |
+| 12   | Brouiller                   | Une créature de votre choix est incapable de former de nouveaux souvenirs à court terme pendant la durée du sort. |
+| 13   | Échange de corps                 | Vous changez de corps avec une créature que vous touchez. Si un corps meurt, l'autre meurt aussi. |
+| 14   | Charme                         | Une créature que vous pouvez voir vous traite comme un ami.               |
+| 15   | Ordre                     | Une cible obéit à un ordre unique de trois mots qui ne lui fait aucun mal. |
+| 16   | Comprendre               | Vous maîtrisez toutes les langues pendant un court moment.        |
+| 17   | Cône de mousse           | Une mousse dense jaillit de votre main et recouvre la cible.        |
+| 18   | Contrôle des végétaux       | Les plantes et les arbres à proximité vous obéissent et acquièrent la capacité de se déplacer à un rythme lent. |
+| 19   | Contrôle de la météo     | Vous pouvez modifier le type de temps à volonté, mais vous ne le contrôlez pas autrement. |
+| 20   | Guérison des blessures             | Restaure 1d4 FOR par jour à une créature que vous pouvez toucher.         |
+| 21   | Assourdir                       | Toutes les créatures proches sont assourdies.                           |
+| 22   | Détecter la magie           | Vous pouvez voir ou entendre les auras magiques proches.                    |
+| 23   | Démonter             | Toutes les parties de votre corps peuvent être détachées et rattachées à volonté, sans causer de douleur ou de dégât. Vous pouvez toujours les contrôler. |
+| 24   | Déguisement                   | Vous pouvez modifier l'apparence d'un personnage à volonté tant qu'il reste humanoïde. Les tentatives de duplication d'autres personnages sembleront étranges. |
+| 25   | Déplacer                   | Un objet semble se trouver jusqu'à 5 mètres de sa position réelle. |
+| 26   | Tremblement de terre               | Le sol se met à trembler violemment. Les structures peuvent être endommagées ou s'effondrer. |
+| 27   | Elasticité               | Votre corps peut s'étirer jusqu'à 3 mètres.                            |
+| 28   | Mur élémentaire       | Un mur droit de glace ou de feu de 15 mètres de long et de 3 mètres de haut s'élève du sol. |
+| 29   | Chiper                         | Un objet visible se téléporte dans vos mains.                      |
+| 30   | Signal lumineux                         | Une boule d'énergie lumineuse projette une traînée de lumière dans le ciel, révélant votre position à vos amis ou à vos ennemis. |
+| 31   | Brouillard                 | Un brouillard dense s'étend à partir de vous.                            |
+| 32   | Frénésie                       | Une créature voisine se déchaîne dans une frénésie de violence.            |
+| 33   | Portail                           | Un portail vers un plan aléatoire s'ouvre.                            |
+| 34   | Changement de gravité         | Vous pouvez changer la direction de la gravité (pour vous-même uniquement) jusqu'à une fois par round. |
+| 35   | Cupidité                         | Une créature développe une envie irrésistible de posséder un objet visible de votre choix. |
+| 36   | Hâte                         | Votre vitesse de déplacement est triplée.                              |
+| 37   | Haine                       | Une créature développe une haine profonde envers une autre créature ou un groupe et souhaite les détruire. |
+| 38   | Ouïe fine         | Vous pouvez entendre clairement les sons faibles.                           |
+| 39   | Survol                         | Un objet plane, sans friction, à un mètre du sol. Il peut contenir jusqu'à un humanoïde. |
+| 40   | Hypnotiser                 | Une créature entre en transe et répondra sincèrement à une question par oui ou par non que vous lui posez. |
+| 41   | Toucher glacial                 | Une épaisse couche de glace s'étend sur une surface touchée, jusqu'à 3 mètres de rayon. |
+| 42   | Identification du propriétaire       | Des lettres apparaissent sur l'objet que vous touchez, épelant le nom des propriétaires de l'objet, s'il y en a. |
+| 43   | Illuminer               | Une lumière flottante se déplace selon vos ordres.                       |
+| 44   | Attache invisible   | Deux objets situés à moins de 3 mètres l'un de l'autre ne peuvent pas être éloignés de plus de 3 mètres. |
+| 45   | Toc-toc                         | Une serrure ordinaire ou magique à proximité se déverrouille - bruyamment.             |
+| 46   | Bond                           | Vous sautez jusqu'à 3 mètres de haut, une fois.                              |
+| 47   | Air liquide               | L'air autour de vous devient nageable.                       |
+| 48   | Amortisseur magique       | Tous les effets magiques proches voient leur efficacité réduite de moitié.  |
+| 49   | Maison                         | Un chalet solide et meublé apparaît pendant 12 heures. Vous pouvez en autoriser ou en interdire l'accès à volonté. |
+| 50   | Passion des billes           | Vos poches sont pleines de billes, et se remplissent toutes les 30 secondes. |
+| 51   | Mascarade               | L'apparence et la voix d'un personnage deviennent identiques à celles d'un personnage que vous touchez. |
+| 52   | Miniaturiser             | Une créature que vous touchez est réduite à la taille d'une souris.  |
+| 53   | Image miroir           | Un double illusoire de vous-même apparaît et est sous votre contrôle. |
+| 54   | Passe-miroir               | Un miroir devient une passerelle vers un autre miroir dans lequel vous vous êtes regardé aujourd'hui. |
+| 55   | Multibras                   | Vous gagnez un bras supplémentaire.                           |
+| 56   | Sphère nocturne           | Une sphère d'obscurité de 15 mètres de large représentant le ciel nocturne apparaît devant vous. |
+| 57   | Objectifier                 | Vous devenez un objet inanimé de la taille d'un piano à queue à une pomme. |
+| 58   | Forme suintante                 | Vous devenez une gelée vivante.                                   |
+| 59   | Pacifier                       | Une créature près de vous a une aversion pour la violence.             |
+| 60   | Phobie                       | Une créature proche devient terrifiée par un objet de votre choix. |
+| 61   | Fosse                             | Une fosse de 3 mètres de large et 3 mètres de profondeur s'ouvre dans le sol.           |
+| 62   | Poussée primitive           | Une créature évolue rapidement en une version future de son espèce. |
+| 63   | Pousser/Tirer                 | Un objet de n'importe quelle taille est tiré directement vers vous ou repoussé directement loin de vous avec la force d'un seul homme. |
+| 64   | Lever les morts               | Un squelette sort du sol pour vous servir. Ils sont incroyablement stupides et ne peuvent obéir qu'à des ordres simples. |
+| 65   | Lever l'esprit           | L'esprit d'un cadavre se manifeste et répond à une question. |
+| 66   | Lire l'esprit                 | Vous pouvez entendre les pensées de surface des créatures proches.       |
+| 67   | Repousser                         | Deux objets sont fortement repoussés magnétiquement l'un de l'autre s'ils se trouvent à moins de 3 mètres. |
+| 68   | Scruter                           | Vous pouvez voir à travers les yeux d'une créature que vous avez touchée plus tôt dans la journée. |
+| 69   | Sculpter les éléments     | Toute matière inanimée se comporte comme de l'argile entre vos mains.          |
+| 70   | Sentir                         | Choisissez un type d'objet (clé, or, flèche, cruche, etc.). Vous pouvez sentir l'exemplaire le plus proche. |
+| 71   | Bouclier                       | Une créature que vous touchez est protégée des attaques ordinaires pendant une minute. |
+| 72   | Linceul                       | Une créature que vous touchez est invisible jusqu'à ce qu'elle bouge.           |
+| 73   | Mélanger                     | Deux créatures que vous pouvez voir échangent instantanément leurs places.           |
+| 74   | Sommeil                         | Une créature que vous pouvez voir tombe dans un sommeil léger.             |
+| 75   | Glissant                         | Chaque surface dans un rayon de 10 mètres devient sans friction et glissante.   |
+| 76   | Forme de fumée               | Votre corps devient une fumée vivante.       |
+| 77   | Renifler                         | Vous pouvez sentir même les traces les plus infimes de parfums.            |
+| 78   | Souffler                         | La source de toute lumière ordinaire que vous pouvez voir est instantanément éteinte. |
+| 79   | Trier                           | Les objets inanimés se trient eux-mêmes en fonction des catégories que vous avez définies. |
+| 80   | Spectacle                 | Une illusion clairement irréelle mais impressionnante de votre choix apparaît, sous votre contrôle. Elle peut avoir la taille d'un palais et est dotée de mouvements et de sons. |
+| 81   | Sorcisaille                   | Une lame tourbillonnante s'envole de votre poitrine, éliminant toute matière végétale sur son passage. Elle est autrement inoffensive. |
+| 82   | Escalade de l'araignée           | Vous pouvez grimper sur des surfaces comme une araignée.                        |
+| 83   | Invocation de Cube             | Une fois par seconde, vous pouvez invoquer ou bannir un cube de terre de 30 cm de large. Les nouveaux cubes doivent être fixés à la terre ou à d'autres cubes. |
+| 84   | Essaim                         | Vous devenez un essaim de corbeaux, de rats ou de piranhas. Vous ne pouvez être blessé que par des attaques explosives. |
+| 85   | Télékinésie             | Vous pouvez déplacer mentalement 1 objet de moins de 30 kg.                    |
+| 86   | Télépathie                 | Deux créatures peuvent entendre les pensées de l'autre, quelle que soit la distance qui les sépare. |
+| 87   | Téléportation                   | Un objet ou une personne que vous pouvez voir est transporté d'un endroit à un autre dans un rayon de 15 mètres. |
+| 88   | Cible leurre             | Un objet que vous touchez devient la cible de tout sort à proximité.  |
+| 89   | Bosquet                     | Un bosquet d'arbres et de broussailles d'une largeur de 15 mètres surgit soudainement. |
+| 90   | Invocation d'Idole             | Une statue en pierre sculptée de la taille d'une mule sort du sol. |
+| 91   | Contrôle du temps           | Le temps dans une bulle de 15 mètres ralentit ou augmente de 10 % pendant 30 secondes. |
+| 92   | Vision réelle               | Vous voyez clairement les illusions environnantes.                        |
+| 93   | Marée haute                       | Une source d'eau de mer apparaît.                                |
+| 94   | Vision                       | ous contrôlez complètement ce qu'une créature voit.                 |
+| 95   | Illusion visuelle     | Une illusion silencieuse, immobile et de la taille d'une salle de votre choix apparaît. |
+| 96   | Garde                           | Un cercle argenté de 15 mètres de diamètre apparaît sur le sol. Choisissez une espèce qui ne peut pas le traverser. |
+| 97   | Toile                             | Vos poignets tirent des toiles épaisses.                             |
+| 98   | Gadget                       | Une version primitive d'un outil ou d'un objet dessiné apparaît devant vous, et disparaît après quelques instants. |
+| 99   | Marque du magicien             | Votre doigt peut projeter un jet de peinture d'une couleur unique. Cette peinture n'est visible que par vous, et peut être vue à n'importe quelle distance, même à travers des objets solides. |
+| 100  | Vision à rayons X           | Vous pouvez voir à travers les murs, la terre, les vêtements, etc.              |
 
+[retour à l'index](#index)
 
-[back to index](#index)
 <p></p>
 
-# Rules Summary
+# Résumé des règles
 
 **ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+A son tour, un personnage peut se déplacer jusqu'à 12 mètres et effectuer une action. Les actions peuvent inclure le lancement d'un sort, une attaque, un second mouvement ou toute autre activité raisonnable. Les actions, les attaques et les déplacements ont lieu simultanément. Lorsque l'ordre des tours est incertain, les PJ doivent faire une sauvegarde de DEX pour voir s'ils commencent avant leurs ennemis.
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+Pour se dégager d'une **situation dangereuse**, il faut toujours réussir une sauvegarde de DEX, ainsi qu'une destination sûre vers laquelle courir.
 
-**ABILITIES**  
-**STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
-**WIL:**  Persuasion, intimidation & magic.
+**CARACTÉRISTIQUES**  
+**FOR:** Force, prouesse et résistance.   
+**DEX:** Esquive, ruse et réflexes.   
+**VOL:** Persuasion, intimidation et magie.
 
-**SAVES**  
-- Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+**SAUVEGARDES**  
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+- Lancez un d20 égal ou inférieur à une caractéristique.
+- 1 est toujours un succès, 20 est toujours un échec.
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+**POINTS DE VIE**  
+Les **PV** indiquent la capacité d'un PJ à éviter d'être blessé. Ils sont perdus pendant le combat et récupérés après quelques instants de repos.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+**INVENTAIRE**  
+Les PJ ont 10 emplacements d'inventaire : quatre sur leur corps et six dans leur sac à dos (qui fait office de sac de couchage s'il est vidé). La plupart des objets occupent un seul emplacement, mais les petits objets peuvent être regroupés. Les objets **encombrants** occupent deux emplacements et sont gênants ou difficiles à transporter.
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+Remplir les dix emplacements d'objets réduit un PJ à 0 PV. Les PJ ne peuvent pas transporter plus que ce que leur inventaire leur permet, bien que les chariots et les chevaux puissent fournir un plus grand nombre d'emplacements.
 
-**HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+**CARENCE**  
+**Les PJ carencés** ne peuvent pas récupérer de PV. S'ils sont carencés pendant plus d'un jour, ils ajoutent une **Fatigue** à leur inventaire. La Fatigue occupe un emplacement et dure jusqu'à ce qu'ils puissent récupérer en sécurité. Cet effet est cumulatif.
 
-**SPELLBOOKS**
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**SOINS**  
+Un moment de repos et une gorgée d'eau restaurent les PV perdus, mais peuvent rendre le groupe vulnérable. La perte de **caractéristiques** nécessite une semaine de repos et l'aide d'un guérisseur compétent.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+**LIVRE DE SORTS**
+Les livres de sorts contiennent un seul sort et occupent un emplacement d'objet. N'importe qui peut lancer un sort en tenant un livre de sorts dans les deux mains et en lisant son contenu à haute voix. Lancer un sort ajoute **Fatigue** à l'inventaire du PJ.
+
+S'ils disposent de temps et de suffisamment de sûreté, les PJ peuvent améliorer un sort sans coût supplémentaire. S'ils sont en carence ou en danger, une sauvegarde de VOL peut être nécessaire pour éviter de terribles conséquences.
 
 **COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+L'attaquant lance son dé d'arme et soustrait l'Armure de la cible, puis inflige le total restant aux PV de son adversaire.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Avant de calculer les dégâts aux PV, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dégâts. Les boucliers et armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.
 
-No one can have more than 3 Armor.
+Personne ne peut avoir plus de 3 en Armure.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+Les attaques **sans arme** font toujours 1d4 points de dégâts. Si **plusieurs attaquants** ciblent le même ennemi, lancez tous les dés de dégâts et gardez le résultat le plus élevé. Si vous attaquez avec **deux armes** en même temps, lancez les deux dés de dégâts et gardez le plus élevé.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+Si une attaque est **atténuée** , le dé de dégâts est réduit à 1d4, quelle que soit l'arme. Si l'attaque est **renforcée**, l'attaquant lance 1d12. Les attaques avec la qualité **explosif** affectent toutes les cibles de la zone, en effectuant un jet séparé pour chacune.
 
-**DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](/cairn-srd#scars-1) table.
+**DÉGÂTS**  
+Si une attaque ramène les PV d'un PJ exactement à 0, le joueur effectue un jet sur la table [**Cicatrices**](#cicatrices-2).
 
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+Les dégâts qui réduisent les PV d'une cible **en dessous** de 0 diminuent sa FOR du reste. Elle doit alors faire une sauvegarde de FOR pour éviter les **dégâts critiques**. Un échec la met hors de combat, et elle meurt si elle n'est pas soignée.
 
-Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+Avoir 0 en FOR signifie **mort** ; avoir 0 en DEX signifie paralysie ; avoir 0 en VOL signifie folie.
