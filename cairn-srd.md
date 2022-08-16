@@ -788,7 +788,7 @@ La perte totale de DEX et de VOL rend le personnage incapable d'agir jusqu'à ce
 
 ### Cicatrices
 
-Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices-2) pour en savoir plus.
+Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices) pour en savoir plus.
 
 ### Inconscience et mort
 
