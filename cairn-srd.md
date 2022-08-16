@@ -185,7 +185,7 @@ Développez pour l'exemple
 </details>
 
 ### Points de vie
-Lancez 1d6 pour déterminer les **points de vie** (PV) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PV d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](#cicatrices).
+Lancez 1d6 pour déterminer les **points de vie** (PV) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PV d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](#cicatrices-1).
 
 #### Inventaire
 Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
@@ -788,7 +788,7 @@ La perte totale de DEX et de VOL rend le personnage incapable d'agir jusqu'à ce
 
 ### Cicatrices
 
-Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices) pour en savoir plus.
+Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices-1) pour en savoir plus.
 
 ### Inconscience et mort
 
