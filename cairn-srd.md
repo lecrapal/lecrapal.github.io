@@ -1064,7 +1064,7 @@ Les attaques **sans arme** font toujours 1d4 points de dégâts. Si **plusieurs 
 Si une attaque est **atténuée** , le dé de dégâts est réduit à 1d4, quelle que soit l'arme. Si l'attaque est **renforcée**, l'attaquant lance 1d12. Les attaques avec la qualité **explosif** affectent toutes les cibles de la zone, en effectuant un jet séparé pour chacune.
 
 **DÉGÂTS**  
-Si une attaque ramène les PV d'un PJ exactement à 0, le joueur effectue un jet sur la table [**Cicatrices**](#cicatrices).
+Si une attaque ramène les PV d'un PJ exactement à 0, le joueur effectue un jet sur la table [**Cicatrices**](#cicatrices-1).
 
 Les dégâts qui réduisent les PV d'une cible **en dessous** de 0 diminuent sa FOR du reste. Elle doit alors faire une sauvegarde de FOR pour éviter les **dégâts critiques**. Un échec la met hors de combat, et elle meurt si elle n'est pas soignée.
 
