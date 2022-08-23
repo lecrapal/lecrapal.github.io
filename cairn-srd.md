@@ -346,7 +346,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 2          | Rustre | 7    | Farfelu |
 | 3          | Dangereux | 8    | Repoussant |
 | 4          | Saltimbanque | 9    | Respecté |
-| 5          | Honnête | 10   | Respecté |
+| 5          | Honnête | 10   | Sage |
 
 #### Malheurs
 
