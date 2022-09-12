@@ -213,7 +213,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 ## Nom et historique (d20)
 
-#### Noms féminins
+#### Prénoms féminins
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -224,7 +224,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
 
-#### Noms masculins
+#### Prénoms masculins
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -234,7 +234,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnoms
+#### Noms de famille
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
