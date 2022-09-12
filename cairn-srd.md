@@ -656,9 +656,9 @@ Développez par exemple
 
 Se reposer quelques instants et boire de l'eau restaure les PV perdus mais laisse le groupe exposé. La perte de caractéristique (voir **Dégâts critiques**) peut généralement être restaurée avec une semaine de repos facilitée par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services sont gratuits, tandis que les moyens magiques ou plus rapides de récupération peuvent avoir un coût.
 
-### Carence & Fatigue
+### Epuisement & Fatigue
 
-Un PJ **carencé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses scores de caractéristiques. Toute personne carencée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
+Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses scores de caractéristiques. Toute personne epuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
 Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
 
 ### Armure
