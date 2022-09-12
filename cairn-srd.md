@@ -410,8 +410,8 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 1    | Bouteille     | 6    | Corne      | 11   | Miroir         | 16   | Savon          |
 | 2    | Jeu de cartes | 7    | Encens     | 12   | Parfum         | 17   | Éponge         |
 | 3    | Jeu de dés    | 8    | Instrument | 13   | Plume et encre | 18   | Pot de goudron |
-| 4    | Maquillage    | 9    | Lentille   | 14   | Paquet de sel  | 19   | Twine          |
-| 5    | Faux bijoux   | 10   | Billes     | 15   | Petite cloche  | 20   | Whistle        |
+| 4    | Maquillage    | 9    | Lentille   | 14   | Paquet de sel  | 19   | Ficelle        |
+| 5    | Faux bijoux   | 10   | Billes     | 15   | Petite cloche  | 20   | Sifflet        |
 
 #### 																		Objet bonus (lancer sur la table indiquée)
 
