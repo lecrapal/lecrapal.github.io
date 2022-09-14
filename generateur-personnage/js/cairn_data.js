@@ -239,16 +239,16 @@ gen_data['helmet'] = {
 }
 
 gen_data['weapons'] = {
-'1-10':'{wgroup1} (d6)',
-'11-14':'{wgroup2} (d8)',
-'15-19':'{wgroup3} (d8)',
-'20':'{wgroup4} (d10)'
+'1-10':'{wgroup1}',
+'11-14':'{wgroup2}',
+'15-19':'{wgroup3}',
+'20':'{wgroup4}'
 }
 
-gen_data['wgroup1'] = ['Dague', 'Gourdin', 'Bâton']
-gen_data['wgroup2'] = ['Épée', 'Masse', 'Hache']
-gen_data['wgroup3'] = ['Arc long (encombrant)', 'Arbalète (encombrant)', 'Fronde']
-gen_data['wgroup4'] = ['Hallebarde (encombrant)', 'Marteau de guerre (encombrant)', 'Hache de guerre (encombrant)']
+gen_data['wgroup1'] = ['Dague (d6)', 'Gourdin (d6)', 'Bâton (d6)']
+gen_data['wgroup2'] = ['Épée (d8)', 'Masse (d8)', 'Hache (d8)']
+gen_data['wgroup3'] = ['Arc long (d8) (encombrant)', 'Arbalète (d8)(encombrant)', 'Fronde (d6)']
+gen_data['wgroup4'] = ['Hallebarde (d10) (encombrant)', 'Marteau de guerre (d10) (encombrant)', 'Hache de guerre (d10) (encombrant)']
 
 gen_data['armor_weapons'] = {
   '1-10':'{armor}',
