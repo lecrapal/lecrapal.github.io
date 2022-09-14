@@ -194,7 +194,7 @@ La plupart des objets occupent un emplacement, et les petits objets peuvent êtr
 
 Les objets **encombrants** occupent deux emplacements et sont généralement portés à deux mains ou sont difficiles à transporter. Toute personne portant un inventaire complet (par exemple, remplissant les 10 emplacements) est réduite à 0 PC.
 
-Un PJ ne peut pas porter plus d'objets que son inventaire ne le permet. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  **Il est également possible de payer des écuyers pour porter des équipements.
+Un PJ ne peut pas porter plus d'objets que son inventaire ne le permet. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  Il est également possible de payer des écuyers pour porter des équipements.
 
 #### Équipement de départ
 Tous les PJs commencent avec :
