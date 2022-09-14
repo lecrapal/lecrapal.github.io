@@ -1,3 +1,10 @@
+---
+layout: default
+title: Aventures
+parent: Aventures
+nav_order: 1
+---
+
 # Originales
 
 - [Pour une poignée de plumes / *A Fistful of Feathers*](https://lecrapal.itch.io/une-poignee-de-plumes)
