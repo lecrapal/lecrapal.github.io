@@ -2,7 +2,7 @@
 layout: default
 title: Converting Monsters
 parent: Tools
-redirect_from: /resources/tools/converting-monsters/
+redirect_from: /resources/outils/converting-monsters/
 nav_exclude: true
 ---
 
@@ -15,7 +15,7 @@ Below are some tips that might help with the process!
 Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
 - OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
 - Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
+- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/outils/converting-monsters/#use-the-fiction)!
 
 ### Health, Armor & Abilities
 - **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.

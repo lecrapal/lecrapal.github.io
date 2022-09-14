@@ -13,4 +13,4 @@ Le fichier original d'Affinity Publisher est également disponible avec les tél
 
 <p></p>
 
-[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
+[![CairnRPG](/img/cairn.svg "Cliquer pour agrandir"){:height="50%" width="50%"}](/img/cairn.svg)

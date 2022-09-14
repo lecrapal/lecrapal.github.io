@@ -2,7 +2,7 @@
 layout: default
 title: Créez un lieu pour l'aventure
 parent: Outils
-redirect_from: /resources/tools/build-an-adventure-site/
+redirect_from: /resources/outils/creer-un-lieu-aventure/
 nav_exclude: true
 ---
 
