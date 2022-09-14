@@ -1,5 +1,5 @@
 gen_data['character'] = [
-  'Je suis <i> {name} {surname}</i>, anciennement {background}. J\'ai un physique {physique}, la peau {skin}, {hair}, et un visage {face}. Je parle {speech} et porte des vêtements {clothing}. Je suis {vice} mais aussi {virtue}, et suis généralement considéré(e) comme {reputation}. J\'ai eu la malchance d\'avoir été {misfortune}.'
+  'Je suis <i> {name} {surname}</i>, anciennement {background}. J\'ai un physique {physique}, la peau {skin}, {hair}, et un visage {face}. Je parle {speech} et porte des vêtements {clothing}. Je suis {vice} mais {virtue}, et suis généralement considéré(e) comme {reputation}. J\'ai eu la malchance d\'avoir été {misfortune}.'
 ]
 
 gen_data['name'] = [
