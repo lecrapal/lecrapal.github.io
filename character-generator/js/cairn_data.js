@@ -1,5 +1,5 @@
 gen_data['character'] = [
-  'You are <i> {name} {surname}</i>, formerly {background}. You have {physique} physique, {skin} skin, {hair} hair, and {face} face. You speak in a {speech} manner and wear {clothing} clothing. You are {vice} yet {virtue}, and are generally regarded as {reputation}. You have had the misfortune of being {misfortune}.'
+  'Je suis <i> {name} {surname}</i>, anciennement {background}. J\'ai un physique {physique}, la peau {skin}, {hair}, et un visage {face}. Je parle {speech} et porte des vêtements {clothing}. Je suis {vice} mais aussi {virtue}, et suis généralement considéré(e) comme {reputation}. J\'ai eu la malchance d\'avoir été {misfortune}.'
 ]
 
 gen_data['name'] = [
@@ -69,173 +69,173 @@ gen_data['surname'] = [
 ]
 
 gen_data['background'] = [
-  'an alchemist'
-,  'a blacksmith'
-,  'a butcher'
-,  'a burglar'
-,  'a carpenter'
-,  'a cleric'
-,  'a gambler'
-,  'a gravedigger'
-,  'an herbalist'
-,  'a hunter'
-,  'a magician'
-,  'a mercenary'
-,  'a merchant'
-,  'a miner'
-, 'an outlaw'
-,  'a performer'
-,  'a pickpocket'
-,  'a smuggler'
-,  'a servant'
-,  'a ranger'
+  'alchimiste'
+,  'forgeron(ne)'
+,  'boucher(ère)'
+,  'cambrioleur(euse)'
+,  'charpentier(e)'
+,  'clerc'
+,  'joueur(euse)'
+,  'fossoyeur(euse)'
+,  'herboriste'
+,  'chasseur(euse)'
+,  'magicien(ne)'
+,  'mercenaire'
+,  'marchand(e)'
+,  'mineur(euse)'
+, 'hors-la-loi'
+,  'artiste'
+,  'pickpocket'
+,  'contrebandier(e)'
+,  'serviteur'
+,  'rôdeur(euse)'
 ]
 
 gen_data['physique'] = [
-  'a statuesque'
-,  'a brawny'
-,  'a towering'
-,  'a stout'
-,  'a rugged'
-,  'an athletic'
-,  'a lanky'
-,  'a short'
-,  'a scrawny'
-,  'a flabby'
+  'athéltique'
+,  'musclé'
+,  'flasque'
+,  'efflanqué'
+,  'robuste'
+,  'maigrichon'
+,  'petit'
+,  'statuesque'
+,  'corpulent'
+,  'gigantesque'
 ]
 
 gen_data['skin'] = [
-  'dark'
-,  'a birthmark on your'
-,  'tanned'
-,  'pockmarked'
-,  'weathered'
-,  'oily'
-,  'pale'
-,  'perfect'
-,  'rosy'
-,  'tattooed'
+  'avec une tâche de naissance'
+,  'foncée'
+,  'sèche'
+,  'grêlée (boutons)'
+,  'rosée'
+,  'lisse'
+,  'douce'
+,  'tannée'
+,  'tatouée'
+,  'vieillie'
 ]
 
 gen_data['hair'] = [
-  'bald'
-,  'braided'
-,  'oily'
-,  'wavy'
-,  'curly'
-,  'long'
-,  'wispy'
-,  'filthy'
-,  'frizzy'
-,  'luxurious'
+  'chauve'
+,  'les cheveux tressés'
+,  'les cheveux bouclés'
+,  'les cheveux sales'
+,  'les cheveux crépus'
+,  'les cheveux longs'
+,  'les cheveux luxuriants'
+,  'les cheveux gras'
+,  'les cheveux ondulé'
+,  'les cheveux épars'
 ]
 
 gen_data['face'] = [
-  'a chiseled'
-,  'a square'
-,  'a bony'
-,  'a sharp'
-,  'a sunken'
-,  'an elongated'
-,  'a broken'
-,  'a soft'
-,  'a rat-like'
-,  'a round'
+  'osseux'
+,  'brisé'
+,  'buriné'
+,  'allongé'
+,  'pâle'
+,  'parfait'
+,  'en tête de rat'
+,  'pointu'
+,  'carré'
+,  'creusé'
 ]
 
 gen_data['speech'] = [
-  'blunt'
-,  'booming'
-,  'droning'
-,  'gravelly'
-,  'cryptic'
-,  'formal'
-,  'stuttering'
-,  'precise'
-,  'squeaky'
-,  'whispery'
+  'avec franchise'
+,  'avec le verbe haut'
+,  'de manière énigmatique'
+,  'd\'un ton monotone'
+,  'de façon formel'
+,  'avec un ton graveleux'
+,  'en détaillant'
+,  'de façon grinçante'
+,  'en bégayant'
+,  'à voix basse'
 ]
 
 gen_data['clothing'] = [
-  'antique'
-,  'bloody'
-,  'rancid'
-,  'soiled'
-,  'frumpy'
-,  'elegant'
-,  'frayed'
-,  'foreign'
-,  'livery'
-,  'filthy'
+  'anciens'
+,  'ensanglantés'
+,  'élégants'
+,  'sales'
+,  'exotiques'
+,  'effilochés'
+,  'bouffants'
+,  'cérémonieux'
+,  'malodorants'
+,  'souillés'
 ]
 
 gen_data['virtue'] = [
-  'ambitious'
-,  'courageous'
-,  'disciplined'
+  'ambitieux'
+,  'prudent'
+,  'courageux'
+,  'discipliné'
+,  'grégaire'
 ,  'honorable'
-,  'serene'
-,  'merciful'
 ,  'humble'
-,  'tolerant'
-,  'gregarious'
-,  'cautious'
+,  'miséricordieux'
+,  'serein'
+,  'tolérant'
 ]
 
 gen_data['vice'] = [
-  'aggressive'
-,  'bitter'
-,  'craven'
-,  'deceitful'
-,  'greedy'
-,  'vengeful'
-,  'lazy'
-,  'nervous'
-,  'rude'
-,  'vain'
+  'agressif'
+,  'aigri'
+,  'fourbe'
+,  'malhonnête'
+,  'cupide'
+,  'paresseux'
+,  'nerveux'
+,  'grossier'
+,  'vaniteux'
+,  'rancunier'
 ]
 
 gen_data['reputation'] = [
-  'an oddball'
-,  'wise'
-,  'respected'
-,  'ambitious'
-,  'repulsive'
-,  'dangerous'
-,  'honest'
-,  'a boor'
-,  'a loafer'
-,  'an entertainer'
+  'ambitieux'
+,  'rustre'
+,  'dangereux'
+,  'un saltimbanque'
+,  'honnête'
+,  'flâneur'
+,  'farfelu'
+,  'repoussant'
+,  'a respecté'
+,  'sage'
 ]
 
 gen_data['misfortune'] = [
-  'abandoned'
-,  'addicted'
-,  'blackmailed'
-,  'condemned'
-,  'cursed'
-,  'defrauded'
-,  'demoted'
-,  'discredited'
-,  'disowned'
-,  'exiled'
+  'abandonné'
+,  'toxicomane'
+,  'victime de chantage'
+,  'condamné'
+,  'maudit'
+,  'escroqué'
+,  'déchu'
+,  'discrédité'
+,  'déshérité'
+,  'exilé'
 ]
 
 gen_data['equipment'] = [
-  'armor: {armor}<br>Helmet/Shield: {helmet}<br>Weapons: {weapons}<br>Items: {tool,gear,trinket}<br>Bonus item: {bonus}'
+  'Armure : {armor}<br>Casque/Bouclier: {helmet}<br>Armes : {weapons}<br>Items: {tool,gear,trinket}<br>Objets supplémentaires : {bonus}'
 ]
 gen_data['armor'] = {
-  '1-3': 'No upper body protection',
-  '4-14': 'Brigandine (1 Armor, bulky)',
-  '15-19': 'Chainmail (2 Armor, bulky)',
-  '20': 'Plate (3 Armor, bulky)'
+  '1-3': 'Aucune',
+  '4-14': 'Brigandine (1 Armure, encombrant)',
+  '15-19': 'Cotte de mailles (2 Armre, encombrant)',
+  '20': 'Harnois (3 Armure, encombrant)'
 }
 
 gen_data['helmet'] = {
-  '1-13': ', no helmet nor shield',
-  '14-16': ', a Helmet (+1 Armor)',
-  '17-19': ', a Shield (+1 Armor)',
-  '20': ', a Helmet (+1 Armor) and a Shield (+1 Armor)'
+  '1-13': 'Aucun',
+  '14-16': ', un casque (+1 Armure)',
+  '17-19': ', un bouclier (+1 Armure)',
+  '20': ', un casque (+1 Armure) et un bouclier (+1 Armure)'
 }
 
 gen_data['weapons'] = {
@@ -245,10 +245,10 @@ gen_data['weapons'] = {
 '20':'{wgroup4}'
 }
 
-gen_data['wgroup1'] = ['Dagger', 'Cudgel', 'Staff']
-gen_data['wgroup2'] = ['Sword', 'Mace', 'Axe']
-gen_data['wgroup3'] = ['Longbow (bulky)', 'Crossbow (bulky)', 'Sling']
-gen_data['wgroup4'] = ['Halberd (bulky)', 'War Hammer (bulky)', 'Battleaxe (bulky)']
+gen_data['wgroup1'] = ['Dague', 'Gourdin', 'Bâton']
+gen_data['wgroup2'] = ['Épée', 'Masse', 'Hache']
+gen_data['wgroup3'] = ['Arc long (encombrant)', 'Arbalète (encombrant)', 'Fronde']
+gen_data['wgroup4'] = ['Hallebarde (encombrant)', 'Marteau de guerre (encombrant)', 'Hache de guerre (encombrant)']
 
 gen_data['armor_weapons'] = {
   '1-10':'{armor}',
@@ -264,7 +264,7 @@ gen_data['bonus'] = {
   '1-6': '{tool_trinket}',
   '7-13': '{gear}',
   '14-17': '{armor_weapons}',
-  '18-20': 'Spellbook containing the spell \'{spellbook}\''
+  '18-20': 'Livre de sort contenant : \'{spellbook}\''
 }
 
 gen_data['tool'] = [
