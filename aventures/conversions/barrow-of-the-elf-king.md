@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Le Tertre du Roi des Elfes
+parent: Aventures
+nav_order: 1
+---
 
 # Le Tertre du Roi des Elfes
 
