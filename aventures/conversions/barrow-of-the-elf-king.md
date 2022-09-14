@@ -64,7 +64,7 @@ Des toiles d'araignées recouvrent les murs. Les pièges des toiles collantes do
 
 ## 8. La tapisserie
 
-Une tapisserie animée recouvre le mur sud. Les images bougent comme si elles étaient vivantes. Elle dépeint les légendaires Elflands : des elfes dansant en cercle, des oiseaux volant, des arbres se balançant dans le vent, un guerrier en armure combattant un dragon rouge sang. La tapisserie vaut 500 po pour la plupart des marchands d'art mais pourrait valoir plusieurs fois cette somme pour un collectionneur particulier. Deux personnes pourraient la porter si elle était enroulée. Chaque PJ voit ses PV réduits à 0 pendant qu'il porte la tapisserie. 
+Une tapisserie animée recouvre le mur sud. Les images bougent comme si elles étaient vivantes. Elle dépeint les légendaires Elflands : des elfes dansant en cercle, des oiseaux volant, des arbres se balançant dans le vent, un guerrier en armure combattant un dragon rouge sang. La tapisserie vaut 500 po pour la plupart des marchands d'art mais pourrait valoir plusieurs fois cette somme pour un collectionneur particulier. Deux personnes pourraient la porter si elle était enroulée. Chaque PJ voit ses PC réduits à 0 pendant qu'il porte la tapisserie. 
 **Entrées :** *Le tunnel dans le mur ouest mène à la salle 5. Le tunnel dans le mur nord mène à la salle 7. Le tunnel dans le coin nord-est mène à la salle 9.*
 
 ![Guerrier en armure combattant un dragon](/img/aventures/conversions/botek/_tapestry.png)
@@ -89,27 +89,27 @@ Le tunnel de la salle 9 se termine à l'intérieur de ce grand chêne. Un trou d
 3. **Grande épée en bois blanc (d10) :** Ne se détériore jamais. S'il est planté, il deviendra en un an un chêne blanc géant avec une porte vers le pays des fées. D'une valeur de 150 po.
 4. **Tapisserie :** Des images magiques animées montrent le mythique pays des fées. Peut-être qu'un magicien habile pourra trouver des indices sur l'endroit où se trouve le pays mythique caché dans la tapisserie.
 5. **Dés usés du squelette :** Chuchotez un chiffre aux dés et c'est sur ce chiffre qu'ils tomberont.
-6. **Le cœur du roi des elfes :** Le consommer guérit toutes blessures (PV & FOR au max, supprime fatigue et carence). Vaut 200 po pour les nécromanciens.
+6. **Le cœur du roi des elfes :** Le consommer guérit toutes blessures (PC & FOR au max, supprime les fatigue et l'état épuisé). Vaut 200 po pour les nécromanciens.
 7. **Le cerveau du roi des elfes :** Le consommer permet d'apprendre un sort aléatoire. Un livre de sorts en bois se manifeste, que seul le ou les mangeurs peuvent lire. Faites un jet sur la table des livres de sorts standard ou supplémentaires. Vaut 400 po pour les nécromanciens. 
 
 # Bestiaire
 
-**Garde Squelette** 5 PV, 1 Armure, 13 DEX, épée rouillée (d6)
+**Garde Squelette** 5 PC, 1 Armure, 13 DEX, épée rouillée (d6)
 
-**Gobelin** 2 PV, 8 FOR, 12 DEX, 8 VOL
+**Gobelin** 2 PC, 8 FOR, 12 DEX, 8 VOL
 
-**Ver du tertre** 2 PV, 1 Armure, 3 FOR, 12 DEX, 2 VOL, morsure (1d4)
+**Ver du tertre** 2 PC, 1 Armure, 3 FOR, 12 DEX, 2 VOL, morsure (1d4)
 
-**Sargmotra Sinspinner** 8 PV, 14 FOR, 13 DEX, 12 VOL, morsure (d10)
+**Sargmotra Sinspinner** 8 PC, 14 FOR, 13 DEX, 12 VOL, morsure (d10)
 
 - Toile : La cible est prise et incapable de bouger. Une sauvegarde FOR réussie est nécessaire pour se libérer.
 - Dégâts critiques : boit le sang de la cible et soigne 1d6 FOR.
 
-**Araignées** 4 PV, 10 FOR, 11 DEX, 4 VOL, morsure (d6)
+**Araignées** 4 PC, 10 FOR, 11 DEX, 4 VOL, morsure (d6)
 
 - Peut grimper aux murs et au plafond.
 
-**Roi des Elfes** 6 PV, 2 Armure, 11 FOR, 13 DEX, 3 VOL, grande épée en bois blanc (d10)
+**Roi des Elfes** 6 PC, 2 Armure, 11 FOR, 13 DEX, 3 VOL, grande épée en bois blanc (d10)
 
 - Peut se téléporter dans un rayon de 5 mètres.
 

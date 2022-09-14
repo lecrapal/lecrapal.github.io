@@ -1,23 +1,23 @@
 ---
 layout: default
-title: Converting Monsters
+title: Conversion des créatures
 parent: Tools
-redirect_from: /resources/outils/converting-monsters/
+redirect_from: /resources/outils/conversion-des-creatures/
 nav_exclude: true
 ---
 
-# Converting Monsters
+# Conversion des créatures
 
-There is no perfect system for converting from other systems.  
-Below are some tips that might help with the process!
+Il n'existe pas de système parfait pour la conversion à partir d'autres systèmes.  
+Vous trouverez ci-dessous quelques conseils qui pourraient vous aider dans ce processus !
 
-## The Basics
-Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
-- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
-- Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/outils/converting-monsters/#use-the-fiction)!
+## Les principes de base
+Lisez les instructions dans le [SRD (en)](https://cairnrpg.com/cairn-srd/#creating-monsters). Quelques points à garder à l'esprit :
+- OSE (ou B/X) a de très bonnes caractéristiques qui peuvent être facilement tronquées pour une conversion rapide. Voir cette [page (en)](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) et ce [PDF (en)] (https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) pour en savoir plus.
+- Dungeon World possède de superbes "techniques" de monstres qui se traduisent par des dégâts critiques de manière très efficace, donc chercher une créature équivalente dans ce système peut être très utile ! Voir cet exemple [ici (en)](http://codex.dungeon-world.com/monster/5698559156420608).
+- Parfois, une conversion directe de caractéristique à caractéristique n'est pas envisageable. Ce n'est pas grave ! Il y a quand même un [moyen](/resources/outils/conversion-des-creatures/#utilisation-de-la-fiction) !
 
-### Health, Armor & Abilities
+### Santé, Armure & Compétences
 - **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
 - **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3.
 - **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is the ability of a creature to survive a direct hit, not its ability to avoid danger! If a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR** (_not_ more **HP**). A good rule of thumb is to compare them to the average person (10 **STR**) and go up or down from there.

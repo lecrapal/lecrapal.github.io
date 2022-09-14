@@ -173,7 +173,7 @@ Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparen
 
 Enfin, déterminez son **âge** (2d20+10).
 
-#### Points de caractéristiques
+#### Caractéristiques
 Les Personnages Joueurs (PJs) ont seulement trois caractéristiques :  
 **La force (FOR)**, **la dextérité (DEX)**, et **la volonté (VOL)**. Lorsqu'il crée un PJ, le joueur doit lancer 3d6 pour chacun des scores de capacité de son personnage, dans l'ordre. Il peut ensuite échanger deux des résultats, au choix.
 
@@ -184,15 +184,15 @@ Développez pour l'exemple
  Inès effectue un jet pour la **FOR** de son personnage, ce qui donne un **2**, un **4** et un **6**, soit un total de **12**. Les deux jets de capacité suivants donnent un **9** pour **DEX** et un **13** pour **VOL**. Elle décide d'échanger le **12** et le **9**, pour un personnage avec **9 FOR**, **12 DEX** et **13** **VOL**.
 </details>
 
-### Points de vie
-Lancez 1d6 pour déterminer les **points de vie** (PV) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PV d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](#cicatrices-1).
+### Protection des coups
+Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](#cicatrices-1).
 
 #### Inventaire
 Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
 
 La plupart des objets occupent un emplacement, et les petits objets peuvent être regroupés. Les emplacements sont abstraits et peuvent être réorganisés à la discrétion du Gardien.
 
-Les objets **volumineux** occupent deux emplacements et sont généralement portés à deux mains ou sont difficiles à transporter. Toute personne portant un inventaire complet (par exemple, remplissant les 10 emplacements) est réduite à 0 PV.
+Les objets **volumineux** occupent deux emplacements et sont généralement portés à deux mains ou sont difficiles à transporter. Toute personne portant un inventaire complet (par exemple, remplissant les 10 emplacements) est réduite à 0 PC.
 
 Un PJ ne peut pas porter plus d'objets que son inventaire ne le permet. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  **Il est également possible de payer des écuyers pour porter des équipements.
 
@@ -617,12 +617,12 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 #### Rôdeur
 
 |                                           |
-| ----------------------------------------- |
+|-------------------------------------------|
 | Arc long (d8, encombrant)                 |
 | Hachette (d6)                             |
 | Cuirs rembourrés (1 Armure)               |
 | Grand piège                               |
-| Limier &#124 ; 2 PV, 12 DEX, Morsure (d6) |
+| Limier &#124 ; 2 PC, 12 DEX, Morsure (d6) |
 | Corne de tonnerre                         |
 
 [retour à l'index](#index)
@@ -654,16 +654,16 @@ Développez par exemple
 
 ### Guérison
 
-Se reposer quelques instants et boire de l'eau restaure les PV perdus mais laisse le groupe exposé. La perte de caractéristique (voir **Dégâts critiques**) peut généralement être restaurée avec une semaine de repos facilitée par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services sont gratuits, tandis que les moyens magiques ou plus rapides de récupération peuvent avoir un coût.
+Se reposer quelques instants et boire de l'eau restaure les PC perdus mais laisse le groupe exposé. La perte de caractéristique (voir **Dégâts critiques**) peut généralement être restaurée avec une semaine de repos facilitée par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services sont gratuits, tandis que les moyens magiques ou plus rapides de récupération peuvent avoir un coût.
 
 ### Epuisement & Fatigue
 
-Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses scores de caractéristiques. Toute personne epuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
+Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PC ou ses scores de caractéristiques. Toute personne epuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
 Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
 
 ### Armure
 
-Avant de calculer les dommages aux PV, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dommages. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
+Avant de calculer les dégâts sur les PC, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dommages. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
 Personne ne peut avoir plus de 3 points d'Armure.  
 Les boucliers, gantelets et casques peuvent apporter des avantages supplémentaires en fonction de leur utilisation.
 
@@ -677,11 +677,11 @@ Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas éviden
 
 ### Moral
 
-Les ennemis doivent réussir une sauvegarde de VOL pour éviter de fuir lorsqu'ils subissent leur première perte et à nouveau lorsqu'ils perdent la moitié de leurs effectifs. Certains groupes peuvent utiliser la VOL de leur chef à la place du leur. Les ennemis solitaires doivent réussir une sauvegarde lorsqu'ils sont réduits à 0 PV. Le moral n'affecte pas les PJs.
+Les ennemis doivent réussir une sauvegarde de VOL pour éviter de fuir lorsqu'ils subissent leur première perte et à nouveau lorsqu'ils perdent la moitié de leurs effectifs. Certains groupes peuvent utiliser la VOL de leur chef à la place du leur. Les ennemis solitaires doivent réussir une sauvegarde lorsqu'ils sont réduits à 0 PC. Le moral n'affecte pas les PJs.
 
 ### Mercenaires
 
-Les PJs peuvent engager des **mercenaires** pour les aider dans leurs expéditions. Pour créer un mercenaire, lancez 3d6 pour chaque score de capacité, puis donnez-lui 1d6 PV et une arme simple (d6), puis faites un jet sur les tables de [**Création de personnage**](#création-de-personnage) pour l'étoffer davantage. Les mercenaires coûtent entre 1 et 3 po par jour, ou une part de tout trésor obtenu par le groupe.
+Les PJs peuvent engager des **mercenaires** pour les aider dans leurs expéditions. Pour créer un mercenaire, lancez 3d6 pour chaque score de capacité, puis donnez-lui 1d6 PC et une arme simple (d6), puis faites un jet sur les tables de [**Création de personnage**](#création-de-personnage) pour l'étoffer davantage. Les mercenaires coûtent entre 1 et 3 po par jour, ou une part de tout trésor obtenu par le groupe.
 
 ### Richesse et trésor
 
@@ -707,7 +707,7 @@ Les livres de sorts attirent l'attention de ceux qui recherchent le pouvoir arca
 
 ### Lancer des sorts
 
-N'importe qui peut lancer un sort en tenant un livre de sorts à deux mains et en lisant son contenu à haute voix. Ils doivent alors ajouter une Fatigue à l'inventaire, occupant un emplacement. S'il dispose du temps et de la tranquillité nécessaires, le PJ peut _améliorer_ les effets d'un sort (par exemple, en affectant plusieurs cibles, en augmentant sa puissance, etc). Si le PJ est carencé ou en danger, le Gardien peut exiger du PJ qu'il fasse une sauvegarde de VOL pour éviter tout effet néfaste au lancé du sort. Les conséquences d'un échec sont équivalentes à celles de l'effet recherché, et peuvent entraîner une fatigue supplémentaire, la destruction du livre de sorts, des blessures, voire la mort.
+N'importe qui peut lancer un sort en tenant un livre de sorts à deux mains et en lisant son contenu à haute voix. Ils doivent alors ajouter une Fatigue à l'inventaire, occupant un emplacement. S'il dispose du temps et de la tranquillité nécessaires, le PJ peut _améliorer_ les effets d'un sort (par exemple, en affectant plusieurs cibles, en augmentant sa puissance, etc). Si le PJ est épuisé ou en danger, le Gardien peut exiger du PJ qu'il fasse une sauvegarde de VOL pour éviter tout effet néfaste au lancé du sort. Les conséquences d'un échec sont équivalentes à celles de l'effet recherché, et peuvent entraîner une fatigue supplémentaire, la destruction du livre de sorts, des blessures, voire la mort.
 
 ### Reliques
 
@@ -719,7 +719,7 @@ N'importe qui peut lancer un sort en tenant un livre de sorts à deux mains et e
 
 **Bâton du Silence** , 1 charge. Cette baguette noircie désactive temporairement toute magie dans un rayon de 15 mètres. Recharge : se baigner dans la lumière de la pleine lune.
 
-**Capuchon de Ley** , 1 utilisation. Toute personne qui ingère ce champignon moucheté de vert perd une Fatigue, et doit ensuite faire une sauvegarde de VOL pour éviter ses propriétés addictives. En cas d'échec, le PJ est carencé et incapable de se concentrer jusqu'à ce qu'il puisse manger un autre champignon, ce qui n'offre qu'un bref répit à la dépendance.
+**Capuchon de Ley** , 1 utilisation. Toute personne qui ingère ce champignon moucheté de vert perd une Fatigue, et doit ensuite faire une sauvegarde de VOL pour éviter ses propriétés addictives. En cas d'échec, le PJ est épuisé et incapable de se concentrer jusqu'à ce qu'il puisse manger un autre champignon, ce qui n'offre qu'un bref répit à la dépendance.
 
 ## Combat
 
@@ -747,13 +747,13 @@ Développez pour l'exemple
 
 ### Attaque et dégâts
 
-L'attaquant lance son dé d'arme et soustrait l'armure de la cible, puis inflige le total restant aux PV de son adversaire. Les attaques à mains nues font toujours 1d4 points de dégâts.
+L'attaquant lance son dé d'arme et soustrait l'armure de la cible, puis inflige le total restant aux PC de son adversaire. Les attaques à mains nues font toujours 1d4 points de dégâts.
 
 <details markdown="block">
   <summary>
 Développez pour l'exemple
  </summary>
-_Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PV. La massue fait 1d10 points de dégâts et le gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PV à Béa_.
+_Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PC. La massue fait 1d10 points de dégâts et le gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PC à Béa_.
 </details>
 
 
@@ -777,7 +777,7 @@ Les attaques avec la mention **explosif** affectent toutes les cibles dans la zo
 
 ### Dégâts critiques
 
-Les dégâts qui réduisent les PV d'une cible en dessous de zéro diminuent la FOR de la cible du montant restant. Elle doit alors effectuer une sauvegarde de FOR pour éviter les **dégâts critiques**. De plus, certains ennemis ont des capacités ou des effets spéciaux qui se déclenchent lorsque leur cible échoue à une sauvegarde contre les dégâts critiques.
+Les dégâts qui réduisent les PC d'une cible en dessous de zéro diminuent la FOR de la cible du montant restant. Elle doit alors effectuer une sauvegarde de FOR pour éviter les **dégâts critiques**. De plus, certains ennemis ont des capacités ou des effets spéciaux qui se déclenchent lorsque leur cible échoue à une sauvegarde contre les dégâts critiques.
 
 Tout PJ qui subit des dégâts critiques ne peut rien faire d'autre que ramper faiblement, s'accrochant à la vie. S'il reçoit de l'aide et se repose, il se stabilisera. S'il n'est pas soigné, il meurt dans l'heure qui suit.
 
@@ -788,7 +788,7 @@ La perte totale de DEX et de VOL rend le personnage incapable d'agir jusqu'à ce
 
 ### Cicatrices
 
-Lorsque les dégâts subis par un PJ réduisent ses PV à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices-1) pour en savoir plus.
+Lorsque les dégâts subis par un PJ réduisent ses PC à exactement 0, il est parfois irrévocablement changé. Voir la table [**Cicatrices**](#cicatrices-1) pour en savoir plus.
 
 ### Inconscience et mort
 
@@ -807,22 +807,22 @@ S'enfuir d'une situation désespérée nécessite toujours une sauvegarde de DEX
 
 ### Cicatrices
 
-Lorsqu'une attaque réduit les PV d'un PJ à exactement 0, celui-ci est affecté de manière unique. Consultez le résultat dans le tableau ci-dessous en fonction du total des dégâts subis :
+Lorsqu'une attaque réduit les PC d'un PJ à exactement 0, celui-ci est affecté de manière unique. Consultez le résultat dans le tableau ci-dessous en fonction du total des dégâts subis :
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-| 1    | Cicatrice durable : Lancez 1d6 \| 1 : Cou, 2 : Mains, 3 : Œil, 4 : Poitrine, 5 : Jambes, 6 : Oreille. Lancez 1d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
-| 2    | Coup sec : Vous êtes désorienté et secoué. Décrivez comment vous vous recentrez. Lancez 1d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
-| 3    | Malmené : Vous êtes envoyé en l'air et atterrissez à plat sur votre visage, essoufflé. Vous êtes carencé jusqu'à ce que vous vous reposiez pendant quelques heures. Ensuite, lancez 1d6. Ajoutez ce montant à vos PV maximum. |
-| 4    | Membre cassé : Lancez 1d6 \| 1-2 : Jambe, 3-4 : Bras, 5 : Côte, 6 : Crâne. Une fois guéri, lancez 2d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
-| 5    | Malade : Vous êtes affligé d'une infection dégoûtante et inconfortable. Lorsque vous vous en remettez, lancez 2d6. Si le total est supérieur à vos PV max, prenez le nouveau résultat. |
-| 6    | Réorienter une blessure à la tête : Lancez 1d6 \| 1-2 : FOR, 3-4 : DEX, 5-6 : VOL. Lancez 3d6. Si le total est supérieur à votre score de caractéristique actuel, prenez le nouveau résultat. |
-| 7    | Paralysé : Vous pouvez à peine bouger jusqu'à ce que vous obteniez une aide sérieuse et que vous vous reposiez. Après avoir récupéré, lancez 3d6. Si le total est supérieur à votre DEX maximum, prenez le nouveau résultat. |
-| 8    | Assourdi : Vous ne pouvez rien entendre jusqu'à ce que vous trouviez une aide particulière. Quoi qu'il en soit, effectuez une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximum de 1d4. |
-| 9    | Rafraîchir la mémoire : Une partie cachée de votre psyché est libérée. Lance 3d6. Si le total est plus élevé que votre VOL maximum, prenez le nouveau résultat. |
-| 10   | Estropié : Un membre est arraché, estropié ou inutile. Le gardien vous dira lequel. Ensuite, faites une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximal de 1d6. |
-| 11   | Blessure mortelle : Vous êtes carencé et hors d'action. Vous mourrez dans une heure à moins d'être guéri. Lors de votre guérison, lancez 2d6. Prenez le nouveau résultat comme votre PV maximum. |
-| 12   | Condamné : La mort vous a semblé si proche, mais vous avez survécu. Si votre prochaine sauvegarde contre les dégâts critiques est un échec, vous mourrez de façon horrible. Si vous réussissez, lancez 3d6. Si le total est supérieur à vos PV maximum, prenez le nouveau résultat. |
+|     |                                                                                                                                                                                                                                                                                     |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Cicatrice durable : Lancez 1d6 > 1 : Cou, 2 : Mains, 3 : Œil, 4 : Poitrine, 5 : Jambes, 6 : Oreille. Lancez 1d6. Si le total est supérieur à vos PC max, prenez le nouveau résultat.                                                                                                |
+| 2   | Coup sec : Vous êtes désorienté et secoué. Décrivez comment vous vous recentrez. Lancez 1d6. Si le total est supérieur à vos PC maximum, prenez le nouveau résultat.                                                                                                                |
+| 3   | Malmené : Vous êtes envoyé en l'air et atterrissez à plat sur votre visage, essoufflé. Vous êtes épuisé jusqu'à ce que vous vous reposiez pendant quelques heures. Ensuite, lancez 1d6. Ajoutez ce montant à vos PC maximum.                                                        |
+| 4   | Membre cassé : Lancez 1d6 > 1-2 : Jambe, 3-4 : Bras, 5 : Côte, 6 : Crâne. Une fois guéri, lancez 2d6. Si le total est supérieur à vos PC maximum, prenez le nouveau résultat.                                                                                                       |
+| 5   | Malade : Vous êtes affligé d'une infection dégoûtante et inconfortable. Lorsque vous vous en remettez, lancez 2d6. Si le total est supérieur à vos PC max, prenez le nouveau résultat.                                                                                              |
+| 6   | Réorienter une blessure à la tête : Lancez 1d6 > 1-2 : FOR, 3-4 : DEX, 5-6 : VOL. Lancez 3d6. Si le total est supérieur à votre score de caractéristique actuel, prenez le nouveau résultat.                                                                                        |
+| 7   | Paralysé : Vous pouvez à peine bouger jusqu'à ce que vous obteniez une aide sérieuse et que vous vous reposiez. Après avoir récupéré, lancez 3d6. Si le total est supérieur à votre DEX maximum, prenez le nouveau résultat.                                                        |
+| 8   | Assourdi : Vous ne pouvez rien entendre jusqu'à ce que vous trouviez une aide particulière. Quoi qu'il en soit, effectuez une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximum de 1d4.                                                                            |
+| 9   | Rafraîchir la mémoire : Une partie cachée de votre psyché est libérée. Lance 3d6. Si le total est plus élevé que votre VOL maximum, prenez le nouveau résultat.                                                                                                                     |
+| 10  | Estropié : Un membre est arraché, estropié ou inutile. Le gardien vous dira lequel. Ensuite, faites une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximal de 1d6.                                                                                                  |
+| 11  | Blessure mortelle : Vous êtes épuisé et hors d'action. Vous mourrez dans une heure à moins d'être guéri. Lors de votre guérison, lancez 2d6. Prenez le nouveau résultat comme votre PC maximum.                                                                                     |
+| 12  | Condamné : La mort vous a semblé si proche, mais vous avez survécu. Si votre prochaine sauvegarde contre les dégâts critiques est un échec, vous mourrez de façon horrible. Si vous réussissez, lancez 3d6. Si le total est supérieur à vos PC maximum, prenez le nouveau résultat. |
 
 [retour à l'index](#index)
 
@@ -831,38 +831,38 @@ Lorsqu'une attaque réduit les PV d'un PJ à exactement 0, celui-ci est affecté
 ## Bestiaire
 
 **Gobelin tuberculeux**  
-4 PV, 8 FOR, 14 DEX, 8 VOL, lance (d6)
+4 PC, 8 FOR, 14 DEX, 8 VOL, lance (d6)
 
 - Évite le combat, sauf s'ils ont l'avantage (par exemple, s'ils sont plus nombreux).
 - Garde ses biens volés jusqu'à la mort.
 - Prise les livres de sorts ; prêt à échanger
 
 **Hommes encapuchonnés**  
-12 HP, 9 FOR, 12 DEX, 14 VOL, bâton runique (d8), un livre de sorts (Choisir entre : _Charme, Hypnotiser, Pousser/Tirer, Bouclier_)
+12 PC, 9 FOR, 12 DEX, 14 VOL, bâton runique (d8), un livre de sorts (Choisir entre : _Charme, Hypnotiser, Pousser/Tirer, Bouclier_)
 
 - Les Veilleurs du Bois ; un culte qui tire son pouvoir des lianes, des pierres runiques et autres.
 - Dégâts critiques : aspire une partie de l'âme de la victime (1d4 points de dégâts de VOL).
 
 **Limier de pierre**  
-12 PV, 2 Armure, 14 FOR, 1 DEX, 8 VOL, morsure (d10)
+12 PC, 2 Armure, 14 FOR, 1 DEX, 8 VOL, morsure (d10)
 
 - Constructions inertes généralement utilisées comme gardiens de grandes tombes ou d'artefacts.
 - Ils ne sont pas affectés par les techniques de persuasion ordinaires, mais ils aiment les beaux os.
 
 **Troll des bois**   
-12 PV, 15 FOR, 12 DEX, 7 VOL, griffes et morsure (d8+d8 explosif)
+12 PC, 15 FOR, 12 DEX, 7 VOL, griffes et morsure (d8+d8 explosif)
 
-- En tant qu'action, peut récupérer les PV perdus.
+- En tant qu'action, peut récupérer les PC perdus.
 - Dégâts critiques : de la mousse et des brindilles commencent à pousser sur les blessures de la cible.
 
 **Elfe des glaces**  
-14 PV, 1 Armure, 8 FOR, 13 DEX, 14 VOL, une dague de glace (d6), un livre de sorts (Choisir entre : _Sommeil, Téléportation, Détection de la magie)_.
+14 PC, 1 Armure, 8 FOR, 13 DEX, 14 VOL, une dague de glace (d6), un livre de sorts (Choisir entre : _Sommeil, Téléportation, Détection de la magie)_.
 
 - Belle, amorale et d'une grande longévité.
 - Résistant à la plupart des formes de magie.
 
 **Épouvantard**  
-3 PV, 4 FOR, 17 DEX, 13 VOL
+3 PC, 4 FOR, 17 DEX, 13 VOL
 
 - Un farceur sauvage et poilu qui prend plaisir à être une nuisance mineure.
 - Il apprécie les reliques et les bibelots brillants par-dessus tout, mais n'est pas prêt à les échanger contre de l'argent.
@@ -873,7 +873,7 @@ Lorsqu'une attaque réduit les PV d'un PJ à exactement 0, celui-ci est affecté
 Utilisez le modèle suivant pour modéliser tout monstre ou PNJ plus sophistiqué :
 
 **Nom**
-X PV, X Armure, X FOR, X DEX, X VOL, Arme (dX, objets spéciaux, qualités)
+X PC, X Armure, X FOR, X DEX, X VOL, Arme (dX, objets spéciaux, qualités)
 
 - Description engageante de l'apparence ou du comportement.
 - Bizarrerie, tactique ou particularité qui rend ce PNJ unique.
@@ -882,20 +882,20 @@ X PV, X Armure, X FOR, X DEX, X VOL, Arme (dX, objets spéciaux, qualités)
 **Principes généraux**  
 Caractéristiques : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarquable, et 18 est légendaire. Ajustez si nécessaire.  
 
-- Donnez 3 PV aux créatures moyennes, 6 PV aux créatures robustes, et 10+ PV aux menaces sérieuses.
+- Donnez 3 PC aux créatures moyennes, 6 PC aux créatures robustes, et 10+ PC aux menaces sérieuses.
 - Utilisez un style et une touche personnelle pour les aider à se démarquer. Les joueurs se souviendront plus facilement d'un humanoïde à tête de cochon à la recherche de son mouton disparu que d'un archer gobelin générique.
 - Utilisez les dégâts critiques pour accentuer la menace ou l'étrangeté de tout PNJ agressif.
-- N'oubliez pas que les PV sont des **protections contre les coups**, et non des points de vie. C'est une mesure de la résistance, de la chance et de la jugeote - pas de la santé.
+- N'oubliez pas que les PC sont des **protections des coups**, et non des points de vie. C'est une mesure de la résistance, de la chance et de la jugeote - pas de la santé.
 
 **Conversion des jeux OSR**
 
-- Donnez 1 PV par dé de vie pour la plupart des créatures.
-- La plupart des humanoïdes ont au moins 4PV.
+- Donnez 1 PC par dé de vie pour la plupart des créatures.
+- La plupart des humanoïdes ont au moins 4PC.
 - **Morale** peut également être utilisé comme base de référence.
 
 Quelques points de repère :  
 
-- Est-il bon pour éviter un coup ? Donnez-lui des PV.
+- Est-il bon pour éviter un coup ? Donnez-lui des PC.
 - Est-ce qu'il absorbe les dégâts ? Donnez-lui une armure.
 - Est-il fort ? Donne-lui une **FOR** élevée.
 - Est-il agile ? Donne-lui une **DEX** élevée.
@@ -1033,29 +1033,29 @@ Pour se dégager d'une **situation dangereuse**, il faut toujours réussir une s
 - Lancez un d20 égal ou inférieur à une caractéristique.
 - 1 est toujours un succès, 20 est toujours un échec.
 
-**POINTS DE VIE**  
-Les **PV** indiquent la capacité d'un PJ à éviter d'être blessé. Ils sont perdus pendant le combat et récupérés après quelques instants de repos.
+**PROTECTION DES COUPS**  
+Les **PC** indiquent la capacité d'un PJ à éviter d'être blessé. Ils sont perdus pendant le combat et récupérés après quelques instants de repos.
 
 **INVENTAIRE**  
 Les PJ ont 10 emplacements d'inventaire : quatre sur leur corps et six dans leur sac à dos (qui fait office de sac de couchage s'il est vidé). La plupart des objets occupent un seul emplacement, mais les petits objets peuvent être regroupés. Les objets **encombrants** occupent deux emplacements et sont gênants ou difficiles à transporter.
 
-Remplir les dix emplacements d'objets réduit un PJ à 0 PV. Les PJ ne peuvent pas transporter plus que ce que leur inventaire leur permet, bien que les chariots et les chevaux puissent fournir un plus grand nombre d'emplacements.
+Remplir les dix emplacements d'objets réduit un PJ à 0 PC. Les PJ ne peuvent pas transporter plus que ce que leur inventaire leur permet, bien que les chariots et les chevaux puissent fournir un plus grand nombre d'emplacements.
 
-**CARENCE**  
-**Les PJ carencés** ne peuvent pas récupérer de PV. S'ils sont carencés pendant plus d'un jour, ils ajoutent une **Fatigue** à leur inventaire. La Fatigue occupe un emplacement et dure jusqu'à ce qu'ils puissent récupérer en sécurité. Cet effet est cumulatif.
+**ÉPUISÉ**  
+**Les PJ épuisés** ne peuvent pas récupérer de PC. S'ils sont épuisés pendant plus d'un jour, ils ajoutent une **Fatigue** à leur inventaire. La Fatigue occupe un emplacement et dure jusqu'à ce qu'ils puissent récupérer en sécurité. Cet effet est cumulatif.
 
 **SOINS**  
-Un moment de repos et une gorgée d'eau restaurent les PV perdus, mais peuvent rendre le groupe vulnérable. La perte de **caractéristiques** nécessite une semaine de repos et l'aide d'un guérisseur compétent.
+Un moment de repos et une gorgée d'eau restaurent les PC perdus, mais peuvent rendre le groupe vulnérable. La perte de **caractéristiques** nécessite une semaine de repos et l'aide d'un guérisseur compétent.
 
 **LIVRE DE SORTS**
 Les livres de sorts contiennent un seul sort et occupent un emplacement d'objet. N'importe qui peut lancer un sort en tenant un livre de sorts dans les deux mains et en lisant son contenu à haute voix. Lancer un sort ajoute **Fatigue** à l'inventaire du PJ.
 
-S'ils disposent de temps et de suffisamment de sûreté, les PJ peuvent améliorer un sort sans coût supplémentaire. S'ils sont en carence ou en danger, une sauvegarde de VOL peut être nécessaire pour éviter de terribles conséquences.
+S'ils disposent de temps et de suffisamment de sûreté, les PJ peuvent améliorer un sort sans coût supplémentaire. S'ils sont épuisés ou en danger, une sauvegarde de VOL peut être nécessaire pour éviter de terribles conséquences.
 
 **COMBAT**  
-L'attaquant lance son dé d'arme et soustrait l'Armure de la cible, puis inflige le total restant aux PV de son adversaire.
+L'attaquant lance son dé d'arme et soustrait l'Armure de la cible, puis inflige le total restant aux PC de son adversaire.
 
-Avant de calculer les dégâts aux PV, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dégâts. Les boucliers et armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.
+Avant de calculer les dégâts aux PC, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dégâts. Les boucliers et armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.
 
 Personne ne peut avoir plus de 3 en Armure.
 
@@ -1064,8 +1064,8 @@ Les attaques **sans arme** font toujours 1d4 points de dégâts. Si **plusieurs 
 Si une attaque est **atténuée** , le dé de dégâts est réduit à 1d4, quelle que soit l'arme. Si l'attaque est **renforcée**, l'attaquant lance 1d12. Les attaques avec la qualité **explosif** affectent toutes les cibles de la zone, en effectuant un jet séparé pour chacune.
 
 **DÉGÂTS**  
-Si une attaque ramène les PV d'un PJ exactement à 0, le joueur effectue un jet sur la table [**Cicatrices**](#cicatrices-1).
+Si une attaque ramène les PC d'un PJ exactement à 0, le joueur effectue un jet sur la table [**Cicatrices**](#cicatrices-1).
 
-Les dégâts qui réduisent les PV d'une cible **en dessous** de 0 diminuent sa FOR du reste. Elle doit alors faire une sauvegarde de FOR pour éviter les **dégâts critiques**. Un échec la met hors de combat, et elle meurt si elle n'est pas soignée.
+Les dégâts qui réduisent les PC d'une cible **en dessous** de 0 diminuent sa FOR du reste. Elle doit alors faire une sauvegarde de FOR pour éviter les **dégâts critiques**. Un échec la met hors de combat, et elle meurt si elle n'est pas soignée.
 
 Avoir 0 en FOR signifie **mort** ; avoir 0 en DEX signifie paralysie ; avoir 0 en VOL signifie folie.
