@@ -1,19 +1,20 @@
 ---
 layout: default
-title: Build An Adventure Site
-parent: Tools
+title: Créez un lieu pour l'aventure
+parent: Outils
 redirect_from: /resources/tools/build-an-adventure-site/
+nav_exclude: true
 ---
 
-# Build An Adventure Site
+# Créez un lieu pour l'aventure
 
-## Choose A Theme
-- Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
-- Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
-- Come up with an adventure premise (for example, an amazing location with a treasure to hunt).
-- Decide on a ruling faction, with traits & motive.
-- Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
-- Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
+## Choisissez un thème
+- Choisissez un thème pour la zone. Une mythologie spécifique qui vous inspire, un sujet historique, etc.
+- Nom (doit refléter le thème). Il y a de très bons noms [ici](https://www.fantasynamegenerators.com/forest_names.php).
+- Trouvez une prémisse d'aventure (par exemple, un lieu insolite avec un trésor à chercher).
+- Décidez d'une faction dominante, avec ses caractéristiques et ses motivations.
+- Ajoutez une sorte de contrepoids (une autre faction, un ennemi malfaisant, etc.).
+- Gardez ces concepts à l'esprit à tout moment : Dangers, Enjeux, Motifs, Urgence. Plus vous pouvez en intégrer, mieux c'est.
 
 ## Spark Tables
 [Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns. For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). With some light editing, it can result in phrases like:  
