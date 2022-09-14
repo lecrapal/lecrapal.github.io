@@ -44,11 +44,11 @@ Vous pouvez ensuite copier et coller ces mots dans une feuille de calcul.
 Vous pouvez également consulter [TerriblyBeautiful (en)](https://www.patreon.com/terriblybeautiful) de [Colin Kloeker (en)](https://twitter.com/colinkloecker?lang=en).
 En gros, vous rejoignez le serveur Discord (voir le lien Patreon - c'est gratuit) et vous lancez des commandes dans le canal "bibliomancers-workshop" (voir message épinglé).
 
-When you've finished:  
-- Clean up the words. Sort by d20 in two columns.
-- You'll want to generate at least 10 interesting phrases for inspiration.
-- You can of course simply write down 40 words that sound good together.
-- Images can also serve as sparks.
+Quand vous avez terminé :
+- Faîtes du ménage dans les mots. Triez-les par d20 en deux colonnes.
+- Vous voudrez générer au moins 10 phrases intéressantes pour vous inspirer.
+- Vous pouvez bien sûr simplement noter 40 mots qui sonnent bien ensemble.
+- Les images peuvent également servir d'étincelles.
 
 ## Dessinez une carte
 - Si vous savez dessiner, c'est parfait ! Sinon, trouvez un outil de création de cartes qui vous convient. Par exemple, [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/), etc.
