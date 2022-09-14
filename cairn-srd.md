@@ -113,7 +113,7 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 - Travaillez ensemble à l'aide de ce moyen de conversation pour faire avancer le jeu.
 - Veillez à ce que les actions des personnages joueurs laissent leur empreinte dans l'univers du jeu.
 
-### Dés du destin  
+### Dé de destin  
 
 - De temps en temps, vous voudrez ajouter un élément de hasard (par exemple, la météo, les connaissances uniques du personnage, etc.)
 - Dans ce cas, lancez 1d6. Un résultat de 4 ou plus favorise généralement les joueurs.
@@ -663,7 +663,7 @@ Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à trave
 
 ### Armure
 
-Avant de calculer les dégâts sur les PC, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dommages. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
+Avant de calculer les dégâts sur les PC, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dégâts. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
 Personne ne peut avoir plus de 3 points d'Armure.  
 Les boucliers, gantelets et casques peuvent apporter des avantages supplémentaires en fonction de leur utilisation.
 
