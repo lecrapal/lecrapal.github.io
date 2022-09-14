@@ -3,7 +3,6 @@ layout: default
 title: Créez un lieu pour l'aventure
 parent: Outils
 redirect_from: /resources/outils/creer-un-lieu-aventure/
-nav_exclude: true
 ---
 
 # Créez un lieu pour l'aventure
@@ -17,23 +16,25 @@ nav_exclude: true
 - Gardez ces concepts à l'esprit à tout moment : Dangers, Enjeux, Motifs, Urgence. Plus vous pouvez en intégrer, mieux c'est.
 
 ## Spark Tables
-[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns. For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). With some light editing, it can result in phrases like:  
-- Digesting Claws
-- White Eyes
-- Distorted Tongues
-- Predatory Awakening
-- Grimalkin Fungi
-- Nourishing Deep
-- Paranoia Underbrush
-- Mouth-less Cemetery
-- Withering Hue
-- Subterranean Ripple
-- Transmutation Sparrows
-- Moonlight Trees
-- Mildew Gloom
-- Smoldering Shade
+Les [tables composites (en)](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) sont des outils très pratiques pour créer rapidement un cadre. Ils sont généralement constitués de 40 mots répartis en deux colonnes
+Par exemple, voir [ici (en)](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). 
+Avec une légère modification, on peut obtenir des phrases comme :  
+- Griffes digestives
+- Yeux blancs
+- Langues déformées
+- Éveil prédateur
+- Champignons sinistres
+- Profondeur nourricière
+- Sous-bois paranoïa
+- Cimetière sans bouche
+- Teinte de flétrissement
+- Ondulation souterraine
+- Moineaux de Transmutation
+- Arbres au clair de lune
+- Moisissure obscure
+- Ombre brûlante
 
-### Create Spark Tables
+### Créer des tables composites
 To create a Spark Table, you'll want to find a find a book or website close to your adventure's overall theme (e.g. a PDF with related content). You can pull words from it by simply picking a random page and writing down whatever meets your eye, or you can import it into a web-based tool. You can also import [public domain books](https://archive.org/details/texts) on relevant subjects. [WordCounter.net](https://wordcounter.net/website-word-count) can create lists of non-common keywords from a website. You can then copy and paste those words into a spreadsheet.
 
 Alternatively, take a look at [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) by [Colin Kloeker](https://twitter.com/colinkloecker?lang=en). Basically, you join the Discord server (see Patreon link - it's free) and then run commands in the "bibliomancers-workshop" channel (see pinned).
