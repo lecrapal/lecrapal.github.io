@@ -232,17 +232,17 @@ gen_data['armor'] = {
 }
 
 gen_data['helmet'] = {
-  '1-13': 'Aucun',
+  '1-13': '',
   '14-16': ', un casque (+1 Armure)',
   '17-19': ', un bouclier (+1 Armure)',
   '20': ', un casque (+1 Armure) et un bouclier (+1 Armure)'
 }
 
 gen_data['weapons'] = {
-'1-10':'{wgroup1}',
-'11-14':'{wgroup2}',
-'15-19':'{wgroup3}',
-'20':'{wgroup4}'
+'1-10':'{wgroup1} (d6)',
+'11-14':'{wgroup2} (d8)',
+'15-19':'{wgroup3} (d8)',
+'20':'{wgroup4} (d10)'
 }
 
 gen_data['wgroup1'] = ['Dague', 'Gourdin', 'Bâton']
