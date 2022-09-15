@@ -272,7 +272,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Tache de naissance | 6    | Lisse |
+| 1    | Tachée | 6    | Lisse |
 | 2    | Foncée | 7    | Douce  |
 | 3    | Sèche | 8    | Tannée |
 | 4    | Grêlée (boutons) | 9    | Tatouée |
