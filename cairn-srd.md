@@ -480,36 +480,36 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Équipement et outils
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Vessie à air                                  |5               |Grand piège         |20        |
-|Soufflet                                      |10              |Grande éponge       |5         |
-|Rouleau de lit                                      |5               |Loupe               |10        |
-|Livre                                         |50              |Matériel de crochetage          |25        |
-|Seau                                       |5               |Menottes           |10        |
-|Chaussetrapes                                     |10              |Lime à métaux         |5         |
-|Charrette (+4 emplacements, encombrante)                       |30              |Miroir             |5         |
-|Chaîne (3 mètres)                                 |10              |Mule (+6 emplacements, lente)|30      |
-|Craie                                        |1               |Filet                |10        |
-|Burin                                       |5               |Sac fourre-tout        |5         |
-|Marmites                                    |10              |Pioche               |10        |
-|Pied-de-biche                                      |10              |Poulie             |10        |
-|Perceuse (manuelle)                               |10              |Pole (10ft)        |5         |
-|Maquillage                                   |10              |Plume et encre        |10        |
-|Huile                                     |10              |Rations (pour 3 jours)|10        |
-|Canne à pêche                                  |10              |Corde (10 mètres)        |5         |
-|Billes de verre                                |5               |Scie                |5         |
-|Colle                                         |5               |Sac               |5         |
-|Graisse                                       |10              |Pelle             |5         |
-|Grappin                               |25              |Savon               |1         |
-|Marteau                                       |5               |Crampon              |1         |
-|Eau bénite                                   |25              |Bottes à crampons       |5         |
-|Corne                                         |10              |Longue-Vue           |40        |
-|Cheval (+4 emplacements)                             |75              |Goudron                |10        |
-|Sablier                                    |50              |Tente (pour 2 personnes, encombrante)|20        |
-|Encens                                      |10              |Torche              |1         |
-|Échelle (encombrante, 3 mètres)                         |10              |Chariot (+8 emplacements, lent)|200    |
-|Lanterne et huile                                |10              |Aconit tue-loup          |10        |
+|                                          |     |                                       |    |
+| ---------------------------------------- | --- | ------------------------------------- | -- |
+| Aconit tue-loup                          | 10  | Longue-Vue                            | 40 |
+| Billes de verre                          | 5   | Loupe                                 | 10 |
+| Bottes à crampons                        | 5   | Maquillage                            | 10 |
+| Burin                                    | 5   | Marmites                              | 10 |
+| Canne à pêche                            | 10  | Marteau                               | 5  |
+| Chaîne (3 mètres)                        | 10  | Matériel de crochetage                | 25 |
+| Chariot (+8 emplacements, lent)          | 200 | Menottes                              | 10 |
+| Charrette (+4 emplacements, encombrante) | 30  | Miroir                                | 5  |
+| Chaussetrapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
+| Cheval (+4 emplacements)                 | 75  | Pelle                                 | 5  |
+| Colle                                    | 5   | Perceuse (manuelle)                   | 10 |
+| Corde (10 mètres)                        | 5   | Pied-de-biche                         | 10 |
+| Corne                                    | 10  | Pioche                                | 10 |
+| Craie                                    | 1   | Plume et encre                        | 10 |
+| Crampon                                  | 1   | Pole (10ft)                           | 5  |
+| Eau bénite                               | 25  | Poulie                                | 10 |
+| Échelle (encombrante, 3 mètres)          | 10  | Rations (pour 3 jours)                | 10 |
+| Encens                                   | 10  | Rouleau de lit                        | 5  |
+| Filet                                    | 10  | Sablier                               | 50 |
+| Goudron                                  | 10  | Sac                                   | 5  |
+| Graisse                                  | 10  | Sac fourre-tout                       | 5  |
+| Grand piège                              | 20  | Savon                                 | 1  |
+| Grande éponge                            | 5   | Scie                                  | 5  |
+| Grappin                                  | 25  | Seau                                  | 5  |
+| Huile                                    | 10  | Soufflet                              | 10 |
+| Lanterne et huile                        | 10  | Tente (pour 2 personnes, encombrante) | 20 |
+| Lime à métaux                            | 5   | Torche                                | 1  |
+| Livre                                    | 50  | Vessie à air                          | 5  |
 
 <p></p>
 
