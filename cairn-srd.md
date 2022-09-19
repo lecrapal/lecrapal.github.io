@@ -424,33 +424,33 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### 																						Sorts (d100)
 
-|    |                       |  |    |                                |    |                    |     |                       |
-| -- | --------------------- |  | -- | ------------------------------ | -- | ------------------ | --- | --------------------- |
-| 1  | Adhérer               |  | 26 | Démonter                       | 51 | Invocation d’Idole | 76  | Pousser/Tirer         |
-| 2  | Air liquide           |  | 27 | Déplacer                       | 52 | Invocation de Cube | 77  | Prison astrale        |
-| 3  | Amortisseur magique   |  | 28 | Détecter la magie              | 53 | Lever l’esprit     | 78  | Renifler              |
-| 4  | Ancrage               |  | 29 | Échange de corps               | 54 | Lever les morts    | 79  | Repousser             |
-| 5  | Anthropomorphiser     |  | 30 | Elasticité                     | 55 | Linceul            | 80  | Scruter               |
-| 6  | Assourdir             |  | 31 | Escalade de l’araignée         | 56 | Lire l’esprit      | 81  | Sculpter les éléments |
-| 7  | Attache invisible     |  | 32 | Essaim                         | 57 | Maison             | 82  | Sentir                |
-| 8  | Attirer               |  | 33 | Fleur attirante                | 58 | Marée haute        | 83  | Signal lumineux       |
-| 9  | Babiller              |  | 34 | Forme bestiale                 | 59 | Marque du magicien | 84  | Sommeil               |
-| 10 | Bond                  |  | 35 | Forme de fumée                 | 60 | Mascarade          | 85  | Sorcisaille           |
-| 11 | Bosquet               |  | 36 | Forme suintante                | 61 | Mélanger           | 86  | Souffler              |
-| 12 | Bouclier              |  | 37 | Fosse                          | 62 | Miniaturiser       | 87  | Spectacle             |
-| 13 | Brouillard            |  | 38 | Frénésie                       | 63 | Multibras          | 88  | Sphère nocturne       |
-| 14 | Brouiller             |  | 39 | Gadget                         | 64 | Mur élémentaire    | 89  | Survol                |
-| 15 | Changement de gravité |  | 40 | Garde                          | 65 | Objectifier        | 90  | Télékinésie           |
-| 16 | Charme                |  | 41 | Glissant                       | 66 | Objet animé        | 91  | Télépathie            |
-| 17 | Chiper                |  | 42 | Guérison des blessures         | 67 | Œil arcanique      | 92  | Téléportation         |
-| 18 | Cible leurre          |  | 43 | Haine                          | 68 | Ordre              | 93  | Toc-toc               |
-| 19 | Comprendre            |  | 44 | Hâte                           | 69 | Ouïe fine          | 94  | Toile                 |
-| 20 | Cône de mousse        |  | 45 | Hypnotiser                     | 70 | Pacifier           | 95  | Toucher glacial       |
-| 21 | Contrôle de la météo  |  | 46 | Identification du propriétaire | 71 | Passe-miroir       | 96  | Tremblement de terre  |
-| 22 | Contrôle des végétaux |  | 47 | Illuminer                      | 72 | Passion des billes | 97  | Trier                 |
-| 23 | Contrôle du temps     |  | 48 | Illusion sonore                | 73 | Phobie             | 98  | Vision                |
-| 24 | Cupidité              |  | 49 | Illusion visuelle              | 74 | Portail            | 99  | Vision à rayons X     |
-| 25 | Déguisement           |  | 50 | Image miroir                   | 75 | Poussée primitive  | 100 | Vision réelle         |
+|    |                       |    |                                |    |                    |     |                       |
+| -- | --------------------- | -- | ------------------------------ | -- | ------------------ | --- | --------------------- |
+| 1  | Adhérer               | 26 | Démonter                       | 51 | Invocation d’Idole | 76  | Pousser/Tirer         |
+| 2  | Air liquide           | 27 | Déplacer                       | 52 | Invocation de Cube | 77  | Prison astrale        |
+| 3  | Amortisseur magique   | 28 | Détecter la magie              | 53 | Lever l’esprit     | 78  | Renifler              |
+| 4  | Ancrage               | 29 | Échange de corps               | 54 | Lever les morts    | 79  | Repousser             |
+| 5  | Anthropomorphiser     | 30 | Elasticité                     | 55 | Linceul            | 80  | Scruter               |
+| 6  | Assourdir             | 31 | Escalade de l’araignée         | 56 | Lire l’esprit      | 81  | Sculpter les éléments |
+| 7  | Attache invisible     | 32 | Essaim                         | 57 | Maison             | 82  | Sentir                |
+| 8  | Attirer               | 33 | Fleur attirante                | 58 | Marée haute        | 83  | Signal lumineux       |
+| 9  | Babiller              | 34 | Forme bestiale                 | 59 | Marque du magicien | 84  | Sommeil               |
+| 10 | Bond                  | 35 | Forme de fumée                 | 60 | Mascarade          | 85  | Sorcisaille           |
+| 11 | Bosquet               | 36 | Forme suintante                | 61 | Mélanger           | 86  | Souffler              |
+| 12 | Bouclier              | 37 | Fosse                          | 62 | Miniaturiser       | 87  | Spectacle             |
+| 13 | Brouillard            | 38 | Frénésie                       | 63 | Multibras          | 88  | Sphère nocturne       |
+| 14 | Brouiller             | 39 | Gadget                         | 64 | Mur élémentaire    | 89  | Survol                |
+| 15 | Changement de gravité | 40 | Garde                          | 65 | Objectifier        | 90  | Télékinésie           |
+| 16 | Charme                | 41 | Glissant                       | 66 | Objet animé        | 91  | Télépathie            |
+| 17 | Chiper                | 42 | Guérison des blessures         | 67 | Œil arcanique      | 92  | Téléportation         |
+| 18 | Cible leurre          | 43 | Haine                          | 68 | Ordre              | 93  | Toc-toc               |
+| 19 | Comprendre            | 44 | Hâte                           | 69 | Ouïe fine          | 94  | Toile                 |
+| 20 | Cône de mousse        | 45 | Hypnotiser                     | 70 | Pacifier           | 95  | Toucher glacial       |
+| 21 | Contrôle de la météo  | 46 | Identification du propriétaire | 71 | Passe-miroir       | 96  | Tremblement de terre  |
+| 22 | Contrôle des végétaux | 47 | Illuminer                      | 72 | Passion des billes | 97  | Trier                 |
+| 23 | Contrôle du temps     | 48 | Illusion sonore                | 73 | Phobie             | 98  | Vision                |
+| 24 | Cupidité              | 49 | Illusion visuelle              | 74 | Portail            | 99  | Vision à rayons X     |
+| 25 | Déguisement           | 50 | Image miroir                   | 75 | Poussée primitive  | 100 | Vision réelle         |
 
 <p></p>
 
