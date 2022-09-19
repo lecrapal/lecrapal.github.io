@@ -424,33 +424,33 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### 																						Sorts (d100)
 
-|      |                        |      |                                |      |                       |      |                        |
-| ---- | ---------------------- | ---- | ------------------------------ | ---- | --------------------- | ---- | ---------------------- |
-| 1    | Adhérer                | 26   | Tremblement de terre           | 51   | Mascarade             | 76   | Forme de fumée         |
-| 2    | Ancrage                | 27   | Elasticité                     | 52   | Miniaturiser          | 77   | Renifler               |
-| 3    | Objet animé            | 28   | Mur élémentaire                | 53   | Image miroir          | 78   | Souffler               |
-| 4    | Anthropomorphiser      | 29   | Chiper                         | 54   | Passe-miroir          | 79   | Trier                  |
-| 5    | Œil arcanique          | 30   | Signal lumineux                | 55   | Multibras             | 80   | Spectacle              |
-| 6    | Prison astral          | 31   | Brouillard                     | 56   | Sphère nocturne       | 81   | Sorcisaille            |
-| 7    | Attirer                | 32   | Frénésie                       | 57   | Objectifier           | 82   | Escalade de l'araignée |
-| 8    | Illusion sonore        | 33   | Portail                        | 58   | Forme suintante       | 83   | Invocation de Cube     |
-| 9    | Babiller               | 34   | Changement de gravité          | 59   | Pacifier              | 84   | Essaim                 |
-| 10   | Fleur attirante        | 35   | Cupidité                       | 60   | Phobie                | 85   | Télékinésie            |
-| 11   | Forme bestiale         | 36   | Hâte                           | 61   | Fosse                 | 86   | Télépathie             |
-| 12   | Brouiller              | 37   | Haine                          | 62   | Poussée primitive     | 87   | Téléportation          |
-| 13   | Échange de corps       | 38   | Ouïe fine                      | 63   | Pousser/Tirer         | 88   | Cible leurre           |
-| 14   | Charme                 | 39   | Survol                         | 64   | Lever les morts       | 89   | Bosquet                |
-| 15   | Ordre                  | 40   | Hypnotiser                     | 65   | Lever l'esprit        | 90   | Invocation d'Idole     |
-| 16   | Comprendre             | 41   | Toucher glacial                | 66   | Lire l'esprit         | 91   | Contrôle du temps      |
-| 17   | Cône de mousse         | 42   | Identification du propriétaire | 67   | Repousser             | 92   | Vision réelle          |
-| 18   | Contrôle des végétaux  | 43   | Illuminer                      | 68   | Scruter               | 93   | Marée haute            |
-| 19   | Contrôle de la météo   | 44   | Attache invisible              | 69   | Sculpter les éléments | 94   | Vision                 |
-| 20   | Guérison des blessures | 45   | Toc-toc                        | 70   | Sentir                | 95   | Illusion visuelle      |
-| 21   | Assourdir              | 46   | Bond                           | 71   | Bouclier              | 96   | Garde                  |
-| 22   | Détecter la magie      | 47   | Air liquide                    | 72   | Linceul               | 97   | Toile                  |
-| 23   | Démonter               | 48   | Amortisseur magique            | 73   | Mélanger              | 98   | Gadget                 |
-| 24   | Déguisement            | 49   | Maison                         | 74   | Sommeil               | 99   | Marque du magicien     |
-| 25   | Déplacer               | 50   | Passion des billes             | 75   | Glissant              | 100  | Vision à rayons X      |
+|    |                       |  |    |                                |    |                    |     |                       |
+| -- | --------------------- |  | -- | ------------------------------ | -- | ------------------ | --- | --------------------- |
+| 1  | Adhérer               |  | 26 | Démonter                       | 51 | Invocation d’Idole | 76  | Pousser/Tirer         |
+| 2  | Air liquide           |  | 27 | Déplacer                       | 52 | Invocation de Cube | 77  | Prison astrale        |
+| 3  | Amortisseur magique   |  | 28 | Détecter la magie              | 53 | Lever l’esprit     | 78  | Renifler              |
+| 4  | Ancrage               |  | 29 | Échange de corps               | 54 | Lever les morts    | 79  | Repousser             |
+| 5  | Anthropomorphiser     |  | 30 | Elasticité                     | 55 | Linceul            | 80  | Scruter               |
+| 6  | Assourdir             |  | 31 | Escalade de l’araignée         | 56 | Lire l’esprit      | 81  | Sculpter les éléments |
+| 7  | Attache invisible     |  | 32 | Essaim                         | 57 | Maison             | 82  | Sentir                |
+| 8  | Attirer               |  | 33 | Fleur attirante                | 58 | Marée haute        | 83  | Signal lumineux       |
+| 9  | Babiller              |  | 34 | Forme bestiale                 | 59 | Marque du magicien | 84  | Sommeil               |
+| 10 | Bond                  |  | 35 | Forme de fumée                 | 60 | Mascarade          | 85  | Sorcisaille           |
+| 11 | Bosquet               |  | 36 | Forme suintante                | 61 | Mélanger           | 86  | Souffler              |
+| 12 | Bouclier              |  | 37 | Fosse                          | 62 | Miniaturiser       | 87  | Spectacle             |
+| 13 | Brouillard            |  | 38 | Frénésie                       | 63 | Multibras          | 88  | Sphère nocturne       |
+| 14 | Brouiller             |  | 39 | Gadget                         | 64 | Mur élémentaire    | 89  | Survol                |
+| 15 | Changement de gravité |  | 40 | Garde                          | 65 | Objectifier        | 90  | Télékinésie           |
+| 16 | Charme                |  | 41 | Glissant                       | 66 | Objet animé        | 91  | Télépathie            |
+| 17 | Chiper                |  | 42 | Guérison des blessures         | 67 | Œil arcanique      | 92  | Téléportation         |
+| 18 | Cible leurre          |  | 43 | Haine                          | 68 | Ordre              | 93  | Toc-toc               |
+| 19 | Comprendre            |  | 44 | Hâte                           | 69 | Ouïe fine          | 94  | Toile                 |
+| 20 | Cône de mousse        |  | 45 | Hypnotiser                     | 70 | Pacifier           | 95  | Toucher glacial       |
+| 21 | Contrôle de la météo  |  | 46 | Identification du propriétaire | 71 | Passe-miroir       | 96  | Tremblement de terre  |
+| 22 | Contrôle des végétaux |  | 47 | Illuminer                      | 72 | Passion des billes | 97  | Trier                 |
+| 23 | Contrôle du temps     |  | 48 | Illusion sonore                | 73 | Phobie             | 98  | Vision                |
+| 24 | Cupidité              |  | 49 | Illusion visuelle              | 74 | Portail            | 99  | Vision à rayons X     |
+| 25 | Déguisement           |  | 50 | Image miroir                   | 75 | Poussée primitive  | 100 | Vision réelle         |
 
 <p></p>
 
@@ -909,108 +909,108 @@ Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent
 
 ## 100 Sorts
 
-|      |                                         |                                                              |
-| ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | Adhérer                                 | L'objet est couvert d'une substance visqueuse extrêmement collante. |
-| 2    | Ancrage                                 | Un fil solide jaillit de vos bras, se fixant à deux points dans un rayon de 15 mètres de chaque côté. |
-| 3    | Objet animé                             | Un objet obéit à vos ordres du mieux qu'il peut.             |
-| 4    | Anthropomorphiser                       | Un animal gagne soit une intelligence humaine, soit une apparence humaine pendant un jour. |
-| 5    | Œil arcanique                           | Vous pouvez voir à travers un globe oculaire magique flottant qui vole autour de vous à votre commande. |
-| 6    | Prison astrale         | Un objet est figé dans le temps et l'espace à l'intérieur d'une coquille de cristal invulnérable. |
-| 7    | Attirer                     | Deux objets sont fortement attirés magnétiquement l'un vers l'autre s'ils se trouvent à moins de 3 mètres. |
-| 8    | Illusion sonore | Vous créez des sons fictifs qui semblent provenir d'une direction de votre choix. |
-| 9    | Babiller                       | Une créature doit répéter haut et fort tout ce que vous pensez. Autrement, elle est muette. |
-| 10   | Fleur attirante             | Une plante jaillit du sol et dégage une odeur de chair en décomposition. |
-| 11   | Forme bestiale               | Vous et vos biens vous transformez en un animal banal.    |
-| 12   | Brouiller                   | Une créature de votre choix est incapable de former de nouveaux souvenirs à court terme pendant la durée du sort. |
-| 13   | Échange de corps                 | Vous changez de corps avec une créature que vous touchez. Si un corps meurt, l'autre meurt aussi. |
-| 14   | Charme                         | Une créature que vous pouvez voir vous traite comme un ami.               |
-| 15   | Ordre                     | Une cible obéit à un ordre unique de trois mots qui ne lui fait aucun mal. |
-| 16   | Comprendre               | Vous maîtrisez toutes les langues pendant un court moment.        |
-| 17   | Cône de mousse           | Une mousse dense jaillit de votre main et recouvre la cible.        |
-| 18   | Contrôle des végétaux       | Les plantes et les arbres à proximité vous obéissent et acquièrent la capacité de se déplacer à un rythme lent. |
-| 19   | Contrôle de la météo     | Vous pouvez modifier le type de temps à volonté, mais vous ne le contrôlez pas autrement. |
-| 20   | Guérison des blessures             | Restaure 1d4 FOR par jour à une créature que vous pouvez toucher.         |
-| 21   | Assourdir                       | Toutes les créatures proches sont assourdies.                           |
-| 22   | Détecter la magie           | Vous pouvez voir ou entendre les auras magiques proches.                    |
-| 23   | Démonter             | Toutes les parties de votre corps peuvent être détachées et rattachées à volonté, sans causer de douleur ou de dégât. Vous pouvez toujours les contrôler. |
-| 24   | Déguisement                   | Vous pouvez modifier l'apparence d'un personnage à volonté tant qu'il reste humanoïde. Les tentatives de duplication d'autres personnages sembleront étranges. |
-| 25   | Déplacer                   | Un objet semble se trouver jusqu'à 5 mètres de sa position réelle. |
-| 26   | Tremblement de terre               | Le sol se met à trembler violemment. Les structures peuvent être endommagées ou s'effondrer. |
-| 27   | Elasticité               | Votre corps peut s'étirer jusqu'à 3 mètres.                            |
-| 28   | Mur élémentaire       | Un mur droit de glace ou de feu de 15 mètres de long et de 3 mètres de haut s'élève du sol. |
-| 29   | Chiper                         | Un objet visible se téléporte dans vos mains.                      |
-| 30   | Signal lumineux                         | Une boule d'énergie lumineuse projette une traînée de lumière dans le ciel, révélant votre position à vos amis ou à vos ennemis. |
-| 31   | Brouillard                 | Un brouillard dense s'étend à partir de vous.                            |
-| 32   | Frénésie                       | Une créature voisine se déchaîne dans une frénésie de violence.            |
-| 33   | Portail                           | Un portail vers un plan aléatoire s'ouvre.                            |
-| 34   | Changement de gravité         | Vous pouvez changer la direction de la gravité (pour vous-même uniquement) jusqu'à une fois par round. |
-| 35   | Cupidité                         | Une créature développe une envie irrésistible de posséder un objet visible de votre choix. |
-| 36   | Hâte                         | Votre vitesse de déplacement est triplée.                              |
-| 37   | Haine                       | Une créature développe une haine profonde envers une autre créature ou un groupe et souhaite les détruire. |
-| 38   | Ouïe fine         | Vous pouvez entendre clairement les sons faibles.                           |
-| 39   | Survol                         | Un objet plane, sans friction, à un mètre du sol. Il peut contenir jusqu'à un humanoïde. |
-| 40   | Hypnotiser                 | Une créature entre en transe et répondra sincèrement à une question par oui ou par non que vous lui posez. |
-| 41   | Toucher glacial                 | Une épaisse couche de glace s'étend sur une surface touchée, jusqu'à 3 mètres de rayon. |
-| 42   | Identification du propriétaire       | Des lettres apparaissent sur l'objet que vous touchez, épelant le nom des propriétaires de l'objet, s'il y en a. |
-| 43   | Illuminer               | Une lumière flottante se déplace selon vos ordres.                       |
-| 44   | Attache invisible   | Deux objets situés à moins de 3 mètres l'un de l'autre ne peuvent pas être éloignés de plus de 3 mètres. |
-| 45   | Toc-toc                         | Une serrure ordinaire ou magique à proximité se déverrouille - bruyamment.             |
-| 46   | Bond                           | Vous sautez jusqu'à 3 mètres de haut, une fois.                              |
-| 47   | Air liquide               | L'air autour de vous devient nageable.                       |
-| 48   | Amortisseur magique       | Tous les effets magiques proches voient leur efficacité réduite de moitié.  |
-| 49   | Maison                         | Un chalet solide et meublé apparaît pendant 12 heures. Vous pouvez en autoriser ou en interdire l'accès à volonté. |
-| 50   | Passion des billes           | Vos poches sont pleines de billes, et se remplissent toutes les 30 secondes. |
-| 51   | Mascarade               | L'apparence et la voix d'un personnage deviennent identiques à celles d'un personnage que vous touchez. |
-| 52   | Miniaturiser             | Une créature que vous touchez est réduite à la taille d'une souris.  |
-| 53   | Image miroir           | Un double illusoire de vous-même apparaît et est sous votre contrôle. |
-| 54   | Passe-miroir               | Un miroir devient une passerelle vers un autre miroir dans lequel vous vous êtes regardé aujourd'hui. |
-| 55   | Multibras                   | Vous gagnez un bras supplémentaire.                           |
-| 56   | Sphère nocturne           | Une sphère d'obscurité de 15 mètres de large représentant le ciel nocturne apparaît devant vous. |
-| 57   | Objectifier                 | Vous devenez un objet inanimé de la taille d'un piano à queue à une pomme. |
-| 58   | Forme suintante                 | Vous devenez une gelée vivante.                                   |
-| 59   | Pacifier                       | Une créature près de vous a une aversion pour la violence.             |
-| 60   | Phobie                       | Une créature proche devient terrifiée par un objet de votre choix. |
-| 61   | Fosse                             | Une fosse de 3 mètres de large et 3 mètres de profondeur s'ouvre dans le sol.           |
-| 62   | Poussée primitive           | Une créature évolue rapidement en une version future de son espèce. |
-| 63   | Pousser/Tirer                 | Un objet de n'importe quelle taille est tiré directement vers vous ou repoussé directement loin de vous avec la force d'un seul homme. |
-| 64   | Lever les morts               | Un squelette sort du sol pour vous servir. Ils sont incroyablement stupides et ne peuvent obéir qu'à des ordres simples. |
-| 65   | Lever l'esprit           | L'esprit d'un cadavre se manifeste et répond à une question. |
-| 66   | Lire l'esprit                 | Vous pouvez entendre les pensées de surface des créatures proches.       |
-| 67   | Repousser                         | Deux objets sont fortement repoussés magnétiquement l'un de l'autre s'ils se trouvent à moins de 3 mètres. |
-| 68   | Scruter                           | Vous pouvez voir à travers les yeux d'une créature que vous avez touchée plus tôt dans la journée. |
-| 69   | Sculpter les éléments     | Toute matière inanimée se comporte comme de l'argile entre vos mains.          |
-| 70   | Sentir                         | Choisissez un type d'objet (clé, or, flèche, cruche, etc.). Vous pouvez sentir l'exemplaire le plus proche. |
-| 71   | Bouclier                       | Une créature que vous touchez est protégée des attaques ordinaires pendant une minute. |
-| 72   | Linceul                       | Une créature que vous touchez est invisible jusqu'à ce qu'elle bouge.           |
-| 73   | Mélanger                     | Deux créatures que vous pouvez voir échangent instantanément leurs places.           |
-| 74   | Sommeil                         | Une créature que vous pouvez voir tombe dans un sommeil léger.             |
-| 75   | Glissant                         | Chaque surface dans un rayon de 10 mètres devient sans friction et glissante.   |
-| 76   | Forme de fumée               | Votre corps devient une fumée vivante.       |
-| 77   | Renifler                         | Vous pouvez sentir même les traces les plus infimes de parfums.            |
-| 78   | Souffler                         | La source de toute lumière ordinaire que vous pouvez voir est instantanément éteinte. |
-| 79   | Trier                           | Les objets inanimés se trient eux-mêmes en fonction des catégories que vous avez définies. |
-| 80   | Spectacle                 | Une illusion clairement irréelle mais impressionnante de votre choix apparaît, sous votre contrôle. Elle peut avoir la taille d'un palais et est dotée de mouvements et de sons. |
-| 81   | Sorcisaille                   | Une lame tourbillonnante s'envole de votre poitrine, éliminant toute matière végétale sur son passage. Elle est autrement inoffensive. |
-| 82   | Escalade de l'araignée           | Vous pouvez grimper sur des surfaces comme une araignée.                        |
-| 83   | Invocation de Cube             | Une fois par seconde, vous pouvez invoquer ou bannir un cube de terre de 30 cm de large. Les nouveaux cubes doivent être fixés à la terre ou à d'autres cubes. |
-| 84   | Essaim                         | Vous devenez un essaim de corbeaux, de rats ou de piranhas. Vous ne pouvez être blessé que par des attaques explosives. |
-| 85   | Télékinésie             | Vous pouvez déplacer mentalement 1 objet de moins de 30 kg.                    |
-| 86   | Télépathie                 | Deux créatures peuvent entendre les pensées de l'autre, quelle que soit la distance qui les sépare. |
-| 87   | Téléportation                   | Un objet ou une personne que vous pouvez voir est transporté d'un endroit à un autre dans un rayon de 15 mètres. |
-| 88   | Cible leurre             | Un objet que vous touchez devient la cible de tout sort à proximité.  |
-| 89   | Bosquet                     | Un bosquet d'arbres et de broussailles d'une largeur de 15 mètres surgit soudainement. |
-| 90   | Invocation d'Idole             | Une statue en pierre sculptée de la taille d'une mule sort du sol. |
-| 91   | Contrôle du temps           | Le temps dans une bulle de 15 mètres ralentit ou augmente de 10 % pendant 30 secondes. |
-| 92   | Vision réelle               | Vous voyez clairement les illusions environnantes.                        |
-| 93   | Marée haute                       | Une source d'eau de mer apparaît.                                |
-| 94   | Vision                       | ous contrôlez complètement ce qu'une créature voit.                 |
-| 95   | Illusion visuelle     | Une illusion silencieuse, immobile et de la taille d'une salle de votre choix apparaît. |
-| 96   | Garde                           | Un cercle argenté de 15 mètres de diamètre apparaît sur le sol. Choisissez une espèce qui ne peut pas le traverser. |
-| 97   | Toile                             | Vos poignets tirent des toiles épaisses.                             |
-| 98   | Gadget                       | Une version primitive d'un outil ou d'un objet dessiné apparaît devant vous, et disparaît après quelques instants. |
-| 99   | Marque du magicien             | Votre doigt peut projeter un jet de peinture d'une couleur unique. Cette peinture n'est visible que par vous, et peut être vue à n'importe quelle distance, même à travers des objets solides. |
-| 100  | Vision à rayons X           | Vous pouvez voir à travers les murs, la terre, les vêtements, etc.              |
+|     |                                |                                                                                                                                                                                                |
+| --- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Adhérer                        | L’objet est couvert d’une substance visqueuse extrêmement collante.                                                                                                                            |
+| 2   | Air liquide                    | L’air autour de vous devient nageable.                                                                                                                                                         |
+| 3   | Amortisseur magique            | Tous les effets magiques proches voient leur efficacité réduite de moitié.                                                                                                                     |
+| 4   | Ancrage                        | Un fil solide jaillit de vos bras, se fixant à deux points dans un rayon de 15 mètres de chaque côté.                                                                                          |
+| 5   | Anthropomorphiser              | Un animal gagne soit une intelligence humaine, soit une apparence humaine pendant un jour.                                                                                                     |
+| 6   | Assourdir                      | Toutes les créatures proches sont assourdies.                                                                                                                                                  |
+| 7   | Attache invisible              | Deux objets situés à moins de 3 mètres l’un de l’autre ne peuvent pas être éloignés de plus de 3 mètres.                                                                                       |
+| 8   | Attirer                        | Deux objets sont fortement attirés magnétiquement l’un vers l’autre s’ils se trouvent à moins de 3 mètres.                                                                                     |
+| 9   | Babiller                       | Une créature doit répéter haut et fort tout ce que vous pensez. Autrement, elle est muette.                                                                                                    |
+| 10  | Bond                           | Vous sautez jusqu’à 3 mètres de haut, une fois.                                                                                                                                                |
+| 11  | Bosquet                        | Un bosquet d’arbres et de broussailles d’une largeur de 15 mètres surgit soudainement.                                                                                                         |
+| 12  | Bouclier                       | Une créature que vous touchez est protégée des attaques ordinaires pendant une minute.                                                                                                         |
+| 13  | Brouillard                     | Un brouillard dense s’étend à partir de vous.                                                                                                                                                  |
+| 14  | Brouiller                      | Une créature de votre choix est incapable de former de nouveaux souvenirs à court terme pendant la durée du sort.                                                                              |
+| 15  | Changement de gravité          | Vous pouvez changer la direction de la gravité (pour vous-même uniquement) jusqu’à une fois par round.                                                                                         |
+| 16  | Charme                         | Une créature que vous pouvez voir vous traite comme un ami.                                                                                                                                    |
+| 17  | Chiper                         | Un objet visible se téléporte dans vos mains.                                                                                                                                                  |
+| 18  | Cible leurre                   | Un objet que vous touchez devient la cible de tout sort à proximité.                                                                                                                           |
+| 19  | Comprendre                     | Vous maîtrisez toutes les langues pendant un court moment.                                                                                                                                     |
+| 20  | Cône de mousse                 | Une mousse dense jaillit de votre main et recouvre la cible.                                                                                                                                   |
+| 21  | Contrôle de la météo           | Vous pouvez modifier le type de temps à volonté, mais vous ne le contrôlez pas autrement.                                                                                                      |
+| 22  | Contrôle des végétaux          | Les plantes et les arbres à proximité vous obéissent et acquièrent la capacité de se déplacer à un rythme lent.                                                                                |
+| 23  | Contrôle du temps              | Le temps dans une bulle de 15 mètres ralentit ou augmente de 10 % pendant 30 secondes.                                                                                                         |
+| 24  | Cupidité                       | Une créature développe une envie irrésistible de posséder un objet visible de votre choix.                                                                                                     |
+| 25  | Déguisement                    | Vous pouvez modifier l’apparence d’un personnage à volonté tant qu’il reste humanoïde. Les tentatives de duplication d’autres personnages sembleront étranges.                                 |
+| 26  | Démonter                       | Toutes les parties de votre corps peuvent être détachées et rattachées à volonté, sans causer de douleur ou de dégât. Vous pouvez toujours les contrôler.                                      |
+| 27  | Déplacer                       | Un objet semble se trouver jusqu’à 5 mètres de sa position réelle.                                                                                                                             |
+| 28  | Détecter la magie              | Vous pouvez voir ou entendre les auras magiques proches.                                                                                                                                       |
+| 29  | Échange de corps               | Vous changez de corps avec une créature que vous touchez. Si un corps meurt, l’autre meurt aussi.                                                                                              |
+| 30  | Elasticité                     | Votre corps peut s’étirer jusqu’à 3 mètres.                                                                                                                                                    |
+| 31  | Escalade de l’araignée         | Vous pouvez grimper sur des surfaces comme une araignée.                                                                                                                                       |
+| 32  | Essaim                         | Vous devenez un essaim de corbeaux, de rats ou de piranhas. Vous ne pouvez être blessé que par des attaques explosives.                                                                        |
+| 33  | Fleur attirante                | Une plante jaillit du sol et dégage une odeur de chair en décomposition.                                                                                                                       |
+| 34  | Forme bestiale                 | Vous et vos biens vous transformez en un animal banal.                                                                                                                                         |
+| 35  | Forme de fumée                 | Votre corps devient une fumée vivante.                                                                                                                                                         |
+| 36  | Forme suintante                | Vous devenez une gelée vivante.                                                                                                                                                                |
+| 37  | Fosse                          | Une fosse de 3 mètres de large et 3 mètres de profondeur s’ouvre dans le sol.                                                                                                                  |
+| 38  | Frénésie                       | Une créature voisine se déchaîne dans une frénésie de violence.                                                                                                                                |
+| 39  | Gadget                         | Une version primitive d’un outil ou d’un objet dessiné apparaît devant vous, et disparaît après quelques instants.                                                                             |
+| 40  | Garde                          | Un cercle argenté de 15 mètres de diamètre apparaît sur le sol. Choisissez une espèce qui ne peut pas le traverser.                                                                            |
+| 41  | Glissant                       | Chaque surface dans un rayon de 10 mètres devient sans friction et glissante.                                                                                                                  |
+| 42  | Guérison des blessures         | Restaure 1d4 FOR par jour à une créature que vous pouvez toucher.                                                                                                                              |
+| 43  | Haine                          | Une créature développe une haine profonde envers une autre créature ou un groupe et souhaite les détruire.                                                                                     |
+| 44  | Hâte                           | Votre vitesse de déplacement est triplée.                                                                                                                                                      |
+| 45  | Hypnotiser                     | Une créature entre en transe et répondra sincèrement à une question par oui ou par non que vous lui posez.                                                                                     |
+| 46  | Identification du propriétaire | Des lettres apparaissent sur l’objet que vous touchez, épelant le nom des propriétaires de l’objet, s’il y en a.                                                                               |
+| 47  | Illuminer                      | Une lumière flottante se déplace selon vos ordres.                                                                                                                                             |
+| 48  | Illusion sonore                | Vous créez des sons fictifs qui semblent provenir d’une direction de votre choix.                                                                                                              |
+| 49  | Illusion visuelle              | Une illusion silencieuse, immobile et de la taille d’une salle de votre choix apparaît.                                                                                                        |
+| 50  | Image miroir                   | Un double illusoire de vous-même apparaît et est sous votre contrôle.                                                                                                                          |
+| 51  | Invocation d’Idole             | Une statue en pierre sculptée de la taille d’une mule sort du sol.                                                                                                                             |
+| 52  | Invocation de Cube             | Une fois par seconde, vous pouvez invoquer ou bannir un cube de terre de 30 cm de large. Les nouveaux cubes doivent être fixés à la terre ou à d’autres cubes.                                 |
+| 53  | Lever l’esprit                 | L’esprit d’un cadavre se manifeste et répond à une question.                                                                                                                                   |
+| 54  | Lever les morts                | Un squelette sort du sol pour vous servir. Ils sont incroyablement stupides et ne peuvent obéir qu’à des ordres simples.                                                                       |
+| 55  | Linceul                        | Une créature que vous touchez est invisible jusqu’à ce qu’elle bouge.                                                                                                                          |
+| 56  | Lire l’esprit                  | Vous pouvez entendre les pensées de surface des créatures proches.                                                                                                                             |
+| 57  | Maison                         | Un chalet solide et meublé apparaît pendant 12 heures. Vous pouvez en autoriser ou en interdire l’accès à volonté.                                                                             |
+| 58  | Marée haute                    | Une source d’eau de mer apparaît.                                                                                                                                                              |
+| 59  | Marque du magicien             | Votre doigt peut projeter un jet de peinture d’une couleur unique. Cette peinture n’est visible que par vous, et peut être vue à n’importe quelle distance, même à travers des objets solides. |
+| 60  | Mascarade                      | L’apparence et la voix d’un personnage deviennent identiques à celles d’un personnage que vous touchez.                                                                                        |
+| 61  | Mélanger                       | Deux créatures que vous pouvez voir échangent instantanément leurs places.                                                                                                                     |
+| 62  | Miniaturiser                   | Une créature que vous touchez est réduite à la taille d’une souris.                                                                                                                            |
+| 63  | Multibras                      | Vous gagnez un bras supplémentaire.                                                                                                                                                            |
+| 64  | Mur élémentaire                | Un mur droit de glace ou de feu de 15 mètres de long et de 3 mètres de haut s’élève du sol.                                                                                                    |
+| 65  | Objectifier                    | Vous devenez un objet inanimé de la taille d’un piano à queue à une pomme.                                                                                                                     |
+| 66  | Objet animé                    | Un objet obéit à vos ordres du mieux qu’il peut.                                                                                                                                               |
+| 67  | Œil arcanique                  | Vous pouvez voir à travers un globe oculaire magique flottant qui vole autour de vous à votre commande.                                                                                        |
+| 68  | Ordre                          | Une cible obéit à un ordre unique de trois mots qui ne lui fait aucun mal.                                                                                                                     |
+| 69  | Ouïe fine                      | Vous pouvez entendre clairement les sons faibles.                                                                                                                                              |
+| 70  | Pacifier                       | Une créature près de vous a une aversion pour la violence.                                                                                                                                     |
+| 71  | Passe-miroir                   | Un miroir devient une passerelle vers un autre miroir dans lequel vous vous êtes regardé aujourd’hui.                                                                                          |
+| 72  | Passion des billes             | Vos poches sont pleines de billes, et se remplissent toutes les 30 secondes.                                                                                                                   |
+| 73  | Phobie                         | Une créature proche devient terrifiée par un objet de votre choix.                                                                                                                             |
+| 74  | Portail                        | Un portail vers un plan aléatoire s’ouvre.                                                                                                                                                     |
+| 75  | Poussée primitive              | Une créature évolue rapidement en une version future de son espèce.                                                                                                                            |
+| 76  | Pousser/Tirer                  | Un objet de n’importe quelle taille est tiré directement vers vous ou repoussé directement loin de vous avec la force d’un seul homme.                                                         |
+| 77  | Prison astrale                 | Un objet est figé dans le temps et l’espace à l’intérieur d’une coquille de cristal invulnérable.                                                                                              |
+| 78  | Renifler                       | Vous pouvez sentir même les traces les plus infimes de parfums.                                                                                                                                |
+| 79  | Repousser                      | Deux objets sont fortement repoussés magnétiquement l’un de l’autre s’ils se trouvent à moins de 3 mètres.                                                                                     |
+| 80  | Scruter                        | Vous pouvez voir à travers les yeux d’une créature que vous avez touchée plus tôt dans la journée.                                                                                             |
+| 81  | Sculpter les éléments          | Toute matière inanimée se comporte comme de l’argile entre vos mains.                                                                                                                          |
+| 82  | Sentir                         | Choisissez un type d’objet (clé, or, flèche, cruche, etc.). Vous pouvez sentir l’exemplaire le plus proche.                                                                                    |
+| 83  | Signal lumineux                | Une boule d’énergie lumineuse projette une traînée de lumière dans le ciel, révélant votre position à vos amis ou à vos ennemis.                                                               |
+| 84  | Sommeil                        | Une créature que vous pouvez voir tombe dans un sommeil léger.                                                                                                                                 |
+| 85  | Sorcisaille                    | Une lame tourbillonnante s’envole de votre poitrine, éliminant toute matière végétale sur son passage. Elle est autrement inoffensive.                                                         |
+| 86  | Souffler                       | La source de toute lumière ordinaire que vous pouvez voir est instantanément éteinte.                                                                                                          |
+| 87  | Spectacle                      | Une illusion clairement irréelle mais impressionnante de votre choix apparaît, sous votre contrôle. Elle peut avoir la taille d’un palais et est dotée de mouvements et de sons.               |
+| 88  | Sphère nocturne                | Une sphère d’obscurité de 15 mètres de large représentant le ciel nocturne apparaît devant vous.                                                                                               |
+| 89  | Survol                         | Un objet plane, sans friction, à un mètre du sol. Il peut contenir jusqu’à un humanoïde.                                                                                                       |
+| 90  | Télékinésie                    | Vous pouvez déplacer mentalement 1 objet de moins de 30 kg.                                                                                                                                    |
+| 91  | Télépathie                     | Deux créatures peuvent entendre les pensées de l’autre, quelle que soit la distance qui les sépare.                                                                                            |
+| 92  | Téléportation                  | Un objet ou une personne que vous pouvez voir est transporté d’un endroit à un autre dans un rayon de 15 mètres.                                                                               |
+| 93  | Toc-toc                        | Une serrure ordinaire ou magique à proximité se déverrouille - bruyamment.                                                                                                                     |
+| 94  | Toile                          | Vos poignets tirent des toiles épaisses.                                                                                                                                                       |
+| 95  | Toucher glacial                | Une épaisse couche de glace s’étend sur une surface touchée, jusqu’à 3 mètres de rayon.                                                                                                        |
+| 96  | Tremblement de terre           | Le sol se met à trembler violemment. Les structures peuvent être endommagées ou s’effondrer.                                                                                                   |
+| 97  | Trier                          | Les objets inanimés se trient eux-mêmes en fonction des catégories que vous avez définies.                                                                                                     |
+| 98  | Vision                         | ous contrôlez complètement ce qu’une créature voit.                                                                                                                                            |
+| 99  | Vision à rayons X              | Vous pouvez voir à travers les murs, la terre, les vêtements, etc.                                                                                                                             |
+| 100 | Vision réelle                  | Vous voyez clairement les illusions environnantes.                                                                                                                                             |
 
 [retour à l'index](#index)
 
