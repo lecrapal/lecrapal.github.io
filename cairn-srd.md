@@ -185,7 +185,7 @@ Développez pour l'exemple
 </details>
 
 ### Protection des coups
-Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit effectuer un jet sur la table [**Cicatrices**](#cicatrices-1).
+Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit regarder les dégats subis sur la table [**Cicatrices**](#cicatrices-1).
 
 #### Inventaire
 Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
@@ -1064,7 +1064,7 @@ Les attaques **sans arme** font toujours 1d4 points de dégâts. Si **plusieurs 
 Si une attaque est **atténuée** , le dé de dégâts est réduit à 1d4, quelle que soit l'arme. Si l'attaque est **renforcée**, l'attaquant lance 1d12. Les attaques avec la qualité **explosif** affectent toutes les cibles de la zone, en effectuant un jet séparé pour chacune.
 
 **DÉGÂTS**  
-Si une attaque ramène les PC d'un PJ exactement à 0, le joueur effectue un jet sur la table [**Cicatrices**](#cicatrices-1).
+Si une attaque ramène les PC d'un PJ exactement à 0, le joueur regarde les dégâts subis sur la table [**Cicatrices**](#cicatrices-1).
 
 Les dégâts qui réduisent les PC d'une cible **en dessous** de 0 diminuent sa FOR du reste. Elle doit alors faire une sauvegarde de FOR pour éviter les **dégâts critiques**. Un échec la met hors de combat, et elle meurt si elle n'est pas soignée.
 
