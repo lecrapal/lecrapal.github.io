@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tombe du Roi Serpent
+title: Tombe des Rois Serpents
 parent: Conversions
 grand_parent: Aventures
 ---
