@@ -34,7 +34,7 @@ grand_parent: Aventures
 - Lorsqu'il est attaché au corps de quelqu'un, il peut le retenir et contrôler tous les membres que le pudding peut atteindre.
 - S'il est séparé de sa prise, il s'enfuira
 
-####  Gardien Cobra de Pierreforces prone, next attack Enhanced unless players use action to get up and avoid damage
+####  Gardien Cobra de Pierre
 10 PC, 3 Armure, 16 FOR, 11 DEX, 15 VOL, Dégaine de bouclier (1d6, le bouclier peut être réduit en cendres pour -1d12 points de dégâts une fois par bouclier), Sauter et frapper (1d4, fait tomber au sol, prochaine attaque améliorée sauf si les joueurs utilisent une action pour se relever et éviter les dommages.), Double entaille (1d8+1d8, 2 cibles)
 - Tourne lentement
 - Change de cible si le joueur est insaisissable.
