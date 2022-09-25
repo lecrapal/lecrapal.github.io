@@ -493,10 +493,10 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Chaussetrapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
 | Cheval (+4 emplacements)                 | 75  | Pelle                                 | 5  |
 | Colle                                    | 5   | Perceuse (manuelle)                   | 10 |
-| Corde (10 mètres)                        | 5   | Pied-de-biche                         | 10 |
-| Corne                                    | 10  | Pioche                                | 10 |
-| Craie                                    | 1   | Plume et encre                        | 10 |
-| Crampon                                  | 1   | Pole (10ft)                           | 5  |
+| Corde (10 mètres)                        | 5   | Perche (3 mètres)                     | 5  |
+| Corne                                    | 10  | Pied-de-biche                         | 10 |
+| Craie                                    | 1   | Pioche                                | 10 |
+| Crampon                                  | 1   | Plume et encre                        | 5  |
 | Eau bénite                               | 25  | Poulie                                | 10 |
 | Échelle (encombrante, 3 mètres)          | 10  | Rations (pour 3 jours)                | 10 |
 | Encens                                   | 10  | Rouleau de lit                        | 5  |
