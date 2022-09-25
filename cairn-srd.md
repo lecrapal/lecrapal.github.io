@@ -622,7 +622,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Hachette (d6)                             |
 | Cuirs rembourrés (1 Armure)               |
 | Grand piège                               |
-| Limier &#124 ; 2 PC, 12 DEX, Morsure (d6) |
+| Limier &#124; 2 PC, 12 DEX, Morsure (d6) |
 | Corne de tonnerre                         |
 
 [retour à l'index](#index)
