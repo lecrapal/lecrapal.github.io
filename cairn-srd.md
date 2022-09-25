@@ -496,7 +496,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Corde (10 mètres)                        | 5   | Perche (3 mètres)                     | 5  |
 | Corne                                    | 10  | Pied-de-biche                         | 10 |
 | Craie                                    | 1   | Pioche                                | 10 |
-| Crampon                                  | 1   | Plume et encre                        | 5  |
+| Crampon                                  | 1   | Plume et encre                        | 10 |
 | Eau bénite                               | 25  | Poulie                                | 10 |
 | Échelle (encombrante, 3 mètres)          | 10  | Rations (pour 3 jours)                | 10 |
 | Encens                                   | 10  | Rouleau de lit                        | 5  |
