@@ -3,9 +3,10 @@ layout: default
 title: Tombe des Rois Serpents
 parent: Conversions
 grand_parent: Aventures
+geometry: margin=20mm
 ---
 
-# La Tombe du Roi Serpent
+# La Tombe des Rois Serpents
 
 - Converti à partir de l'œuvre originale par _Skerples_. Obtenez-le [gratuitement (en)](https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html) ou achetez la [version imprimée (en)](https://www.drivethrurpg.com/product/252934/Tomb-of-the-Serpent-Kings--Deluxe-Print-Edition) !
 - D'après les [notes de conversion](https://docs.google.com/document/d/16d1F-V0i1GrcYu0Ug2UfPC1Uy7FVbYef7sp1CqWTGLA) de [SageDeMage](https://sagedamage.itch.io/).
