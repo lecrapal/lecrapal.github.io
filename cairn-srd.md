@@ -807,7 +807,8 @@ S'enfuir d'une situation désespérée nécessite toujours une sauvegarde de DEX
 
 ### Cicatrices
 
-Lorsqu'une attaque réduit les PC d'un PJ à exactement 0, celui-ci est affecté de manière unique. Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
+Lorsqu'une attaque réduit les PC d'un PJ à exactement 0, celui-ci est affecté de manière unique.  
+Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 
 |     |                                                                                                                                                                                                                                                                                     |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
