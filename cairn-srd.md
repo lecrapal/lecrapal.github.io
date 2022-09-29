@@ -896,11 +896,11 @@ Caractéristiques : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarqu
 
 Quelques points de repère :  
 
-- Est-il bon pour éviter un coup ? Donnez-lui des PC.
-- Est-ce qu'il absorbe les dégâts ? Donnez-lui une armure.
-- Est-il fort ? Donne-lui une **FOR** élevée.
-- Est-il agile ? Donne-lui une **DEX** élevée.
-- Est-il charismatique ? Donnez-lui une **VOL** élevée.
+- Est-il bon pour éviter un coup ? Augmentez les PC.
+- Est-ce qu'il absorbe les dégâts ? Augmentez l'armure.
+- Est-il fort ? Donnez-lui une **FOR** élevée.
+- Est-il agile ? Donnez-lui une **DEX** élevée.
+- Est-il charismatique ? Donnezz-lui une **VOL** élevée.
 
 Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent au moins 1d6 dégâts.
 
