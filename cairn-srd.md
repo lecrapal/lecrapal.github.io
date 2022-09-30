@@ -1009,7 +1009,7 @@ Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent
 | 95  | Toucher glacial                | Une épaisse couche de glace s’étend sur une surface touchée, jusqu’à 3 mètres de rayon.                                                                                                        |
 | 96  | Tremblement de terre           | Le sol se met à trembler violemment. Les structures peuvent être endommagées ou s’effondrer.                                                                                                   |
 | 97  | Trier                          | Les objets inanimés se trient eux-mêmes en fonction des catégories que vous avez définies.                                                                                                     |
-| 98  | Vision                         | ous contrôlez complètement ce qu’une créature voit.                                                                                                                                            |
+| 98  | Vision                         | Vous contrôlez complètement ce qu’une créature voit.                                                                                                                                            |
 | 99  | Vision à rayons X              | Vous pouvez voir à travers les murs, la terre, les vêtements, etc.                                                                                                                             |
 | 100 | Vision réelle                  | Vous voyez clairement les illusions environnantes.                                                                                                                                             |
 
