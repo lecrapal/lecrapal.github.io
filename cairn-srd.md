@@ -672,7 +672,7 @@ Les boucliers, gantelets et casques peuvent apporter des avantages supplémentai
 Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante :
 
 | 2       | 3-5     | 6-8     | 9-11   | 12        |
-| ------- | ------- | ------- | ------ | --------- |
+|---------|---------|---------|--------|-----------|
 | Hostile | Méfiant | Curieux | Gentil | Serviable |
 
 ### Moral
@@ -713,13 +713,13 @@ N'importe qui peut lancer un sort en tenant un livre de sorts à deux mains et e
 
 **Les reliques** sont des objets imprégnés d'un sort ou d'un pouvoir magique. Ils ne provoquent pas de Fatigue. Les reliques ont généralement un usage limité, ainsi qu'une condition de recharge. Quelques exemples :
 
-**Anneau de miel** , 3 charges. Un anneau rouillé qui réduit la taille de son porteur à 15 cm. Recharge : placer l'anneau dans une tasse de gelée royale de la taille d'un dé à coudre.
+**Anneau de miel**, 3 charges. Un anneau rouillé qui réduit la taille de son porteur à 15 cm. Recharge : placer l'anneau dans une tasse de gelée royale de la taille d'un dé à coudre.
 
-**Ami du Faucon** , 1 charge. Une baguette en forme d'éclair portant le sort _Célérité_. Recharge : tirer à l'arbalète et récupérer.
+**Ami du Faucon**, 1 charge. Une baguette en forme d'éclair portant le sort _Célérité_. Recharge : tirer à l'arbalète et récupérer.
 
-**Bâton du Silence** , 1 charge. Cette baguette noircie désactive temporairement toute magie dans un rayon de 15 mètres. Recharge : se baigner dans la lumière de la pleine lune.
+**Bâton du Silence**, 1 charge. Cette baguette noircie désactive temporairement toute magie dans un rayon de 15 mètres. Recharge : se baigner dans la lumière de la pleine lune.
 
-**Capuchon de Ley** , 1 utilisation. Toute personne qui ingère ce champignon moucheté de vert perd une Fatigue, et doit ensuite faire une sauvegarde de VOL pour éviter ses propriétés addictives. En cas d'échec, le PJ est épuisé et incapable de se concentrer jusqu'à ce qu'il puisse manger un autre champignon, ce qui n'offre qu'un bref répit à la dépendance.
+**Capuchon de Ley**, 1 utilisation. Toute personne qui ingère ce champignon moucheté de vert perd une Fatigue, et doit ensuite faire une sauvegarde de VOL pour éviter ses propriétés addictives. En cas d'échec, le PJ est épuisé et incapable de se concentrer jusqu'à ce qu'il puisse manger un autre champignon, ce qui n'offre qu'un bref répit à la dépendance.
 
 ## Combat
 
