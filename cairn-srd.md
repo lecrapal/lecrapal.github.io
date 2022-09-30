@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 2
+nav_order: 10
 ---
 
 # Document de référence du système Cairn (v.1.0)
