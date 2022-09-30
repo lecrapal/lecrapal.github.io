@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Conversion des créatures
-parent: Tools
+parent: Outils
 redirect_from: /resources/outils/conversion-des-creatures/
-nav_exclude: true
 ---
 
 # Conversion des créatures
@@ -15,7 +14,7 @@ Vous trouverez ci-dessous quelques conseils qui pourraient vous aider dans ce pr
 Lisez les instructions dans le [SRD (en)](https://cairnrpg.com/cairn-srd/#creating-monsters). Quelques points à garder à l'esprit :
 - OSE (ou B/X) a de très bonnes caractéristiques qui peuvent être facilement tronquées pour une conversion rapide. Voir cette [page (en)](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) et ce [PDF (en)] (https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) pour en savoir plus.
 - Dungeon World possède de superbes "techniques" de monstres qui se traduisent par des dégâts critiques de manière très efficace, donc chercher une créature équivalente dans ce système peut être très utile ! Voir cet exemple [ici (en)](http://codex.dungeon-world.com/monster/5698559156420608).
-- Parfois, une conversion directe de caractéristique à caractéristique n'est pas envisageable. Ce n'est pas grave ! Il y a quand même un [moyen](/resources/outils/conversion-des-creatures/#utilisation-de-la-fiction) !
+- Parfois, une conversion directe de caractéristique à caractéristique n'est pas envisageable. Ce n'est pas grave ! Il y a quand même un [moyen](/resources-a-traduire/outils/conversion-des-creatures/#utilisation-de-la-fiction) !
 
 ### Santé, Armure & Compétences
 - **La Protection des Coups** n'est _pas_ la santé. C'est la capacité de la créature à éviter le danger, que ce soit par sa résistance, sa vitesse ou son habileté.  Si les PJ ont du mal à porter un coup qui cause réellement des dégâts, la créature a une **PC** élevée. Une bonne règle de base est de donner à la créature +1 PC pour chaque **HD**, en plus d'un minimum de **3 PC** (la personne moyenne). Je considère généralement que la **HD** est équivalente à un d6, dont la _moyenne_ est de 3,5. Commencez toujours par les **PC** d'une créature _en premier_, _ensuite_ par sa **FOR**.
