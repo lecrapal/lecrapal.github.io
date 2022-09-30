@@ -17,15 +17,15 @@ parent: Hacks
 *Note: L est utilisé comme référence du niveau du joueur. Exemple : Un joueur de niveau 2 verra Ld6 et lancera 2d6.*
 
 ## Table des matières
-[Exploration de donjon](#Exploration-de-donjon)  
-[Exploration des zones sauvages](#Exploration-des-zones-sauvages)  
-[Réactions](#Réactions)  
-[Que veulent-ils ?](#Que-veulent-ils-?)  
-[Montée de niveau](#Montée-de-niveau)  
-[Faire la bringue](#Faire-la-bringue)  
-[Vices](#Vices)  
-[Options de combat avancées](#Options-de-combat-avancées)  
-[Crédits & Inspiration](#Crédits-&-Inspiration)  
+[Exploration de donjon](#exploration-de-donjon)  
+[Exploration des zones sauvages](#exploration-des-zones-sauvages)  
+[Réactions](#réactions)  
+[Que veulent-ils ?](#que-veulent-ils-?)  
+[Montée de niveau](#montée-de-niveau)  
+[Faire la bringue](#faire-la-bringue)  
+[Vices](#vices)  
+[Options de combat avancées](#options-de-combat-avancées)  
+[Crédits & Inspiration](#crédits-&-inspiration)  
 
 ## Exploration de donjon
 
