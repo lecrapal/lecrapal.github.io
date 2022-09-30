@@ -107,15 +107,17 @@ Le gardien lance un **d6** et consulte la table correspondant à la localisation
 ## Réactions
 Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante.
 
-| 2       | 3-5     | 6-8     | 9-11   | 12        |
+||||||
 |---------|---------|---------|--------|-----------|
+| 2       | 3-5     | 6-8     | 9-11   | 12        |
 | Hostile | Méfiant | Curieux | Amical | Serviable |
 
 ## Que veulent-ils ?
 La plupart des PNJ ont un désir. Lancez un d10 sur la table suivante pour découvrir ce qu'ils veulent.
 
-| D10 | Désir               | Description                                                                                                                                                                                                                           |
+||||
 |-----|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| D10 | Désir               | Description                                                                                                                                                                                                                           |
 | 1   | **Nourriture**      | Vous pouvez les distraire avec des rations, les diriger vers des cadavres, lancer une illusion de nourriture.                                                                                                                         |
 | 2   | **Secours**         | Ils pourraient être blessés et avoir besoin d'une aide médicale quelconque.                                                                                                                                                           |
 | 3   | **Or**              | Ils veulent de l'argent. Extorsion, péage, taxe, tribut, ou cupidité.                                                                                                                                                                 |
@@ -146,8 +148,9 @@ Vous pouvez dépenser votre argent durement gagné en expériences plutôt qu'en
 ### Tableau de la Bringue
 Déclarez le montant d'or que vous dépensez et lancez 2d6 pour savoir comment s'est déroulée votre soirée.
 
-| 2D6 | Comment ça s'est passé                                                                                                                                 |
+|||
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2D6 | Comment ça s'est passé                                                                                                                                 |
 | 2-5 | Mésaventure : L'expérience est acquise, mais vous vous êtes tous ridiculisés d'une manière ou d'une autre. Lancez un dé sur la table des mésaventures. |
 | 6-9 | Période de responsabilité : l'expérience est acquise et vous avez tous gardé les choses raisonnablement saines.                                        |
 | 10+ | La fortune : L'expérience est acquise, et vous avez tous eu un coup de chance ! Lancez le dé sur la table des chances.                                 |
@@ -156,8 +159,9 @@ Déclarez le montant d'or que vous dépensez et lancez 2d6 pour savoir comment s
 - Lancez 1D6, en ajoutant + 1 aux résultats pour chaque 100 PO que vous avez dépensé. Les villes plus grandes devraient permettre (ou exiger) de dépenser plus d'argent. Une fête plus décadente peut avoir des conséquences plus volatiles ou légendaires. 
 - Sinon, il suffit de lancer un 1D12 et de vérifier les résultats.
 
-| D6+ (ou D12) | Mésaventures                                                                                                                                                                                                                                                                                                                                                                     | Chances                                                                                                                                                                                                                                                                                                                                                                      |
+||||
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| D6+ (ou D12) | Mésaventures                                                                                                                                                                                                                                                                                                                                                                     | Chances                                                                                                                                                                                                                                                                                                                                                                      |
 | 1            | **Déclencher une rixe.** Vous êtes tous impliqués dans une bagarre qui devient incontrôlable. Commencez la prochaine aventure avec un œil au beurre noir et -1 FOR par niveau. Le tenancier de la taverne locale n'est plus aussi amical.**Jackpot!** L'un d'entre vous a fait fortune aux tables de jeu ! Gagner un niveau x 100 or. (Ou 1D6 x 100 si vous jouez sans niveaux)  | **Jackpot!** L'un d'entre vous a fait fortune aux tables de jeu ! Gagner un niveau x 100 or. (Ou 1D6 x 100 si vous jouez sans niveaux)                                                                                                                                                                                                                                       |
 | 2            | **Petit malentendu** avec les autorités locales que vous êtes incapable de résoudre. Vous passez tous les 1d6 jours suivants en prison. Maintenant considérés comme des fauteurs de troubles locaux.                                                                                                                                                                             | **Bénéficiez d'une réputation locale** en ayant été les rois de la soirée ! Les personnes de mauvaise réputation sont beaucoup plus amicales et vous considèrent comme l'un des leurs.                                                                                                                                                                                       |
 | 3            | L'un d'entre vous **a insulté une personne de rang local.** Il gardera rancune à moins que vous ne vous excusiez tous publiquement et ne vous humiliez devant eux.                                                                                                                                                                                                               | **Whoa le trip !** L'étrange poudre que vous avez reniflée a révélé des vérités mystiques sur l'univers. Les jeunes de la communauté vous voient comme des gens cool et non plus comme des gens ordinaires. (Facultatif : gagnez un sort aléatoire ou générez un sort Maze Rats, à usage unique ou permanent).                                                               |

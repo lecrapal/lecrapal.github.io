@@ -671,8 +671,9 @@ Les boucliers, gantelets et casques peuvent apporter des avantages supplémentai
 
 Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante :
 
-| 2       | 3-5     | 6-8     | 9-11   | 12        |
+||||||
 |---------|---------|---------|--------|-----------|
+| 2       | 3-5     | 6-8     | 9-11   | 12        |
 | Hostile | Méfiant | Curieux | Gentil | Serviable |
 
 ### Moral

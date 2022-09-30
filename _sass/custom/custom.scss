@@ -21,6 +21,10 @@ td {
   border-left: 0;
 }
 
+thead{
+  display: none;
+}
+
 tbody tr:last-of-type td{
   padding-bottom: .35rem;
 }
