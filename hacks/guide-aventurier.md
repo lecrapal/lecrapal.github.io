@@ -17,15 +17,15 @@ parent: Hacks
 *Note: L est utilisé comme référence du niveau du joueur. Exemple : Un joueur de niveau 2 verra Ld6 et lancera 2d6.*
 
 ## Table des matières
-[Exploration de donjon](#Exploration-de-donjon)
-[Exploration des zones sauvages](#Exploration-des-zones-sauvages)
-[Réactions](#Réactions)
-[Que veulent-ils ?](#Que-veulent-ils-?)
-[Montée de niveau](#Montée-de-niveau)
-[Faire la bringue](#Faire-la-bringue)
-[Vices](#Vices)
-[Options de combat avancées](#Options-de-combat-avancées)
-[Crédits & Inspiration](#Crédits-&-Inspiration)
+[Exploration de donjon](#Exploration-de-donjon)  
+[Exploration des zones sauvages](#Exploration-des-zones-sauvages)  
+[Réactions](#Réactions)  
+[Que veulent-ils ?](#Que-veulent-ils-?)  
+[Montée de niveau](#Montée-de-niveau)  
+[Faire la bringue](#Faire-la-bringue)  
+[Vices](#Vices)  
+[Options de combat avancées](#Options-de-combat-avancées)  
+[Crédits & Inspiration](#Crédits-&-Inspiration)  
 
 ## Exploration de donjon
 
@@ -33,10 +33,10 @@ parent: Hacks
 Dans un donjon, chaque tour dure environ 10 minutes. L'exploration du donjon peut être traitée comme un sous-système de gestion des ressources, de prise de décisions stratégiques et de structuration de l'exploration du donjon en une sorte de mini-jeu. Il est possible de tenter sa chance en passant plus de temps à chercher, à vérifier les objets cachés et à s'attarder dans des endroits dangereux. Le temps passé a toujours un coût, et ce coût est de provoquer un jet de rencontre. Ces rencontres peuvent impliquer la rencontre de monstres, mais peuvent également mettre le groupe au défi ou le récompenser d'une autre manière. 
 
 ### Déroulement du jeu par tour 
-**1. Jet de rencontre :** Le Gardien fait un jet de rencontre avec un d6 une fois tous les deux ou trois tours de donjon, ou à sa convenance. 
-**2. Actions :** Le groupe décide de l'action à entreprendre. (par exemple, se déplacer, chercher, écouter, entrer ou sortir des pièces). 
-**3. Description :** Le Gardien décrit et résout ce qui se passe. Si des rencontres ont été lancées, elles se produisent ici. Si (1) a été obtenu sur le dé de rencontre, faites un jet de réaction et poursuivez le jeu. 
-**4. Fin du tour :** Le Gardien met à jour le temps passé, la gestion de la lumière, de la nourriture, du manque de repos, ou toute autre sorte d'utilisation, des jets de dés peuvent être effectués. 
+**1. Jet de rencontre :** Le Gardien fait un jet de rencontre avec un d6 une fois tous les deux ou trois tours de donjon, ou à sa convenance.   
+**2. Actions :** Le groupe décide de l'action à entreprendre. (par exemple, se déplacer, chercher, écouter, entrer ou sortir des pièces).   
+**3. Description :** Le Gardien décrit et résout ce qui se passe. Si des rencontres ont été lancées, elles se produisent ici. Si (1) a été obtenu sur le dé de rencontre, faites un jet de réaction et poursuivez le jeu.   
+**4. Fin du tour :** Le Gardien met à jour le temps passé, la gestion de la lumière, de la nourriture, du manque de repos, ou toute autre sorte d'utilisation, des jets de dés peuvent être effectués.   
 
 ### Mouvement par tour
 - Les joueurs peuvent se déplacer **prudemment** d'environ 60 mètres en un tour de 10 minutes. 
@@ -52,12 +52,12 @@ Dans un donjon, chaque tour dure environ 10 minutes. L'exploration du donjon peu
 ### Table de rencontre
 Lancez un d6 tous les 2 ou 3 tours (à votre discrétion, ajustez si nécessaire) ou lorsque les joueurs font du bruit. Seul un jet de 1 entraînera une rencontre, et celle-ci ne sera pas toujours hostile. Lancez les dés de réaction pour connaître leur attitude, et n'oubliez pas qu'ils sont déjà en train de faire quelque chose. En option, vous pouvez lancer des rencontres sur un jet de 1 uniquement, et rien d'autre ne se produisant sinon.
 
-**1. Rencontre** (lancer sur la table de rencontre ou choisir, lancer réactions + besoins)
-**2. Signe** (indice, "piste", trace, repaire abandonné, odeur, victime, déjections, etc.)
-**3. Environnement** (limité par le temps, une montée des eaux, achèvement d'un rituel, le cadre change ou s'intensifie d'une manière ou d'une autre.)
-**4. Fatigue** (devoir se reposer au prochain round ou être épuisé)
-**5. Expiration** (fin des effets en cours, utilisation de source lumineuse ou des ressources, les ventres gargouillent.)
-**6. Découverte ou trésor** (Le groupe trouve quelque chose d'intéressant et peut-être même de bénéfique.)
+**1. Rencontre** (lancer sur la table de rencontre ou choisir, lancer réactions + besoins)  
+**2. Signe** (indice, "piste", trace, repaire abandonné, odeur, victime, déjections, etc.)  
+**3. Environnement** (limité par le temps, une montée des eaux, achèvement d'un rituel, le cadre change ou s'intensifie d'une manière ou d'une autre.)  
+**4. Fatigue** (devoir se reposer au prochain round ou être épuisé)  
+**5. Expiration** (fin des effets en cours, utilisation de source lumineuse ou des ressources, les ventres gargouillent.)  
+**6. Découverte ou trésor** (Le groupe trouve quelque chose d'intéressant et peut-être même de bénéfique.)  
 
 ### Lumière
 Les torches, les lanternes et les autres sources de lumière radiale éclairent avec clarté sur 12 mètres et produisent une lueur faible sur 12 mètres supplémentaires. Dans l'obscurité, les sources de lumière sont visibles à des kilomètres. Les torches standard durent environ 6 tours, ou 1 heure, avant de s'éteindre.
@@ -67,8 +67,8 @@ Les torches, les lanternes et les autres sources de lumière radiale éclairent 
 ### Exploration Hexagonale
 
 Chaque hexagone représente 10 km. Une journée est divisée en 6 tours d'environ 4 heures chacun. Deux de ces phases, soit environ 8 heures, doivent être consacrées au sommeil afin d'éviter d'être épuisé. A chaque tour, la procédure suivante est utilisée : 
-**1. Action d'exploration :** Le groupe décide d'une action d'exploration pour ce tour.  
-**2. Événement :** Le Gardien fait un lancer d'événement pour les rencontres et autres événements aléatoires. 
+**1. Action d'exploration :** Le groupe décide d'une action d'exploration pour ce tour.    
+**2. Événement :** Le Gardien fait un lancer d'événement pour les rencontres et autres événements aléatoires.   
 **3. Résolution :** Les actions et événement sont résolus.
 
 ### Action d'exploration des zones sauvages
@@ -95,24 +95,26 @@ Le groupe peut choisir l'une des actions standard suivantes, à chaque tour de 4
 ### Jet d'évènements
 Le gardien lance un **d6** et consulte la table correspondant à la localisation du groupe. 
 
-**1. Rencontre:** Jet sur la table des rencontres pour le type de terrain ou la localisation. N'oubliez pas de lancer la réaction et la volonté. 
-**2. Signe:** indice, "piste", ou indication d'une rencontre proche, d'une localité, d'une chose cachée ou d'une information sur un hexagone voisin.
-**3. Environnement:** Changements de météo, de terrain ou autres changements locaux.
+**1. Rencontre:** Jet sur la table des rencontres pour le type de terrain ou la localisation. N'oubliez pas de lancer la réaction et la volonté.   
+**2. Signe:** indice, "piste", ou indication d'une rencontre proche, d'une localité, d'une chose cachée ou d'une information sur un hexagone voisin.  
+**3. Environnement:** Changements de météo, de terrain ou autres changements locaux.  
 **4. Échéance:** Les ressources s'épuisent d'une manière ou d'une autre. Lancez un d4.
   - 1-2: Fatigue (repos pendant un tour ou ajouter 1 fatigue)
   - 3-4: Faim (manger une ration ou ajouter 1 fatigue)
 
-**5. Découverte:** Découvrez quelque chose d'utile comme de la nourriture, un trésor ou d'autres ressources.
+**5. Découverte:** Découvrez quelque chose d'utile comme de la nourriture, un trésor ou d'autres ressources.  
 **6. Élément caché :** On découvre la caractéristique principale de l'hexagone, ou, on choisit ou lance un dé au hasard pour une particularité unique de l'hexagone à partir d'une table aléatoire. Les options incluent les petits donjons, les zones secrètes, les factions, etc. Si aucune ne s'applique, ce résultat est simplement un tour libre.
 
 ## Réactions
 Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante.
+
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
 |--|--|--|--|--|
 | Hostile | Méfiant | Curieux | Amical | Serviable |
 
 ## Que veulent-ils ?
 La plupart des PNJ ont un désir. Lancez un d10 sur la table suivante pour découvrir ce qu'ils veulent.
+
 | D10 | Want | Description|
 |--|--|--|
 |1 | **Nourriture** | Vous pouvez les distraire avec des rations, les diriger vers des cadavres, lancer une illusion de nourriture. |
@@ -144,6 +146,7 @@ Vous pouvez dépenser votre argent durement gagné en expériences plutôt qu'en
 
 ### Tableau de la Bringue
 Déclarez le montant d'or que vous dépensez et lancez 2d6 pour savoir comment s'est déroulée votre soirée.
+
 | 2D6 | Comment ça s'est passé |
 |--|--|
 | 2-5 | Mésaventure : L'expérience est acquise, mais vous vous êtes tous ridiculisés d'une manière ou d'une autre. Lancez un dé sur la table des mésaventures. |
@@ -235,7 +238,7 @@ Vous trouverez ci-dessous quelques traits optionnels qu'une arme magique ou de b
 - **Balayage :** (armes à 2 mains uniquement) Effectuez une seconde attaque contre un ennemi à portée si vous obtenez le maximum de dégâts ou si votre attaque réduit les PC de la cible à zéro ou moins.  
 - **Parade :** (épées et dagues uniquement) Les dégâts de mêlée de 1 à 2 sont parés sans aucun dégât.
 - **Portée :** (armes d'hast uniquement) Lorsque vous êtes attaqué avec une arme de mêlée sans portée, l'attaquant doit obtenir la moitié ou plus de son jet de dégâts, sinon vous l'attaquez en premier.  
-- **Enchanté : (armes magiques) Les dégâts ignorent les armures.  
+- **Enchanté** : (armes magiques) Les dégâts ignorent les armures.  
 - **Brutal :** (armes contondantes magiques ; 2h uniquement) Les dégâts critiques résultant d'un jet de 8 ou plus de cette arme sont une mise à mort instantanée, et obligent l'ennemi à faire une sauvegarde de moral.  
 - **Mortel :** (armes magiques ; rare) Relancez si les dégâts infligés sont au maximum et ajoutez-les au total.
 - **Vorpal :** (lames magiques ; rare) Les dommages ignorent immédiatement les PC, allant directement à la FOR et nécessitant une sauvegarde contre les dégâts critiques. 
@@ -247,20 +250,20 @@ Les joueurs peuvent choisir d'absorber tous les dégâts et effets d'une attaque
 ### Types de dégâts magiques
 Vous trouverez ci-dessous quelques types de dégâts d'armes magiques autres que les dégâts de +1. Les types de dégâts magiques sur une arme doivent diminuer ses dégâts de 1 niveau de dé (par ex, une dague passe de d6 à d4) pour tenir compte de l'effet supplémentaire.
 
-- **Froid : ** En cas de succès, la cible fait une sauvegarde FOR ou sa prochaine attaque est **affaiblie**. 
-- **Tonnerre : ** En cas de succès, la cible effectue une sauvegarde DEX ou ne peut plus bouger au prochain round. 
+- **Froid :** En cas de succès, la cible fait une sauvegarde FOR ou sa prochaine attaque est **affaiblie**. 
+- **Tonnerre :** En cas de succès, la cible effectue une sauvegarde DEX ou ne peut plus bouger au prochain round. 
 - **Nécrotique :** En cas de succès, la cible effectue une sauvegarde VOL ou perd son prochain tour. 
-- **Empoisonnement : ** En cas de succès, la cible effectue une sauvegarde FOR ou subit 1d4 dégâts pendant 1d4 rounds.
-- **Désintégration : ** En cas de succès, la cible effectue un jet de sauvegarde DEX contre l'oblitération instantanée et le porteur prend 1 fatigue. Exceptionnellement puissant et rare.
+- **Empoisonnement :** En cas de succès, la cible effectue une sauvegarde FOR ou subit 1d4 dégâts pendant 1d4 rounds.
+- **Désintégration :** En cas de succès, la cible effectue un jet de sauvegarde DEX contre l'oblitération instantanée et le porteur prend 1 fatigue. Exceptionnellement puissant et rare.
 
 ### Matériaux spéciaux
 La plupart des armes seront fabriquées en acier. Certaines armes spéciales, cependant, pourraient potentiellement provenir de matériaux différents. Envisagez de fabriquer une arme dans un matériau spécial avec un niveau de dé en moins pour compenser ses avantages. 
 
 - **Glacefer :** Lourd et enclin à se briser. Renforcé contre les féériques.
-- **Argent : ** Coûteux. Renforcé contre les morts-vivants et certains monstres. 
+- **Argent :** Coûteux. Renforcé contre les morts-vivants et certains monstres. 
 - **Mithril :** Alliage elfique. Argenté et doré. Renforcé contre les gobelins. 
 - **Orichalque :** Alliage nain. Rouge-bronze profond. Renforcé contre les morts-vivants. 
-- **Electrum : ** Alliage forgé par la magie. Vert-or. Renforcé contre les démons. 
+- **Electrum :** Alliage forgé par la magie. Vert-or. Renforcé contre les démons. 
 - **Minerai météorique :** Métal stellaire rare. Multi-teintes. Renforcé contre les dragons.
 
 ## Crédits & Inspiration
