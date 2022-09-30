@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Hacks
-nav_order: 12
+nav_order: 21
 has_children: true
-nav_exclude: true
 ---
 
 # Hacks

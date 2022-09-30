@@ -1,4 +1,11 @@
-# Guide de l'Aventurier pour Cairn
+---
+layout: default
+title: Guide de l'Aventurier
+parent: Hacks
+nav_order: 1
+---
+
+# Guide de l'Aventurier
 **Règles et Procédures Modulables pour Cairn**
 *par [Adam Hensley](https://adamhensley.itch.io/), traduit par LeCrapal*
 
