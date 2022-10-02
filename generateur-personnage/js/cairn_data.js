@@ -204,7 +204,7 @@ gen_data['reputation'] = [
 ,  'flâneur'
 ,  'farfelu'
 ,  'repoussant'
-,  'a respecté'
+,  'respecté'
 ,  'sage'
 ]
 
