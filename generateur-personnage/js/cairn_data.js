@@ -232,7 +232,7 @@ gen_data['armor'] = {
 }
 
 gen_data['helmet'] = {
-  '1-13': '',
+  '1-13': 'Ni bouclier, ni casque',
   '14-16': ', un casque (+1 Armure)',
   '17-19': ', un bouclier (+1 Armure)',
   '20': ', un casque (+1 Armure) et un bouclier (+1 Armure)'

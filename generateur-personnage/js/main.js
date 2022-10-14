@@ -14,11 +14,11 @@ allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
 let total = 2;
 for (let i = 0; i < allItems.length; i++) {
   let item = allItems[i];
-  if (item.includes("bulky")) {
+  if (item.includes("encombrant")) {
     total += 2;
   } else if (total > 10){
     total = 10;
-  } else if (!item.includes("protection") && (!item.includes("nor") && (!item.includes("stacks")))) {
+  } else if (!item.includes("Aucune") && (!item.includes("ni casque") && (!item.includes("empilable")))) {
     total++;
   }
 }
