@@ -845,7 +845,7 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 **Elfe des glaces**  
 14 PC, 1 Armure, 8 FOR, 13 DEX, 14 VOL, une dague de glace (d6), un livre de sorts (Choisir entre : _Sommeil, Téléportation, Détection de la magie)_.
 
-- Belle, amorale et d'une grande longévité.
+- Beau, amoral et d'une grande longévité.
 - Résistant à la plupart des formes de magie.
 
 **Épouvantard**  
