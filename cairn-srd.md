@@ -1033,7 +1033,7 @@ Remplir les dix emplacements d'objets réduit un PJ à 0 PC. Les PJ ne peuvent p
 Un moment de repos et une gorgée d'eau restaurent les PC perdus, mais peuvent rendre le groupe vulnérable. La perte de **caractéristiques** nécessite une semaine de repos et l'aide d'un guérisseur compétent.
 
 **LIVRE DE SORTS**
-Les livres de sorts contiennent un seul sort et occupent un emplacement d'objet. N'importe qui peut lancer un sort en tenant un livre de sorts dans les deux mains et en lisant son contenu à haute voix. Lancer un sort ajoute **Fatigue** à l'inventaire du PJ.
+Les livres de sorts contiennent un seul sort et occupent un emplacement d'objet. N'importe qui peut lancer un sort en tenant un livre de sorts dans les deux mains et en lisant son contenu à haute voix. Lancer un sort ajoute une **Fatigue** à l'inventaire du PJ.
 
 S'ils disposent de temps et de suffisamment de sûreté, les PJ peuvent améliorer un sort sans coût supplémentaire. S'ils sont épuisés ou en danger, une sauvegarde de VOL peut être nécessaire pour éviter de terribles conséquences.
 
