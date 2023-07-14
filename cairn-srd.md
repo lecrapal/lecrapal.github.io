@@ -575,7 +575,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Épée longue (d10, encombrante)          |
 | Cotte de mailles (2 Armure, encombrant) |
 | Casque (+1 Armure)                      |
-| Cape heraldique                         |
+| Cape héraldique                         |
 | Menottes                                |
 | Corde fine                              |
 
