@@ -644,7 +644,7 @@ Se reposer quelques instants et boire de l'eau restaure les PC perdus mais laiss
 
 ### Epuisement & Fatigue
 
-Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PC ou ses scores de caractéristiques. Toute personne epuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
+Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PC ou ses scores de caractéristiques. Toute personne épuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
 Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
 
 ### Armure
