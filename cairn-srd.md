@@ -385,13 +385,13 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Outils
 
-|      |               |      |                     |      |               |      |        |
-| ---- | ------------- | ---- | ------------------- | ---- | ------------- | ---- | ------ |
-| 1    | Soufflet      | 6    | Marmite             | 11   | Graisse       | 16   | Filet  |
-| 2    | Seau          | 7    | Pied-de-biche       | 12   | Marteau       | 17   | Scie   |
+|      |                |      |                     |      |               |      |        |
+| ---- | -------------- | ---- | ------------------- | ---- | ------------- | ---- | ------ |
+| 1    | Soufflet       | 6    | Marmite             | 11   | Graisse       | 16   | Filet  |
+| 2    | Seau           | 7    | Pied-de-biche       | 12   | Marteau       | 17   | Scie   |
 | 3    | Chausse-trapes | 8    | Perceuse (manuelle) | 13   | Sablier       | 18   | Mastic |
-| 4    | Craie         | 9    | Canne à pêche       | 14   | Lime à métaux | 19   | Pelle  |
-| 5    | Burin         | 10   | Colle               | 15   | Clous         | 20   | Pinces |
+| 4    | Craie          | 9    | Canne à pêche       | 14   | Lime à métaux | 19   | Pelle  |
+| 5    | Burin          | 10   | Colle               | 15   | Clous         | 20   | Pinces |
 
 #### Babioles
 
@@ -468,36 +468,36 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Équipement et outils
 
-|                                          |     |                                       |    |
-| ---------------------------------------- | --- | ------------------------------------- | -- |
-| Aconit tue-loup                          | 10  | Longue-Vue                            | 40 |
-| Billes de verre                          | 5   | Loupe                                 | 10 |
-| Bottes à crampons                        | 5   | Maquillage                            | 10 |
-| Burin                                    | 5   | Marmites                              | 10 |
-| Canne à pêche                            | 10  | Marteau                               | 5  |
-| Chaîne (3 mètres)                        | 10  | Matériel de crochetage                | 25 |
-| Chariot (+8 emplacements, lent)          | 200 | Menottes                              | 10 |
-| Charrette (+4 emplacements, encombrante) | 30  | Miroir                                | 5  |
+|                                           |     |                                       |    |
+| ----------------------------------------- | --- | ------------------------------------- | -- |
+| Aconit tue-loup                           | 10  | Longue-Vue                            | 40 |
+| Billes de verre                           | 5   | Loupe                                 | 10 |
+| Bottes à crampons                         | 5   | Maquillage                            | 10 |
+| Burin                                     | 5   | Marmites                              | 10 |
+| Canne à pêche                             | 10  | Marteau                               | 5  |
+| Chaîne (3 mètres)                         | 10  | Matériel de crochetage                | 25 |
+| Chariot (+8 emplacements, lent)           | 200 | Menottes                              | 10 |
+| Charrette (+4 emplacements, encombrante)  | 30  | Miroir                                | 5  |
 | Chausse-trapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
-| Cheval (+4 emplacements)                 | 75  | Pelle                                 | 5  |
-| Colle                                    | 5   | Perceuse (manuelle)                   | 10 |
-| Corde (10 mètres)                        | 5   | Perche (3 mètres)                     | 5  |
-| Corne                                    | 10  | Pied-de-biche                         | 10 |
-| Craie                                    | 1   | Pioche                                | 10 |
-| Crampon                                  | 1   | Plume et encre                        | 10 |
-| Eau bénite                               | 25  | Poulie                                | 10 |
-| Échelle (encombrante, 3 mètres)          | 10  | Rations (pour 3 jours)                | 10 |
-| Encens                                   | 10  | Rouleau de lit                        | 5  |
-| Filet                                    | 10  | Sablier                               | 50 |
-| Goudron                                  | 10  | Sac                                   | 5  |
-| Graisse                                  | 10  | Sac fourre-tout                       | 5  |
-| Grand piège                              | 20  | Savon                                 | 1  |
-| Grande éponge                            | 5   | Scie                                  | 5  |
-| Grappin                                  | 25  | Seau                                  | 5  |
-| Huile                                    | 10  | Soufflet                              | 10 |
-| Lanterne et huile                        | 10  | Tente (pour 2 personnes, encombrante) | 20 |
-| Lime à métaux                            | 5   | Torche                                | 1  |
-| Livre                                    | 50  | Vessie à air                          | 5  |
+| Cheval (+4 emplacements)                  | 75  | Pelle                                 | 5  |
+| Colle                                     | 5   | Perceuse (manuelle)                   | 10 |
+| Corde (10 mètres)                         | 5   | Perche (3 mètres)                     | 5  |
+| Corne                                     | 10  | Pied-de-biche                         | 10 |
+| Craie                                     | 1   | Pioche                                | 10 |
+| Crampon                                   | 1   | Plume et encre                        | 10 |
+| Eau bénite                                | 25  | Poulie                                | 10 |
+| Échelle (encombrante, 3 mètres)           | 10  | Rations (pour 3 jours)                | 10 |
+| Encens                                    | 10  | Rouleau de lit                        | 5  |
+| Filet                                     | 10  | Sablier                               | 50 |
+| Goudron                                   | 10  | Sac                                   | 5  |
+| Graisse                                   | 10  | Sac fourre-tout                       | 5  |
+| Grand piège                               | 20  | Savon                                 | 1  |
+| Grande éponge                             | 5   | Scie                                  | 5  |
+| Grappin                                   | 25  | Seau                                  | 5  |
+| Huile                                     | 10  | Soufflet                              | 10 |
+| Lanterne et huile                         | 10  | Tente (pour 2 personnes, encombrante) | 20 |
+| Lime à métaux                             | 5   | Torche                                | 1  |
+| Livre                                     | 50  | Vessie à air                          | 5  |
 
 
 ## Ensembles d'équipement optionnels
@@ -592,14 +592,14 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Voleur
 
-|                              |
-| ---------------------------- |
-| Deux poignards (d6+d6)       |
-| Tunique à capuche (1 armure) |
-| Matériel de crochetage       |
+|                               |
+| ----------------------------- |
+| Deux poignards (d6+d6)        |
+| Tunique à capuche (1 armure)  |
+| Matériel de crochetage        |
 | Chausse-trapes                |
-| Grappin                      |
-| Lime à métaux                |
+| Grappin                       |
+| Lime à métaux                 |
 
 #### Rôdeur
 
