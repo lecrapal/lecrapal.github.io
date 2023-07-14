@@ -786,7 +786,7 @@ Lorsqu'un personnage meurt, le joueur est libre de créer un nouveau personnage 
 Les groupes de combattants similaires qui combattent ensemble sont traités comme un seul **détachement**. Lorsqu'un détachement subit des dégâts critiques, il est mis en déroute ou considérablement affaibli. Lorsqu'il atteint 0 FOR, il est détruit.
 
 Les attaques contre des détachements par des individus sont **atténuées** (à l'exception des dégâts explosifs).  
-Les attaques contre des individus par des détachements sont **renforcées** et infligent des dégâts de explosifs.
+Les attaques contre des individus par des détachements sont **renforcées** et infligent des dégâts explosifs.
 
 ### Retraite
 
