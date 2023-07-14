@@ -6,8 +6,6 @@ nav_order: 10
 
 # Document de référence du système Cairn (v.1.0)
 
-<p></p>
-
 **Cairn** est sous licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Parcourez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu dans d'autres [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (notamment Word, Affinity, Google Docs, etc.).
 
@@ -61,8 +59,6 @@ Le Gardien et les joueurs ont des principes qui contribuent à favoriser une exp
 La confiance que se font les joueurs leur permet de s'engager dans le contexte commun, d'atteindre les objectifs des personnages et de relever les défis du groupe. Par conséquent, le groupe travaille généralement ensemble vers un objectif commun, en équipe.
 
 [retour à l'index](#index)
-
-<p></p>
 
 ## Principes pour les Gardiens
 ### Information
@@ -120,8 +116,6 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 - Un résultat de 3 ou moins est généralement synonyme de malchance pour les PJ ou leurs alliés.
 
 [retour à l'index](#index)
-
-<p></p>
 
 ## Principes pour les joueurs
 ### Actions
@@ -209,8 +203,6 @@ Consultez la **Liste d'équipement** pour connaître les valeurs d'armure, de d�
 
 Si vous souhaitez quelque chose de plus proche des classes traditionnelles, consultez la liste des [**Ensembles d'équipement optionnels**](#ensembles-d-equipement-optionnels).
 
-<p></p>
-
 ## Nom et historique (d20)
 
 #### Prénoms féminins
@@ -254,7 +246,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |4           |Boucher   |9          |Herboriste  |14        |Mineur    |19    |Serviteur   |
 |5           |Charpentier |10         |Chasseur     |15        |Hors-la-loi   |20    |Rôdeur    |
 
-<p></p>
 
 ## Traits (d10)
 
@@ -358,7 +349,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 4           | Condamné | 9    | Déshérité |
 | 5           | Maudit | 10   | Exilé |
 
-<p></p>
 
 ## Équipement de départ (d20)
 
@@ -420,7 +410,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |        1-5        |         6-13          |     14-17      | 18-20 |
 | Outil ou babioles | Matériel d'expédition | Armure ou Arme | Sorts |
 
-<p></p>
 
 #### 																						Sorts (d100)
 
@@ -452,7 +441,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 24 | Cupidité              | 49 | Illusion visuelle              | 74 | Portail            | 99  | Vision à rayons X     |
 | 25 | Déguisement           | 50 | Image miroir                   | 75 | Poussée primitive  | 100 | Vision réelle         |
 
-<p></p>
 
 ## Liste des équipements (Prix en pièces d'or)  
 
@@ -511,7 +499,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Lime à métaux                            | 5   | Torche                                | 1  |
 | Livre                                    | 50  | Vessie à air                          | 5  |
 
-<p></p>
 
 ## Ensembles d'équipement optionnels
 
@@ -627,7 +614,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 [retour à l'index](#index)
 
-<p></p>
 
 ## Règles
 ### Caractéristiques
@@ -828,7 +814,6 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 
 [retour à l'index](#index)
 
-<p></p>
 
 ## Bestiaire
 
@@ -907,7 +892,6 @@ Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent
 
 [retour à l'index](#index)
 
-<p></p>
 
 ## 100 Sorts
 
@@ -1016,7 +1000,6 @@ Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent
 
 [retour à l'index](#index)
 
-<p></p>
 
 # Résumé des règles
 
