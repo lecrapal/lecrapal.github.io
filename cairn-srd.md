@@ -822,7 +822,7 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 
 - Évite le combat, sauf s'ils ont l'avantage (par exemple, s'ils sont plus nombreux).
 - Garde ses biens volés jusqu'à la mort.
-- Prise les livres de sorts ; prêt à échanger
+- Prise les livres de sorts ; prêt à échanger.
 
 **Hommes encapuchonnés**  
 12 PC, 9 FOR, 12 DEX, 14 VOL, bâton runique (d8), un livre de sorts (Choisir entre : _Charme, Hypnotiser, Pousser/Tirer, Bouclier_)
@@ -864,7 +864,7 @@ X PC, X Armure, X FOR, X DEX, X VOL, Arme (dX, objets spéciaux, qualités)
 
 - Description engageante de l'apparence ou du comportement.
 - Bizarrerie, tactique ou particularité qui rend ce PNJ unique.
-- Effet spécial ou conséquence de dégâts critiques
+- Effet spécial ou conséquence de dégâts critiques.
 
 **Principes généraux**  
 Caractéristiques : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarquable, et 18 est légendaire. Ajustez si nécessaire.  
