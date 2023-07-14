@@ -389,7 +389,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | ---- | ------------- | ---- | ------------------- | ---- | ------------- | ---- | ------ |
 | 1    | Soufflet      | 6    | Marmite             | 11   | Graisse       | 16   | Filet  |
 | 2    | Seau          | 7    | Pied-de-biche       | 12   | Marteau       | 17   | Scie   |
-| 3    | Chaussetrapes | 8    | Perceuse (manuelle) | 13   | Sablier       | 18   | Mastic |
+| 3    | Chausse-trapes | 8    | Perceuse (manuelle) | 13   | Sablier       | 18   | Mastic |
 | 4    | Craie         | 9    | Canne à pêche       | 14   | Lime à métaux | 19   | Pelle  |
 | 5    | Burin         | 10   | Colle               | 15   | Clous         | 20   | Pinces |
 
@@ -478,7 +478,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Chaîne (3 mètres)                        | 10  | Matériel de crochetage                | 25 |
 | Chariot (+8 emplacements, lent)          | 200 | Menottes                              | 10 |
 | Charrette (+4 emplacements, encombrante) | 30  | Miroir                                | 5  |
-| Chaussetrapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
+| Chausse-trapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
 | Cheval (+4 emplacements)                 | 75  | Pelle                                 | 5  |
 | Colle                                    | 5   | Perceuse (manuelle)                   | 10 |
 | Corde (10 mètres)                        | 5   | Perche (3 mètres)                     | 5  |
@@ -597,7 +597,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Deux poignards (d6+d6)       |
 | Tunique à capuche (1 armure) |
 | Matériel de crochetage       |
-| Chaussetrapes                |
+| Chausse-trapes                |
 | Grappin                      |
 | Lime à métaux                |
 
