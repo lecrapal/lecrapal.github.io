@@ -454,7 +454,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 <p></p>
 
-## Liste des équipements (Prix en pièces d'or) 
+## Liste des équipements (Prix en pièces d'or)  
 
 #### Armures
 
