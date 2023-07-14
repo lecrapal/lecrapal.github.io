@@ -634,7 +634,7 @@ Une sauvegarde est un jet de dé pour éviter les conséquences négatives des c
   <summary>
 Développez par exemple
  </summary>
- _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur trace soigneusement une route, sachant que sa DEX de 13 fait que se faufiler devant les gardes est la meilleure option. Elle lance un d20, et obtient un 10 - un succès !__.
+ _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur trace soigneusement une route, sachant que sa DEX de 13 fait que se faufiler devant les gardes est la meilleure option. Elle lance un d20, et obtient un 10 - un succès !_.
 </details>
 
 
@@ -728,7 +728,7 @@ Le gardien annonce les actions les plus probables des PNJ ou des monstres. Au d�
   <summary>
 Développez pour l'exemple
  </summary>
- _Bea est accidentellement tombée sur le terrain de chasse d'un énorme troll des bois. Afin de pouvoir faire un mouvement avant le Troll, elle fait une sauvegarde DEX. Elle échoue et le troll attaque en premier.
+ _Bea est accidentellement tombée sur le terrain de chasse d'un énorme troll des bois. Afin de pouvoir faire un mouvement avant le Troll, elle fait une sauvegarde DEX. Elle échoue et le troll attaque en premier._
 </details>
 
 
