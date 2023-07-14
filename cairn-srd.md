@@ -197,7 +197,7 @@ Tous les PJs commencent avec :
 - Une torche (un emplacement)
 - 3d6 pièces d'or
 
-Lancez un dé sur chacune des tables **Equipement de départ** pour déterminer l'armure, les armes, les outils et l'équipement de votre PJ. Si cela est indiqué, lancez un dé sur la table [**Livres de sorts**](#sorts-d100) avec un d100 (ou lancez 2d10, en utilisant un dé comme chiffre des unités et l'autre comme chiffre des dizaines). Ne prenez qu'un seul objet pour chaque résultat.
+Lancez un dé sur chacune des tables **Équipement de départ** pour déterminer l'armure, les armes, les outils et l'équipement de votre PJ. Si cela est indiqué, lancez un dé sur la table [**Livres de sorts**](#sorts-d100) avec un d100 (ou lancez 2d10, en utilisant un dé comme chiffre des unités et l'autre comme chiffre des dizaines). Ne prenez qu'un seul objet pour chaque résultat.
 
 Consultez la **Liste d'équipement** pour connaître les valeurs d'armure, de dégâts et d'emplacement correspondantes. Les objets plus petits peuvent parfois être regroupés dans un seul emplacement.
 
