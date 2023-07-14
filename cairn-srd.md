@@ -163,7 +163,7 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 #### Nom, antécédents et traits de caractère
 Premièrement, choisissez ou lancez le **nom** et l'**historique** de votre personnage à partir de leurs [tables respectives](#nom--historique-d20). L'historique d'un PJ renseigne sur ses connaissances et compétences potentielles.
 
-Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, discours, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-d10).
+Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, élocution, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-d10).
 
 Enfin, déterminez son **âge** (2d20+10).
 
