@@ -565,7 +565,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Robe trompeuse (+1 Armure)            |
 | Encensoir et eau bénite               |
 | Pichet de vin au miel                 |
-| Chanson folklorique                   |
+| Livre de chants folkloriques          |
 | Chariot (+4 emplacements, encombrant) |
 
 #### Chevalier
