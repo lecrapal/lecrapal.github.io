@@ -6,8 +6,6 @@ nav_order: 10
 
 # Document de référence du système Cairn (v.1.0)
 
-<p></p>
-
 **Cairn** est sous licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Parcourez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu dans d'autres [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (notamment Word, Affinity, Google Docs, etc.).
 
@@ -61,8 +59,6 @@ Le Gardien et les joueurs ont des principes qui contribuent à favoriser une exp
 La confiance que se font les joueurs leur permet de s'engager dans le contexte commun, d'atteindre les objectifs des personnages et de relever les défis du groupe. Par conséquent, le groupe travaille généralement ensemble vers un objectif commun, en équipe.
 
 [retour à l'index](#index)
-
-<p></p>
 
 ## Principes pour les Gardiens
 ### Information
@@ -121,8 +117,6 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 
 [retour à l'index](#index)
 
-<p></p>
-
 ## Principes pour les joueurs
 ### Actions
 
@@ -167,9 +161,9 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 ## Création de personnage
 
 #### Nom, antécédents et traits de caractère
-Premièrement, choisissez ou lancez le **nom** et le **historique** de votre personnage à partir de leurs [tables] respectives (#nom--historique-d20). L'historique d'un PJ renseigne sur ses connaissances et compétences potentielles.
+Premièrement, choisissez ou lancez le **nom** et l'**historique** de votre personnage à partir de leurs [tables respectives](#nom--historique-d20). L'historique d'un PJ renseigne sur ses connaissances et compétences potentielles.
 
-Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, discours, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-d10).
+Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparence, élocution, comportements, croyances, réputation, etc.) sur les tables [**traits de caractère**](#traits-d10).
 
 Enfin, déterminez son **âge** (2d20+10).
 
@@ -185,7 +179,7 @@ Développez pour l'exemple
 </details>
 
 ### Protection des coups
-Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PC n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit regarder les dégats subis sur la table [**Cicatrices**](#cicatrices-1).
+Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit regarder les dégâts subis sur la table [**Cicatrices**](#cicatrices-1).
 
 #### Inventaire
 Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
@@ -203,13 +197,11 @@ Tous les PJs commencent avec :
 - Une torche (un emplacement)
 - 3d6 pièces d'or
 
-Lancez un dé sur chacune des tables **Equipement de départ** pour déterminer l'armure, les armes, les outils et l'équipement de votre PJ. Si cela est indiqué, lancez un dé sur la table [**Livres de sorts**](#sorts-d100) avec un d100 (ou lancez 2d10, en utilisant un dé comme chiffre des unités et l'autre comme chiffre des dizaines). Ne prenez qu'un seul objet pour chaque résultat.
+Lancez un dé sur chacune des tables **Équipement de départ** pour déterminer l'armure, les armes, les outils et l'équipement de votre PJ. Si cela est indiqué, lancez un dé sur la table [**Livres de sorts**](#sorts-d100) avec un d100 (ou lancez 2d10, en utilisant un dé comme chiffre des unités et l'autre comme chiffre des dizaines). Ne prenez qu'un seul objet pour chaque résultat.
 
 Consultez la **Liste d'équipement** pour connaître les valeurs d'armure, de dégâts et d'emplacement correspondantes. Les objets plus petits peuvent parfois être regroupés dans un seul emplacement.
 
 Si vous souhaitez quelque chose de plus proche des classes traditionnelles, consultez la liste des [**Ensembles d'équipement optionnels**](#ensembles-d-equipement-optionnels).
-
-<p></p>
 
 ## Nom et historique (d20)
 
@@ -254,7 +246,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |4           |Boucher   |9          |Herboriste  |14        |Mineur    |19    |Serviteur   |
 |5           |Charpentier |10         |Chasseur     |15        |Hors-la-loi   |20    |Rôdeur    |
 
-<p></p>
 
 ## Traits (d10)
 
@@ -358,7 +349,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 4           | Condamné | 9    | Déshérité |
 | 5           | Maudit | 10   | Exilé |
 
-<p></p>
 
 ## Équipement de départ (d20)
 
@@ -395,13 +385,13 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Outils
 
-|      |               |      |                     |      |               |      |        |
-| ---- | ------------- | ---- | ------------------- | ---- | ------------- | ---- | ------ |
-| 1    | Soufflet      | 6    | Marmite             | 11   | Graisse       | 16   | Filet  |
-| 2    | Seau          | 7    | Pied-de-biche       | 12   | Marteau       | 17   | Scie   |
-| 3    | Chaussetrapes | 8    | Perceuse (manuelle) | 13   | Sablier       | 18   | Mastic |
-| 4    | Craie         | 9    | Canne à pêche       | 14   | Lime à métaux | 19   | Pelle  |
-| 5    | Burin         | 10   | Colle               | 15   | Clous         | 20   | Pinces |
+|      |                |      |                     |      |               |      |        |
+| ---- | -------------- | ---- | ------------------- | ---- | ------------- | ---- | ------ |
+| 1    | Soufflet       | 6    | Marmite             | 11   | Graisse       | 16   | Filet  |
+| 2    | Seau           | 7    | Pied-de-biche       | 12   | Marteau       | 17   | Scie   |
+| 3    | Chausse-trapes | 8    | Perceuse (manuelle) | 13   | Sablier       | 18   | Mastic |
+| 4    | Craie          | 9    | Canne à pêche       | 14   | Lime à métaux | 19   | Pelle  |
+| 5    | Burin          | 10   | Colle               | 15   | Clous         | 20   | Pinces |
 
 #### Babioles
 
@@ -420,7 +410,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |        1-5        |         6-13          |     14-17      | 18-20 |
 | Outil ou babioles | Matériel d'expédition | Armure ou Arme | Sorts |
 
-<p></p>
 
 #### 																						Sorts (d100)
 
@@ -452,9 +441,8 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 24 | Cupidité              | 49 | Illusion visuelle              | 74 | Portail            | 99  | Vision à rayons X     |
 | 25 | Déguisement           | 50 | Image miroir                   | 75 | Poussée primitive  | 100 | Vision réelle         |
 
-<p></p>
 
-## Liste des équipements (Prix en pièces d'or) 
+## Liste des équipements (Prix en pièces d'or)  
 
 #### Armures
 
@@ -480,38 +468,37 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Équipement et outils
 
-|                                          |     |                                       |    |
-| ---------------------------------------- | --- | ------------------------------------- | -- |
-| Aconit tue-loup                          | 10  | Longue-Vue                            | 40 |
-| Billes de verre                          | 5   | Loupe                                 | 10 |
-| Bottes à crampons                        | 5   | Maquillage                            | 10 |
-| Burin                                    | 5   | Marmites                              | 10 |
-| Canne à pêche                            | 10  | Marteau                               | 5  |
-| Chaîne (3 mètres)                        | 10  | Matériel de crochetage                | 25 |
-| Chariot (+8 emplacements, lent)          | 200 | Menottes                              | 10 |
-| Charrette (+4 emplacements, encombrante) | 30  | Miroir                                | 5  |
-| Chaussetrapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
-| Cheval (+4 emplacements)                 | 75  | Pelle                                 | 5  |
-| Colle                                    | 5   | Perceuse (manuelle)                   | 10 |
-| Corde (10 mètres)                        | 5   | Perche (3 mètres)                     | 5  |
-| Corne                                    | 10  | Pied-de-biche                         | 10 |
-| Craie                                    | 1   | Pioche                                | 10 |
-| Crampon                                  | 1   | Plume et encre                        | 10 |
-| Eau bénite                               | 25  | Poulie                                | 10 |
-| Échelle (encombrante, 3 mètres)          | 10  | Rations (pour 3 jours)                | 10 |
-| Encens                                   | 10  | Rouleau de lit                        | 5  |
-| Filet                                    | 10  | Sablier                               | 50 |
-| Goudron                                  | 10  | Sac                                   | 5  |
-| Graisse                                  | 10  | Sac fourre-tout                       | 5  |
-| Grand piège                              | 20  | Savon                                 | 1  |
-| Grande éponge                            | 5   | Scie                                  | 5  |
-| Grappin                                  | 25  | Seau                                  | 5  |
-| Huile                                    | 10  | Soufflet                              | 10 |
-| Lanterne et huile                        | 10  | Tente (pour 2 personnes, encombrante) | 20 |
-| Lime à métaux                            | 5   | Torche                                | 1  |
-| Livre                                    | 50  | Vessie à air                          | 5  |
+|                                           |     |                                       |    |
+| ----------------------------------------- | --- | ------------------------------------- | -- |
+| Aconit tue-loup                           | 10  | Longue-Vue                            | 40 |
+| Billes de verre                           | 5   | Loupe                                 | 10 |
+| Bottes à crampons                         | 5   | Maquillage                            | 10 |
+| Burin                                     | 5   | Marmites                              | 10 |
+| Canne à pêche                             | 10  | Marteau                               | 5  |
+| Chaîne (3 mètres)                         | 10  | Matériel de crochetage                | 25 |
+| Chariot (+8 emplacements, lent)           | 200 | Menottes                              | 10 |
+| Charrette (+4 emplacements, encombrante)  | 30  | Miroir                                | 5  |
+| Chausse-trapes                            | 10  | Mule (+6 emplacements, lente)         | 30 |
+| Cheval (+4 emplacements)                  | 75  | Pelle                                 | 5  |
+| Colle                                     | 5   | Perceuse (manuelle)                   | 10 |
+| Corde (10 mètres)                         | 5   | Perche (3 mètres)                     | 5  |
+| Corne                                     | 10  | Pied-de-biche                         | 10 |
+| Craie                                     | 1   | Pioche                                | 10 |
+| Crampon                                   | 1   | Plume et encre                        | 10 |
+| Eau bénite                                | 25  | Poulie                                | 10 |
+| Échelle (encombrante, 3 mètres)           | 10  | Rations (pour 3 jours)                | 10 |
+| Encens                                    | 10  | Rouleau de lit                        | 5  |
+| Filet                                     | 10  | Sablier                               | 50 |
+| Goudron                                   | 10  | Sac                                   | 5  |
+| Graisse                                   | 10  | Sac fourre-tout                       | 5  |
+| Grand piège                               | 20  | Savon                                 | 1  |
+| Grande éponge                             | 5   | Scie                                  | 5  |
+| Grappin                                   | 25  | Seau                                  | 5  |
+| Huile                                     | 10  | Soufflet                              | 10 |
+| Lanterne et huile                         | 10  | Tente (pour 2 personnes, encombrante) | 20 |
+| Lime à métaux                             | 5   | Torche                                | 1  |
+| Livre                                     | 50  | Vessie à air                          | 5  |
 
-<p></p>
 
 ## Ensembles d'équipement optionnels
 
@@ -578,7 +565,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Robe trompeuse (+1 Armure)            |
 | Encensoir et eau bénite               |
 | Pichet de vin au miel                 |
-| Chanson folklorique                   |
+| Livre de chants folkloriques          |
 | Chariot (+4 emplacements, encombrant) |
 
 #### Chevalier
@@ -588,7 +575,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | Épée longue (d10, encombrante)          |
 | Cotte de mailles (2 Armure, encombrant) |
 | Casque (+1 Armure)                      |
-| Cape heraldique                         |
+| Cape héraldique                         |
 | Menottes                                |
 | Corde fine                              |
 
@@ -605,14 +592,14 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Voleur
 
-|                              |
-| ---------------------------- |
-| Deux poignards (d6+d6)       |
-| Tunique à capuche (1 armure) |
-| Matériel de crochetage       |
-| Chaussetrapes                |
-| Grappin                      |
-| Lime à métaux                |
+|                               |
+| ----------------------------- |
+| Deux poignards (d6+d6)        |
+| Tunique à capuche (1 armure)  |
+| Matériel de crochetage        |
+| Chausse-trapes                |
+| Grappin                       |
+| Lime à métaux                 |
 
 #### Rôdeur
 
@@ -627,7 +614,6 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 [retour à l'index](#index)
 
-<p></p>
 
 ## Règles
 ### Caractéristiques
@@ -648,7 +634,7 @@ Une sauvegarde est un jet de dé pour éviter les conséquences négatives des c
   <summary>
 Développez par exemple
  </summary>
- _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur trace soigneusement une route, sachant que sa DEX de 13 fait que se faufiler devant les gardes est la meilleure option. Elle lance un d20, et obtient un 10 - un succès !__.
+ _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur trace soigneusement une route, sachant que sa DEX de 13 fait que se faufiler devant les gardes est la meilleure option. Elle lance un d20, et obtient un 10 - un succès !_.
 </details>
 
 
@@ -658,7 +644,7 @@ Se reposer quelques instants et boire de l'eau restaure les PC perdus mais laiss
 
 ### Epuisement & Fatigue
 
-Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PC ou ses scores de caractéristiques. Toute personne epuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
+Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PC ou ses scores de caractéristiques. Toute personne épuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
 Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
 
 ### Armure
@@ -742,7 +728,7 @@ Le gardien annonce les actions les plus probables des PNJ ou des monstres. Au d�
   <summary>
 Développez pour l'exemple
  </summary>
- _Bea est accidentellement tombée sur le terrain de chasse d'un énorme troll des bois. Afin de pouvoir faire un mouvement avant le Troll, elle fait une sauvegarde DEX. Elle échoue et le troll attaque en premier.
+ _Bea est accidentellement tombée sur le terrain de chasse d'un énorme troll des bois. Afin de pouvoir faire un mouvement avant le Troll, elle fait une sauvegarde DEX. Elle échoue et le troll attaque en premier._
 </details>
 
 
@@ -800,7 +786,7 @@ Lorsqu'un personnage meurt, le joueur est libre de créer un nouveau personnage 
 Les groupes de combattants similaires qui combattent ensemble sont traités comme un seul **détachement**. Lorsqu'un détachement subit des dégâts critiques, il est mis en déroute ou considérablement affaibli. Lorsqu'il atteint 0 FOR, il est détruit.
 
 Les attaques contre des détachements par des individus sont **atténuées** (à l'exception des dégâts explosifs).  
-Les attaques contre des individus par des détachements sont **renforcées** et infligent des dégâts de explosifs.
+Les attaques contre des individus par des détachements sont **renforcées** et infligent des dégâts explosifs.
 
 ### Retraite
 
@@ -828,7 +814,6 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 
 [retour à l'index](#index)
 
-<p></p>
 
 ## Bestiaire
 
@@ -837,7 +822,7 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 
 - Évite le combat, sauf s'ils ont l'avantage (par exemple, s'ils sont plus nombreux).
 - Garde ses biens volés jusqu'à la mort.
-- Prise les livres de sorts ; prêt à échanger
+- Prise les livres de sorts ; prêt à échanger.
 
 **Hommes encapuchonnés**  
 12 PC, 9 FOR, 12 DEX, 14 VOL, bâton runique (d8), un livre de sorts (Choisir entre : _Charme, Hypnotiser, Pousser/Tirer, Bouclier_)
@@ -860,7 +845,7 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 **Elfe des glaces**  
 14 PC, 1 Armure, 8 FOR, 13 DEX, 14 VOL, une dague de glace (d6), un livre de sorts (Choisir entre : _Sommeil, Téléportation, Détection de la magie)_.
 
-- Belle, amorale et d'une grande longévité.
+- Beau, amoral et d'une grande longévité.
 - Résistant à la plupart des formes de magie.
 
 **Épouvantard**  
@@ -879,7 +864,7 @@ X PC, X Armure, X FOR, X DEX, X VOL, Arme (dX, objets spéciaux, qualités)
 
 - Description engageante de l'apparence ou du comportement.
 - Bizarrerie, tactique ou particularité qui rend ce PNJ unique.
-- Effet spécial ou conséquence de dégâts critiques
+- Effet spécial ou conséquence de dégâts critiques.
 
 **Principes généraux**  
 Caractéristiques : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarquable, et 18 est légendaire. Ajustez si nécessaire.  
@@ -901,13 +886,12 @@ Quelques points de repère :
 - Est-ce qu'il absorbe les dégâts ? Augmentez l'armure.
 - Est-il fort ? Donnez-lui une **FOR** élevée.
 - Est-il agile ? Donnez-lui une **DEX** élevée.
-- Est-il charismatique ? Donnezz-lui une **VOL** élevée.
+- Est-il charismatique ? Donnez-lui une **VOL** élevée.
 
 Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent au moins 1d6 dégâts.
 
 [retour à l'index](#index)
 
-<p></p>
 
 ## 100 Sorts
 
@@ -1016,7 +1000,6 @@ Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent
 
 [retour à l'index](#index)
 
-<p></p>
 
 # Résumé des règles
 
@@ -1050,7 +1033,7 @@ Remplir les dix emplacements d'objets réduit un PJ à 0 PC. Les PJ ne peuvent p
 Un moment de repos et une gorgée d'eau restaurent les PC perdus, mais peuvent rendre le groupe vulnérable. La perte de **caractéristiques** nécessite une semaine de repos et l'aide d'un guérisseur compétent.
 
 **LIVRE DE SORTS**
-Les livres de sorts contiennent un seul sort et occupent un emplacement d'objet. N'importe qui peut lancer un sort en tenant un livre de sorts dans les deux mains et en lisant son contenu à haute voix. Lancer un sort ajoute **Fatigue** à l'inventaire du PJ.
+Les livres de sorts contiennent un seul sort et occupent un emplacement d'objet. N'importe qui peut lancer un sort en tenant un livre de sorts dans les deux mains et en lisant son contenu à haute voix. Lancer un sort ajoute une **Fatigue** à l'inventaire du PJ.
 
 S'ils disposent de temps et de suffisamment de sûreté, les PJ peuvent améliorer un sort sans coût supplémentaire. S'ils sont épuisés ou en danger, une sauvegarde de VOL peut être nécessaire pour éviter de terribles conséquences.
 
