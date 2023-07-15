@@ -185,7 +185,7 @@ Développez pour l'exemple
 </details>
 
 ### Protection des coups
-Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PJ n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit regarder les dégats subis sur la table [**Cicatrices**](#cicatrices-1).
+Lancez 1d6 pour déterminer la **protection des coups** (PC) de départ de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Les PC n'indiquent pas la santé ou la force morale d'un personnage ; ils ne les perdent pas non plus pendant très longtemps (voir **Guérison**). Si une attaque ramène les PC d'un PJ exactement à 0, le joueur doit regarder les dégats subis sur la table [**Cicatrices**](#cicatrices-1).
 
 #### Inventaire
 Les personnages ont un total de 10 emplacements dans leur inventaire : un sac à dos de six emplacements, un emplacement pour chaque main, et deux emplacements pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais seulement s'il est vidé de son contenu.
