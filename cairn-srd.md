@@ -9,7 +9,7 @@ nav_order: 10
 **Cairn** est sous licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Parcourez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu dans d'autres [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (notamment Word, Affinity, Google Docs, etc.).
 
-**Cairn** est un jeu d'aventure pour un médiateur (le gardien) et au moins un autre joueur.
+**Cairn** est un jeu d'aventure pour un médiateur (le Gardien) et au moins un autre joueur.
 Les joueurs jouent le rôle d'aventuriers endurcis explorant une forêt sombre et mystérieuse remplie de gens étranges, de trésors cachés et de monstruosités innommables.
 
 ## Index
@@ -29,7 +29,7 @@ Les joueurs jouent le rôle d'aventuriers endurcis explorant une forêt sombre e
 **Cairn** a été écrit avec, à l'esprit, les principes de conception suivants :
 
 ### Neutralité  
-Le rôle du gardien est de présenter clairement les règles, les situations, les PNJ et l'histoire clairement, tout en agissant comme un arbitre neutre.
+Le rôle du Gardien est de présenter clairement les règles, les situations, les PNJ et l'histoire clairement, tout en agissant comme un arbitre neutre.
 
 ### Pas de classe
 Le rôle ou les compétences d'un personnage ne sont pas limités à une seule classe. Au contraire, c'est l'équipement qu'il porte et ses expériences qui le définissent.
@@ -655,7 +655,7 @@ Les boucliers, gantelets et casques peuvent apporter des avantages supplémentai
 
 ### Réactions
 
-Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante :
+Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le Gardien peut lancer 2d6 et consulter la table suivante :
 
 ||||||
 |---------|---------|---------|--------|-----------|
@@ -718,11 +718,11 @@ Le jeu se déroule généralement sans comptabilité stricte du temps. Dans un c
 
 Pendant son tour, un personnage peut se déplacer jusqu'à 12 mètres et effectuer une action. Il peut s'agir de lancer un sort, d'attaquer, de faire un second mouvement ou toute autre action raisonnable.
 
-A chaque tour, les PJs déclarent ce qu'ils font avant de lancer les dés. Si un personnage tente quelque chose de risqué, le gardien demande une sauvegarde aux joueurs ou PNJ concernés.
+A chaque tour, les PJs déclarent ce qu'ils font avant de lancer les dés. Si un personnage tente quelque chose de risqué, le Gardien demande une sauvegarde aux joueurs ou PNJ concernés.
 
 ### Tours
 
-Le gardien annonce les actions les plus probables des PNJ ou des monstres. Au début du combat, chaque PC doit faire une sauvegarde DEX pour agir avant ses adversaires.
+Le Gardien annonce les actions les plus probables des PNJ ou des monstres. Au début du combat, chaque PC doit faire une sauvegarde DEX pour agir avant ses adversaires.
 
 <details markdown="block">
   <summary>
@@ -740,7 +740,7 @@ L'attaquant lance son dé d'arme et soustrait l'armure de la cible, puis inflige
   <summary>
 Développez pour l'exemple
  </summary>
-_Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PC. La massue fait 1d10 points de dégâts et le gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PC à Béa_.
+_Le Troll des Bois rugit et balance sa massue sur Bea, qui a 5 PC. La massue fait 1d10 points de dégâts et le Gardien obtient un 4. Il soustrait 1 pour tenir compte de l'armure de cuir de Béa, ce qui fait qu'il reste 2 PC à Béa_.
 </details>
 
 
@@ -808,7 +808,7 @@ Déterminez-les dans le tableau, en vous basant sur les dégâts totaux subis :
 | 7   | Paralysé : Vous pouvez à peine bouger jusqu'à ce que vous obteniez une aide sérieuse et que vous vous reposiez. Après avoir récupéré, lancez 3d6. Si le total est supérieur à votre DEX maximum, prenez le nouveau résultat.                                                        |
 | 8   | Assourdi : Vous ne pouvez rien entendre jusqu'à ce que vous trouviez une aide particulière. Quoi qu'il en soit, effectuez une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximum de 1d4.                                                                            |
 | 9   | Rafraîchir la mémoire : Une partie cachée de votre psyché est libérée. Lance 3d6. Si le total est plus élevé que votre VOL maximum, prenez le nouveau résultat.                                                                                                                     |
-| 10  | Estropié : Un membre est arraché, estropié ou inutile. Le gardien vous dira lequel. Ensuite, faites une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximal de 1d6.                                                                                                  |
+| 10  | Estropié : Un membre est arraché, estropié ou inutile. Le Gardien vous dira lequel. Ensuite, faites une sauvegarde de VOL. Si vous réussissez, augmentez votre VOL maximal de 1d6.                                                                                                  |
 | 11  | Blessure mortelle : Vous êtes épuisé et hors d'action. Vous mourrez dans une heure à moins d'être guéri. Lors de votre guérison, lancez 2d6. Prenez le nouveau résultat comme votre PC maximum.                                                                                     |
 | 12  | Condamné : La mort vous a semblé si proche, mais vous avez survécu. Si votre prochaine sauvegarde contre les dégâts critiques est un échec, vous mourrez de façon horrible. Si vous réussissez, lancez 3d6. Si le total est supérieur à vos PC maximum, prenez le nouveau résultat. |
 
