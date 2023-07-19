@@ -372,7 +372,7 @@ gen_data['spellbook'] = [
 ,'Portail'
 ,'Changement de gravité'
 ,'Cupidité'
-,'Hâte'
+,'Célérité'
 ,'Haine'
 ,'Entendre les murmures'
 ,'Survol'
