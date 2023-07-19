@@ -79,7 +79,7 @@ La confiance que se font les joueurs leur permet de s'engager dans le contexte c
 
 - Le monde est organique, malléable et aléatoire. Il est imprévisible et peut prendre des tournures inattendues.
 - Utilisez des tables et des générateurs aléatoires pour développer des situations, et non des histoires ou des intrigues toutes prêtes.
-- Les PNJ se souviennent de ce que les PJs disent et font, et comment ils influencent le monde.
+- Les PNJ se souviennent de ce que les PJ disent et font, et comment ils influencent le monde.
 - Les PNJ ne veulent pas mourir. Insufflez l'intérêt personnel et la volonté de vivre dans chaque personnalité.
 
 ### Accent sur la narration  
@@ -168,7 +168,7 @@ Ensuite, lancez le dé pour le reste des **traits** de votre personnage (apparen
 Enfin, déterminez son **âge** (2d20+10).
 
 #### Caractéristiques
-Les Personnages Joueurs (PJs) ont seulement trois caractéristiques :  
+Les Personnages Joueurs (PJ) ont seulement trois caractéristiques :  
 **La force (FOR)**, **la dextérité (DEX)**, et **la volonté (VOL)**. Lorsqu'il crée un PJ, le joueur doit lancer 3d6 pour chacun des scores de capacité de son personnage, dans l'ordre. Il peut ensuite échanger deux des résultats, au choix.
 
 <details markdown="block">
@@ -191,7 +191,7 @@ Les objets **encombrants** occupent deux emplacements et sont généralement por
 Un PJ ne peut pas porter plus d'objets que son inventaire ne le permet. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  Il est également possible de payer des écuyers pour porter des équipements.
 
 #### Équipement de départ
-Tous les PJs commencent avec :
+Tous les PJ commencent avec :
 
 - Trois jours de rations (un emplacement)
 - Une torche (un emplacement)
@@ -628,7 +628,7 @@ Chacune des trois **caractéristiques** est utilisée dans des circonstances dif
 
 ### Sauvegardes
 
-Une sauvegarde est un jet de dé pour éviter les conséquences négatives des choix et des circonstances risquées. Les PJs lancent un d20 pour le résultat de la caractéristique appropriée. Si le résultat est inférieur ou égal au score de la caractéristique, ils réussissent. Sinon, ils échouent. Un 1 est toujours une réussite, et un 20 est toujours un échec.
+Une sauvegarde est un jet de dé pour éviter les conséquences négatives des choix et des circonstances risquées. Les PJ lancent un d20 pour le résultat de la caractéristique appropriée. Si le résultat est inférieur ou égal au score de la caractéristique, ils réussissent. Sinon, ils échouent. Un 1 est toujours une réussite, et un 20 est toujours un échec.
 
 <details markdown="block">
   <summary>
@@ -645,7 +645,7 @@ Se reposer quelques instants et boire de l'eau restaure les PC perdus mais laiss
 ### Epuisement & Fatigue
 
 Un PJ **epuisé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PC ou ses scores de caractéristiques. Toute personne épuisée pendant plus d'un jour ajoute des **fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce que le PJ soit capable de se rétablir (comme une nuit complète de repos dans un endroit sûr).  
-Les PJs peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
+Les PJ peuvent aussi gagner de la Fatigue en **lançant des sorts** ou à travers des événements de la fiction.
 
 ### Armure
 
@@ -655,7 +655,7 @@ Les boucliers, gantelets et casques peuvent apporter des avantages supplémentai
 
 ### Réactions
 
-Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante :
+Lorsque les PJ rencontrent un PNJ dont la réaction au groupe n'est pas évidente, le gardien peut lancer 2d6 et consulter la table suivante :
 
 ||||||
 |---------|---------|---------|--------|-----------|
@@ -664,17 +664,17 @@ Lorsque les PJs rencontrent un PNJ dont la réaction au groupe n'est pas éviden
 
 ### Moral
 
-Les ennemis doivent réussir une sauvegarde de VOL pour éviter de fuir lorsqu'ils subissent leur première perte et à nouveau lorsqu'ils perdent la moitié de leurs effectifs. Certains groupes peuvent utiliser la VOL de leur chef à la place du leur. Les ennemis solitaires doivent réussir une sauvegarde lorsqu'ils sont réduits à 0 PC. Le moral n'affecte pas les PJs.
+Les ennemis doivent réussir une sauvegarde de VOL pour éviter de fuir lorsqu'ils subissent leur première perte et à nouveau lorsqu'ils perdent la moitié de leurs effectifs. Certains groupes peuvent utiliser la VOL de leur chef à la place du leur. Les ennemis solitaires doivent réussir une sauvegarde lorsqu'ils sont réduits à 0 PC. Le moral n'affecte pas les PJ.
 
 ### Mercenaires
 
-Les PJs peuvent engager des **mercenaires** pour les aider dans leurs expéditions. Pour créer un mercenaire, lancez 3d6 pour chaque score de capacité, puis donnez-lui 1d6 PC et une arme simple (d6), puis faites un jet sur les tables de [**Création de personnage**](#création-de-personnage) pour l'étoffer davantage. Les mercenaires coûtent entre 1 et 3 po par jour, ou une part de tout trésor obtenu par le groupe.
+Les PJ peuvent engager des **mercenaires** pour les aider dans leurs expéditions. Pour créer un mercenaire, lancez 3d6 pour chaque score de capacité, puis donnez-lui 1d6 PC et une arme simple (d6), puis faites un jet sur les tables de [**Création de personnage**](#création-de-personnage) pour l'étoffer davantage. Les mercenaires coûtent entre 1 et 3 po par jour, ou une part de tout trésor obtenu par le groupe.
 
 ### Richesse et trésor
 
 La pièce la plus courante est la pièce d'or (po), qui est égale à 10 pièces d'argent (pa) et 100 pièces de cuivre (pc).
 
-Les trésors ont une grande valeur, sont généralement encombrants et rarement utiles au-delà de leur valeur. Ils peuvent être un leurre, entraînant les PJs dans des lieux exotiques, voire dangereux, qui sont souvent sous la protection d'ennemis redoutables.
+Les trésors ont une grande valeur, sont généralement encombrants et rarement utiles au-delà de leur valeur. Ils peuvent être un leurre, entraînant les PJ dans des lieux exotiques, voire dangereux, qui sont souvent sous la protection d'ennemis redoutables.
 
 Les villages, les forteresses et les ports d'escale pratiquent le troc et le commerce en fonction de la rareté et de la valeur locales d'un objet ou d'une marchandise.
 
@@ -718,7 +718,7 @@ Le jeu se déroule généralement sans comptabilité stricte du temps. Dans un c
 
 Pendant son tour, un personnage peut se déplacer jusqu'à 12 mètres et effectuer une action. Il peut s'agir de lancer un sort, d'attaquer, de faire un second mouvement ou toute autre action raisonnable.
 
-A chaque tour, les PJs déclarent ce qu'ils font avant de lancer les dés. Si un personnage tente quelque chose de risqué, le gardien demande une sauvegarde aux joueurs ou PNJ concernés.
+A chaque tour, les PJ déclarent ce qu'ils font avant de lancer les dés. Si un personnage tente quelque chose de risqué, le gardien demande une sauvegarde aux joueurs ou PNJ concernés.
 
 ### Tours
 
