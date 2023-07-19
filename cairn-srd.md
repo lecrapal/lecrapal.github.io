@@ -433,7 +433,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 16 | Charme                | 41 | Glissant                       | 66 | Objet animé        | 91  | Télépathie            |
 | 17 | Chiper                | 42 | Guérison des blessures         | 67 | Œil arcanique      | 92  | Téléportation         |
 | 18 | Cible leurre          | 43 | Haine                          | 68 | Ordre              | 93  | Toc-toc               |
-| 19 | Comprendre            | 44 | Hâte                           | 69 | Ouïe fine          | 94  | Toile                 |
+| 19 | Comprendre            | 44 | Célérité                       | 69 | Ouïe fine          | 94  | Toile                 |
 | 20 | Cône de mousse        | 45 | Hypnotiser                     | 70 | Pacifier           | 95  | Toucher glacial       |
 | 21 | Contrôle de la météo  | 46 | Identification du propriétaire | 71 | Passe-miroir       | 96  | Tremblement de terre  |
 | 22 | Contrôle des végétaux | 47 | Illuminer                      | 72 | Passion des billes | 97  | Trier                 |
@@ -940,7 +940,7 @@ Les dégâts sont à peu près les mêmes, bien que les attaques armées fassent
 | 41  | Glissant                       | Chaque surface dans un rayon de 10 mètres devient sans friction et glissante.                                                                                                                  |
 | 42  | Guérison des blessures         | Restaure 1d4 FOR par jour à une créature que vous pouvez toucher.                                                                                                                              |
 | 43  | Haine                          | Une créature développe une haine profonde envers une autre créature ou un groupe et souhaite les détruire.                                                                                     |
-| 44  | Hâte                           | Votre vitesse de déplacement est triplée.                                                                                                                                                      |
+| 44  | Célérité                       | Votre vitesse de déplacement est triplée.                                                                                                                                                      |
 | 45  | Hypnotiser                     | Une créature entre en transe et répondra sincèrement à une question par oui ou par non que vous lui posez.                                                                                     |
 | 46  | Identification du propriétaire | Des lettres apparaissent sur l’objet que vous touchez, épelant le nom des propriétaires de l’objet, s’il y en a.                                                                               |
 | 47  | Illuminer                      | Une lumière flottante se déplace selon vos ordres.                                                                                                                                             |
