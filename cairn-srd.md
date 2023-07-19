@@ -515,14 +515,14 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 #### Sourcier
 
-|                                                           |
-| --------------------------------------------------------- |
-| Faucille (d6)                                             |
-| Doublet rapiécé (+1 Armure)                               |
-| Bâton de sourcier                                         |
-| Pierre oculaire (Sort : Sens, si placée dans l'eau douce) |
-| Carte usée                                                |
-| Longue-vue                                                |
+|                                                             |
+| ----------------------------------------------------------- |
+| Faucille (d6)                                               |
+| Doublet rapiécé (+1 Armure)                                 |
+| Bâton de sourcier                                           |
+| Pierre oculaire (Sort : Sentir, si placée dans l'eau douce) |
+| Carte usée                                                  |
+| Longue-vue                                                  |
 
 #### Nain
 
